@@ -1,0 +1,3782 @@
+country_or_region,date,variable,generation_twh,Month,generation_pct
+Australia,2023-04-01,Solar,2.91,4,16.54
+Australia,2023-03-01,Solar,3.46,3,17.64
+Australia,2023-02-01,Solar,3.81,2,20.59
+Australia,2023-01-01,Solar,4.21,1,21.15
+Australia,2022-12-01,Solar,4.36,12,23.18
+Australia,2022-11-01,Solar,3.83,11,21.5
+Australia,2022-10-01,Solar,3.09,10,16.86
+Australia,2022-09-01,Solar,2.74,9,14.88
+Australia,2022-08-01,Solar,2.35,8,11.7
+Australia,2022-07-01,Solar,1.96,7,9.4
+Australia,2022-06-01,Solar,1.74,6,8.68
+Australia,2022-05-01,Solar,1.8,5,9.42
+Australia,2022-04-01,Solar,2.28,4,13.01
+Australia,2022-03-01,Solar,2.87,3,14.86
+Australia,2022-02-01,Solar,3.11,2,17.23
+Australia,2022-01-01,Solar,3.49,1,17.05
+Australia,2021-12-01,Solar,3.73,12,19.4
+Australia,2021-11-01,Solar,2.76,11,15.55
+Australia,2021-10-01,Solar,2.99,10,16.5
+Australia,2021-09-01,Solar,2.52,9,14.2
+Australia,2021-08-01,Solar,2.1,8,10.89
+Australia,2021-07-01,Solar,1.57,7,7.64
+Australia,2021-06-01,Solar,1.38,6,7.07
+Australia,2021-05-01,Solar,1.68,5,8.96
+Australia,2021-04-01,Solar,2.02,4,11.48
+Australia,2021-03-01,Solar,2.29,3,12.25
+Australia,2021-02-01,Solar,2.38,2,13.62
+Australia,2021-01-01,Solar,2.75,1,14.13
+Australia,2020-12-01,Solar,2.71,12,14.26
+Australia,2020-11-01,Solar,2.66,11,14.73
+Australia,2020-10-01,Solar,2.26,10,12.75
+Australia,2020-09-01,Solar,1.94,9,11.18
+Australia,2020-08-01,Solar,1.65,8,8.53
+Australia,2020-07-01,Solar,1.31,7,6.6
+Australia,2020-06-01,Solar,1.16,6,6.13
+Australia,2020-05-01,Solar,1.35,5,7.33
+Australia,2020-04-01,Solar,1.54,4,9.06
+Australia,2020-03-01,Solar,1.84,3,9.99
+Australia,2020-02-01,Solar,1.75,2,9.46
+Australia,2020-01-01,Solar,2.04,1,10.16
+Australia,2019-12-01,Solar,2.3,12,11.73
+Australia,2019-11-01,Solar,2.08,11,11.56
+Australia,2019-10-01,Solar,1.86,10,10.34
+Australia,2019-09-01,Solar,1.62,9,9.17
+Australia,2019-08-01,Solar,1.39,8,7.1
+Australia,2019-07-01,Solar,1.08,7,5.49
+Australia,2019-06-01,Solar,0.88,6,4.62
+Australia,2019-05-01,Solar,1.01,5,5.44
+Australia,2019-04-01,Solar,1.2,4,6.99
+Australia,2019-03-01,Solar,1.35,3,7.04
+Australia,2019-02-01,Solar,1.39,2,7.78
+Australia,2019-01-01,Solar,1.61,1,7.79
+Australia,2018-12-01,Solar,1.54,12,8.15
+Australia,2018-11-01,Solar,1.39,11,7.9
+Australia,2018-10-01,Solar,1.17,10,6.6
+Australia,2018-09-01,Solar,1.07,9,6.02
+Australia,2018-08-01,Solar,0.9,8,4.61
+Australia,2018-07-01,Solar,0.69,7,3.49
+Australia,2018-06-01,Solar,0.57,6,2.96
+Australia,2018-05-01,Solar,0.63,5,3.4
+Australia,2018-04-01,Solar,0.73,4,4.2
+Australia,2018-03-01,Solar,0.84,3,4.51
+Australia,2018-02-01,Solar,0.84,2,4.74
+Australia,2018-01-01,Solar,1,1,5.01
+Australia,2017-12-01,Solar,0.99,12,5.24
+Australia,2017-11-01,Solar,0.88,11,4.94
+Australia,2017-10-01,Solar,0.79,10,4.49
+Australia,2017-09-01,Solar,0.76,9,4.28
+Australia,2017-08-01,Solar,0.29,8,1.53
+Australia,2017-07-01,Solar,0.31,7,1.59
+Australia,2017-06-01,Solar,0.44,6,2.34
+Australia,2017-05-01,Solar,0.5,5,2.73
+Australia,2017-04-01,Solar,0.6,4,3.62
+Australia,2017-03-01,Solar,0.68,3,3.59
+Australia,2017-02-01,Solar,0.75,2,4.16
+Australia,2017-01-01,Solar,0.83,1,4.2
+Australia,2016-12-01,Solar,0.83,12,4.44
+Australia,2016-11-01,Solar,0.74,11,4.17
+Australia,2016-10-01,Solar,0.66,10,3.75
+Australia,2016-09-01,Solar,0.64,9,3.6
+Australia,2016-08-01,Solar,0.39,8,2.02
+Australia,2016-07-01,Solar,0.35,7,1.78
+Australia,2016-06-01,Solar,0.37,6,1.94
+Australia,2016-05-01,Solar,0.42,5,2.31
+Australia,2016-04-01,Solar,0.5,4,2.9
+Australia,2016-03-01,Solar,0.58,3,3.06
+Australia,2016-02-01,Solar,0.62,2,3.38
+Australia,2016-01-01,Solar,0.69,1,3.63
+Australia,2015-12-01,Solar,0.7,12,3.72
+Australia,2015-11-01,Solar,0.63,11,3.57
+Australia,2015-10-01,Solar,0.52,10,2.97
+Australia,2015-09-01,Solar,0.51,9,2.92
+Australia,2015-08-01,Solar,0.29,8,1.54
+Australia,2015-07-01,Solar,0.26,7,1.31
+Australia,2015-06-01,Solar,0.28,6,1.51
+Australia,2015-05-01,Solar,0.31,5,1.7
+Australia,2015-04-01,Solar,0.37,4,2.18
+Australia,2015-03-01,Solar,0.42,3,2.29
+Australia,2015-02-01,Solar,0.44,2,2.56
+Australia,2015-01-01,Solar,0.51,1,2.71
+Brazil,2023-04-01,Solar,2.91,4,5.56
+Brazil,2023-03-01,Solar,2.96,3,5.06
+Brazil,2023-02-01,Solar,2.85,2,5.48
+Brazil,2023-01-01,Solar,2.82,1,5.13
+Brazil,2022-12-01,Solar,2.6,12,4.89
+Brazil,2022-11-01,Solar,2.41,11,4.75
+Brazil,2022-10-01,Solar,2.88,10,5.47
+Brazil,2022-09-01,Solar,2.65,9,5.25
+Brazil,2022-08-01,Solar,2.48,8,4.82
+Brazil,2022-07-01,Solar,2.21,7,4.34
+Brazil,2022-06-01,Solar,1.89,6,3.87
+Brazil,2022-05-01,Solar,1.94,5,3.79
+Brazil,2022-04-01,Solar,1.94,4,3.81
+Brazil,2022-03-01,Solar,2,3,3.55
+Brazil,2022-02-01,Solar,1.71,2,3.39
+Brazil,2022-01-01,Solar,1.77,1,3.25
+Brazil,2021-12-01,Solar,1.64,12,3.1
+Brazil,2021-11-01,Solar,1.69,11,3.32
+Brazil,2021-10-01,Solar,1.53,10,3.07
+Brazil,2021-09-01,Solar,1.86,9,3.7
+Brazil,2021-08-01,Solar,1.57,8,3.14
+Brazil,2021-07-01,Solar,1.48,7,3.04
+Brazil,2021-06-01,Solar,1.4,6,2.93
+Brazil,2021-05-01,Solar,1.35,5,2.69
+Brazil,2021-04-01,Solar,1.24,4,2.5
+Brazil,2021-03-01,Solar,1.23,3,2.26
+Brazil,2021-02-01,Solar,0.78,2,1.66
+Brazil,2021-01-01,Solar,0.98,1,1.89
+Brazil,2020-12-01,Solar,0.9,12,1.8
+Brazil,2020-11-01,Solar,0.88,11,1.89
+Brazil,2020-10-01,Solar,1,10,1.99
+Brazil,2020-09-01,Solar,1.07,9,2.25
+Brazil,2020-08-01,Solar,0.99,8,2.17
+Brazil,2020-07-01,Solar,0.94,7,2.11
+Brazil,2020-06-01,Solar,0.87,6,2.08
+Brazil,2020-05-01,Solar,0.87,5,2.07
+Brazil,2020-04-01,Solar,0.86,4,2.07
+Brazil,2020-03-01,Solar,0.82,3,1.65
+Brazil,2020-02-01,Solar,0.7,2,1.45
+Brazil,2020-01-01,Solar,0.75,1,1.46
+Brazil,2019-12-01,Solar,0.66,12,1.36
+Brazil,2019-11-01,Solar,0.62,11,1.32
+Brazil,2019-10-01,Solar,0.65,10,1.33
+Brazil,2019-09-01,Solar,0.64,9,1.4
+Brazil,2019-08-01,Solar,0.59,8,1.31
+Brazil,2019-07-01,Solar,0.52,7,1.17
+Brazil,2019-06-01,Solar,0.48,6,1.1
+Brazil,2019-05-01,Solar,0.49,5,1.05
+Brazil,2019-04-01,Solar,0.47,4,0.99
+Brazil,2019-03-01,Solar,0.49,3,0.99
+Brazil,2019-02-01,Solar,0.44,2,0.94
+Brazil,2019-01-01,Solar,0.54,1,1.02
+Brazil,2018-12-01,Solar,0.39,12,0.8
+Brazil,2018-11-01,Solar,0.32,11,0.7
+Brazil,2018-10-01,Solar,0.34,10,0.72
+Brazil,2018-09-01,Solar,0.35,9,0.79
+Brazil,2018-08-01,Solar,0.31,8,0.69
+Brazil,2018-07-01,Solar,0.32,7,0.72
+Brazil,2018-06-01,Solar,0.28,6,0.65
+Brazil,2018-05-01,Solar,0.28,5,0.63
+Brazil,2018-04-01,Solar,0.24,4,0.52
+Brazil,2018-03-01,Solar,0.24,3,0.47
+Brazil,2018-02-01,Solar,0.19,2,0.43
+Brazil,2018-01-01,Solar,0.21,1,0.42
+Chile,2023-04-01,Solar,1.34,4,20.18
+Chile,2023-03-01,Solar,1.6,3,22.07
+Chile,2023-02-01,Solar,1.49,2,22.82
+Chile,2023-01-01,Solar,1.7,1,24.08
+Chile,2022-12-01,Solar,1.64,12,22.56
+Chile,2022-11-01,Solar,1.44,11,21.21
+Chile,2022-10-01,Solar,1.37,10,20.3
+Chile,2022-09-01,Solar,1.25,9,19.03
+Chile,2022-08-01,Solar,1.08,8,15.36
+Chile,2022-07-01,Solar,0.84,7,11.62
+Chile,2022-06-01,Solar,0.84,6,11.86
+Chile,2022-05-01,Solar,1.02,5,14.29
+Chile,2022-04-01,Solar,1.08,4,16.31
+Chile,2022-03-01,Solar,1.27,3,17.81
+Chile,2022-02-01,Solar,1.27,2,19.51
+Chile,2022-01-01,Solar,1.36,1,19.35
+Chile,2021-12-01,Solar,1.3,12,18.18
+Chile,2021-11-01,Solar,1.31,11,19.47
+Chile,2021-10-01,Solar,1.2,10,17.6
+Chile,2021-09-01,Solar,0.97,9,14.81
+Chile,2021-08-01,Solar,0.81,8,11.47
+Chile,2021-07-01,Solar,0.67,7,9.4
+Chile,2021-06-01,Solar,0.59,6,8.7
+Chile,2021-05-01,Solar,0.63,5,9.16
+Chile,2021-04-01,Solar,0.73,4,11.18
+Chile,2021-03-01,Solar,0.84,3,12.03
+Chile,2021-02-01,Solar,0.81,2,13.13
+Chile,2021-01-01,Solar,0.93,1,13.72
+Chile,2020-12-01,Solar,0.94,12,13.66
+Chile,2020-11-01,Solar,0.85,11,13.36
+Chile,2020-10-01,Solar,0.82,10,12.71
+Chile,2020-09-01,Solar,0.66,9,10.7
+Chile,2020-08-01,Solar,0.57,8,8.82
+Chile,2020-07-01,Solar,0.47,7,7.26
+Chile,2020-06-01,Solar,0.38,6,5.92
+Chile,2020-05-01,Solar,0.47,5,7.31
+Chile,2020-04-01,Solar,0.54,4,8.72
+Chile,2020-03-01,Solar,0.63,3,9.32
+Chile,2020-02-01,Solar,0.63,2,9.89
+Chile,2020-01-01,Solar,0.68,1,9.99
+Chile,2019-12-01,Solar,0.74,12,10.9
+Chile,2019-11-01,Solar,0.69,11,10.94
+Chile,2019-10-01,Solar,0.65,10,10.4
+Chile,2019-09-01,Solar,0.56,9,9.18
+Chile,2019-08-01,Solar,0.5,8,7.58
+Chile,2019-07-01,Solar,0.4,7,5.87
+Chile,2019-06-01,Solar,0.36,6,5.53
+Chile,2019-05-01,Solar,0.37,5,5.61
+Chile,2019-04-01,Solar,0.44,4,7.11
+Chile,2019-03-01,Solar,0.55,3,8.3
+Chile,2019-02-01,Solar,0.52,2,8.64
+Chile,2019-01-01,Solar,0.6,1,9.13
+Chile,2018-12-01,Solar,0.63,12,9.66
+Chile,2018-11-01,Solar,0.61,11,9.67
+Chile,2018-10-01,Solar,0.56,10,8.79
+Chile,2018-09-01,Solar,0.48,9,7.91
+Chile,2018-08-01,Solar,0.41,8,6.26
+Chile,2018-07-01,Solar,0.33,7,4.93
+Chile,2018-06-01,Solar,0.31,6,4.73
+Chile,2018-05-01,Solar,0.35,5,5.38
+Chile,2018-04-01,Solar,0.39,4,6.36
+Chile,2018-03-01,Solar,0.48,3,7.33
+Chile,2018-02-01,Solar,0.43,2,7.13
+Chile,2018-01-01,Solar,0.5,1,7.6
+Chile,2017-12-01,Solar,0.47,12,7.2
+Chile,2017-11-01,Solar,0.43,11,6.97
+Chile,2017-10-01,Solar,0.42,10,6.77
+Chile,2017-09-01,Solar,0.36,9,6
+Chile,2017-08-01,Solar,0.32,8,4.97
+Chile,2017-07-01,Solar,0.26,7,4.06
+Chile,2017-06-01,Solar,0.2,6,3.21
+Chile,2017-05-01,Solar,0.22,5,3.49
+Chile,2017-04-01,Solar,0.29,4,5
+Chile,2017-03-01,Solar,0.32,3,5.2
+Chile,2017-02-01,Solar,0.31,2,5.43
+Chile,2017-01-01,Solar,0.33,1,5.21
+Chile,2016-12-01,Solar,0.33,12,5.25
+Chile,2016-11-01,Solar,0.31,11,5.16
+Chile,2016-10-01,Solar,0.29,10,4.86
+Chile,2016-09-01,Solar,0.27,9,4.61
+Chile,2016-08-01,Solar,0.22,8,3.58
+Chile,2016-07-01,Solar,0.18,7,2.88
+Chile,2016-06-01,Solar,0.14,6,2.26
+Chile,2016-05-01,Solar,0.14,5,2.25
+Chile,2016-04-01,Solar,0.15,4,2.55
+Chile,2016-03-01,Solar,0.18,3,2.8
+Chile,2016-02-01,Solar,0.17,2,2.84
+Chile,2016-01-01,Solar,0.18,1,2.91
+China,2023-04-01,Solar,43.41,4,6.2
+China,2023-03-01,Solar,45.66,3,6.01
+China,2023-02-01,Solar,34.73,2,4.89
+China,2023-01-01,Solar,34.73,1,4.89
+China,2022-12-01,Solar,30.37,12,3.83
+China,2022-11-01,Solar,29.6,11,4.24
+China,2022-10-01,Solar,35.7,10,5.14
+China,2022-09-01,Solar,37.92,9,5.3
+China,2022-08-01,Solar,38.78,8,4.52
+China,2022-07-01,Solar,39.61,7,4.72
+China,2022-06-01,Solar,38.63,6,5.2
+China,2022-05-01,Solar,38.84,5,5.74
+China,2022-04-01,Solar,39.3,4,6.12
+China,2022-03-01,Solar,35.1,3,5
+China,2022-02-01,Solar,27.82,2,4.06
+China,2022-01-01,Solar,27.82,1,4.06
+China,2021-12-01,Solar,25.76,12,3.43
+China,2021-11-01,Solar,25.91,11,3.8
+China,2021-10-01,Solar,25.07,10,3.76
+China,2021-09-01,Solar,27.92,9,3.99
+China,2021-08-01,Solar,30.62,8,4
+China,2021-07-01,Solar,30.69,7,3.9
+China,2021-06-01,Solar,30.78,6,4.31
+China,2021-05-01,Solar,31.4,5,4.61
+China,2021-04-01,Solar,27.07,4,4.15
+China,2021-03-01,Solar,26.27,3,3.84
+China,2021-02-01,Solar,22.76,2,3.53
+China,2021-01-01,Solar,22.76,1,3.53
+China,2020-12-01,Solar,19.6,12,2.61
+China,2020-11-01,Solar,18.99,11,2.86
+China,2020-10-01,Solar,22.22,10,3.51
+China,2020-09-01,Solar,23.3,9,3.56
+China,2020-08-01,Solar,24.05,8,3.21
+China,2020-07-01,Solar,23.76,7,3.38
+China,2020-06-01,Solar,23.5,6,3.61
+China,2020-05-01,Solar,25.01,5,4.08
+China,2020-04-01,Solar,25.19,4,4.39
+China,2020-03-01,Solar,23.29,3,4.07
+China,2020-02-01,Solar,16.1,2,3.04
+China,2020-01-01,Solar,16.1,1,3.04
+China,2019-12-01,Solar,16.5,12,2.44
+China,2019-11-01,Solar,16.39,11,2.68
+China,2019-10-01,Solar,18.5,10,3.12
+China,2019-09-01,Solar,20.07,9,3.29
+China,2019-08-01,Solar,21.22,8,3.08
+China,2019-07-01,Solar,21.07,7,3.11
+China,2019-06-01,Solar,20.2,6,3.35
+China,2019-05-01,Solar,21.36,5,3.68
+China,2019-04-01,Solar,20.68,4,3.67
+China,2019-03-01,Solar,20.44,3,3.46
+China,2019-02-01,Solar,13.78,2,2.43
+China,2019-01-01,Solar,13.78,1,2.43
+China,2018-12-01,Solar,12.45,12,1.94
+China,2018-11-01,Solar,14.02,11,2.44
+China,2018-10-01,Solar,15.9,10,2.85
+China,2018-09-01,Solar,15.31,9,2.67
+China,2018-08-01,Solar,16.18,8,2.43
+China,2018-07-01,Solar,16.06,7,2.43
+China,2018-06-01,Solar,16.25,6,2.82
+China,2018-05-01,Solar,15.87,5,2.8
+China,2018-04-01,Solar,15.55,4,2.91
+China,2018-03-01,Solar,15.21,3,2.77
+China,2018-02-01,Solar,12.05,2,2.23
+China,2018-01-01,Solar,12.05,1,2.23
+China,2017-12-01,Solar,9.54,12,1.62
+China,2017-11-01,Solar,10.75,11,1.99
+China,2017-10-01,Solar,10.46,10,2.03
+China,2017-09-01,Solar,10.78,9,2.03
+China,2017-08-01,Solar,10.47,8,1.74
+China,2017-07-01,Solar,10.88,7,1.78
+China,2017-06-01,Solar,10.22,6,1.94
+China,2017-05-01,Solar,10.55,5,2.1
+China,2017-04-01,Solar,9.52,4,1.97
+China,2017-03-01,Solar,9.53,3,1.82
+China,2017-02-01,Solar,7.55,2,1.59
+China,2017-01-01,Solar,7.55,1,1.59
+China,2016-12-01,Solar,5.14,12,0.95
+China,2016-11-01,Solar,5.47,11,1.07
+China,2016-10-01,Solar,5.63,10,1.14
+China,2016-09-01,Solar,6.32,9,1.27
+China,2016-08-01,Solar,6.56,8,1.15
+China,2016-07-01,Solar,6.26,7,1.12
+China,2016-06-01,Solar,5.86,6,1.18
+China,2016-05-01,Solar,5.95,5,1.25
+China,2016-04-01,Solar,5.74,4,1.26
+China,2016-03-01,Solar,5.37,3,1.11
+China,2016-02-01,Solar,4.11,2,0.93
+China,2016-01-01,Solar,4.11,1,0.93
+China,2015-12-01,Solar,4.23,12,0.84
+China,2015-11-01,Solar,4.13,11,0.87
+China,2015-10-01,Solar,5.08,10,1.12
+China,2015-09-01,Solar,4.98,9,1.08
+China,2015-08-01,Solar,5.65,8,1.08
+China,2015-07-01,Solar,5.33,7,1.03
+China,2015-06-01,Solar,4.95,6,1.02
+China,2015-05-01,Solar,5.13,5,1.1
+EU,2023-04-01,Solar,22.79,4,11.52
+EU,2023-03-01,Solar,16.88,3,7.47
+EU,2023-02-01,Solar,10.5,2,4.83
+EU,2023-01-01,Solar,5.92,1,2.53
+EU,2022-12-01,Solar,4.48,12,1.91
+EU,2022-11-01,Solar,7.36,11,3.48
+EU,2022-10-01,Solar,13.15,10,6.59
+EU,2022-09-01,Solar,17.36,9,8.77
+EU,2022-08-01,Solar,24.47,8,12
+EU,2022-07-01,Solar,26.62,7,12.56
+EU,2022-06-01,Solar,25.28,6,12.64
+EU,2022-05-01,Solar,24.67,5,12.4
+EU,2022-04-01,Solar,19.14,4,9.19
+EU,2022-03-01,Solar,16.02,3,6.83
+EU,2022-02-01,Solar,9.17,2,4.05
+EU,2022-01-01,Solar,6.1,1,2.39
+EU,2021-12-01,Solar,4.17,12,1.67
+EU,2021-11-01,Solar,5.59,11,2.4
+EU,2021-10-01,Solar,11.2,10,5.08
+EU,2021-09-01,Solar,15.12,9,7.35
+EU,2021-08-01,Solar,18.04,8,8.78
+EU,2021-07-01,Solar,20.09,7,9.4
+EU,2021-06-01,Solar,20.88,6,10.3
+EU,2021-05-01,Solar,18.74,5,9.07
+EU,2021-04-01,Solar,15.94,4,7.47
+EU,2021-03-01,Solar,13.31,3,5.62
+EU,2021-02-01,Solar,7.06,2,3.13
+EU,2021-01-01,Solar,3.86,1,1.52
+EU,2020-12-01,Solar,3.23,12,1.35
+EU,2020-11-01,Solar,5.51,11,2.47
+EU,2020-10-01,Solar,8.35,10,3.85
+EU,2020-09-01,Solar,13.61,9,6.83
+EU,2020-08-01,Solar,16.84,8,8.38
+EU,2020-07-01,Solar,18.52,7,9.06
+EU,2020-06-01,Solar,17,6,8.99
+EU,2020-05-01,Solar,17.57,5,9.24
+EU,2020-04-01,Solar,16.06,4,8.61
+EU,2020-03-01,Solar,11.41,3,5.06
+EU,2020-02-01,Solar,6.79,2,2.95
+EU,2020-01-01,Solar,4.4,1,1.76
+EU,2019-12-01,Solar,3.53,12,1.48
+EU,2019-11-01,Solar,4.2,11,1.82
+EU,2019-10-01,Solar,8.01,10,3.66
+EU,2019-09-01,Solar,11.32,9,5.55
+EU,2019-08-01,Solar,14.68,8,7.18
+EU,2019-07-01,Solar,15.5,7,7.22
+EU,2019-06-01,Solar,16.23,6,7.95
+EU,2019-05-01,Solar,13.51,5,6.35
+EU,2019-04-01,Solar,12.03,4,5.63
+EU,2019-03-01,Solar,9.95,3,4.2
+EU,2019-02-01,Solar,6.67,2,2.9
+EU,2019-01-01,Solar,3.6,1,1.36
+EU,2018-12-01,Solar,2.87,12,1.17
+EU,2018-11-01,Solar,3.78,11,1.62
+EU,2018-10-01,Solar,7.66,10,3.44
+EU,2018-09-01,Solar,11.16,9,5.36
+EU,2018-08-01,Solar,13.74,8,6.53
+EU,2018-07-01,Solar,16,7,7.39
+EU,2018-06-01,Solar,13.83,6,6.76
+EU,2018-05-01,Solar,14.28,5,6.86
+EU,2018-04-01,Solar,11.99,4,5.67
+EU,2018-03-01,Solar,7.42,3,2.94
+EU,2018-02-01,Solar,5.11,2,2.12
+EU,2018-01-01,Solar,3.2,1,1.26
+EU,2017-12-01,Solar,2.74,12,1.08
+EU,2017-11-01,Solar,3.71,11,1.57
+EU,2017-10-01,Solar,7.14,10,3.22
+EU,2017-09-01,Solar,9.28,9,4.47
+EU,2017-08-01,Solar,12.66,8,6.08
+EU,2017-07-01,Solar,13.48,7,6.33
+EU,2017-06-01,Solar,13.81,6,6.69
+EU,2017-05-01,Solar,13.23,5,6.26
+EU,2017-04-01,Solar,10.95,4,5.14
+EU,2017-03-01,Solar,8.97,3,3.78
+EU,2017-02-01,Solar,4.48,2,1.93
+EU,2017-01-01,Solar,3.39,1,1.25
+EU,2016-12-01,Solar,3.18,12,1.28
+EU,2016-11-01,Solar,3.56,11,1.52
+EU,2016-10-01,Solar,5.62,10,2.57
+EU,2016-09-01,Solar,10.06,9,4.93
+EU,2016-08-01,Solar,12.61,8,6.15
+EU,2016-07-01,Solar,13.36,7,6.35
+EU,2016-06-01,Solar,12.37,6,6.19
+EU,2016-05-01,Solar,11.92,5,5.84
+EU,2016-04-01,Solar,9.88,4,4.63
+EU,2016-03-01,Solar,7.49,3,3.16
+EU,2016-02-01,Solar,4.24,2,1.81
+EU,2016-01-01,Solar,2.84,1,1.12
+EU,2015-12-01,Solar,2.91,12,1.21
+EU,2015-11-01,Solar,4.01,11,1.74
+EU,2015-10-01,Solar,5.59,10,2.49
+EU,2015-09-01,Solar,8.93,9,4.34
+EU,2015-08-01,Solar,12.01,8,5.87
+EU,2015-07-01,Solar,13.19,7,6.13
+EU,2015-06-01,Solar,12.3,6,6.17
+EU,2015-05-01,Solar,11.85,5,5.83
+EU,2015-04-01,Solar,11.1,4,5.26
+EU,2015-03-01,Solar,7.7,3,3.21
+EU,2015-02-01,Solar,4.28,2,1.81
+EU,2015-01-01,Solar,2.62,1,1.04
+France,2023-04-01,Solar,2.07,4,5.65
+France,2023-03-01,Solar,1.61,3,3.97
+France,2023-02-01,Solar,1.28,2,3.09
+France,2023-01-01,Solar,0.72,1,1.52
+France,2022-12-01,Solar,0.6,12,1.39
+France,2022-11-01,Solar,0.82,11,2.35
+France,2022-10-01,Solar,1.26,10,4.03
+France,2022-09-01,Solar,1.72,9,6.18
+France,2022-08-01,Solar,2.28,8,8.15
+France,2022-07-01,Solar,2.58,7,8.66
+France,2022-06-01,Solar,2.12,6,6.98
+France,2022-05-01,Solar,2.25,5,7.07
+France,2022-04-01,Solar,1.56,4,4.51
+France,2022-03-01,Solar,1.21,3,2.99
+France,2022-02-01,Solar,0.87,2,1.99
+France,2022-01-01,Solar,0.68,1,1.35
+France,2021-12-01,Solar,0.5,12,1.08
+France,2021-11-01,Solar,0.6,11,1.4
+France,2021-10-01,Solar,1.12,10,2.78
+France,2021-09-01,Solar,1.31,9,3.5
+France,2021-08-01,Solar,1.68,8,4.42
+France,2021-07-01,Solar,1.66,7,4.21
+France,2021-06-01,Solar,1.56,6,4.09
+France,2021-05-01,Solar,1.5,5,3.75
+France,2021-04-01,Solar,1.44,4,3.74
+France,2021-03-01,Solar,1.23,3,2.65
+France,2021-02-01,Solar,0.64,2,1.4
+France,2021-01-01,Solar,0.46,1,0.85
+France,2020-12-01,Solar,0.34,12,0.69
+France,2020-11-01,Solar,0.63,11,1.43
+France,2020-10-01,Solar,0.74,10,1.84
+France,2020-09-01,Solar,1.18,9,3.81
+France,2020-08-01,Solar,1.46,8,4.5
+France,2020-07-01,Solar,1.67,7,4.97
+France,2020-06-01,Solar,1.38,6,4.17
+France,2020-05-01,Solar,1.55,5,4.25
+France,2020-04-01,Solar,1.29,4,3.6
+France,2020-03-01,Solar,1.05,3,2.25
+France,2020-02-01,Solar,0.69,2,1.4
+France,2020-01-01,Solar,0.46,1,0.87
+France,2019-12-01,Solar,0.39,12,0.79
+France,2019-11-01,Solar,0.41,11,0.93
+France,2019-10-01,Solar,0.69,10,1.74
+France,2019-09-01,Solar,1.11,9,3.02
+France,2019-08-01,Solar,1.37,8,3.74
+France,2019-07-01,Solar,1.54,7,3.91
+France,2019-06-01,Solar,1.36,6,3.48
+France,2019-05-01,Solar,1.28,5,3.02
+France,2019-04-01,Solar,1.08,4,2.6
+France,2019-03-01,Solar,1.04,3,2.13
+France,2019-02-01,Solar,0.73,2,1.5
+France,2019-01-01,Solar,0.41,1,0.76
+France,2018-12-01,Solar,0.33,12,0.64
+France,2018-11-01,Solar,0.42,11,0.94
+France,2018-10-01,Solar,0.72,10,1.76
+France,2018-09-01,Solar,1.08,9,2.85
+France,2018-08-01,Solar,1.23,8,3.41
+France,2018-07-01,Solar,1.33,7,3.31
+France,2018-06-01,Solar,1.14,6,2.9
+France,2018-05-01,Solar,1.06,5,2.56
+France,2018-04-01,Solar,0.92,4,2.22
+France,2018-03-01,Solar,0.7,3,1.38
+France,2018-02-01,Solar,0.49,2,0.94
+France,2018-01-01,Solar,0.3,1,0.55
+France,2017-12-01,Solar,0.28,12,0.54
+France,2017-11-01,Solar,0.42,11,0.97
+France,2017-10-01,Solar,0.67,10,1.74
+France,2017-09-01,Solar,0.77,9,2.04
+France,2017-08-01,Solar,1,8,2.76
+France,2017-07-01,Solar,1.04,7,2.74
+France,2017-06-01,Solar,1.1,6,3.02
+France,2017-05-01,Solar,1.06,5,2.63
+France,2017-04-01,Solar,1.03,4,2.48
+France,2017-03-01,Solar,0.71,3,1.47
+France,2017-02-01,Solar,0.44,2,0.94
+France,2017-01-01,Solar,0.37,1,0.66
+France,2016-12-01,Solar,0.33,12,0.66
+France,2016-11-01,Solar,0.34,11,0.77
+France,2016-10-01,Solar,0.57,10,1.48
+France,2016-09-01,Solar,0.79,9,2.22
+France,2016-08-01,Solar,1.02,8,2.91
+France,2016-07-01,Solar,1.05,7,2.81
+France,2016-06-01,Solar,0.88,6,2.28
+France,2016-05-01,Solar,0.91,5,2.32
+France,2016-04-01,Solar,0.77,4,1.84
+France,2016-03-01,Solar,0.65,3,1.29
+France,2016-02-01,Solar,0.4,2,0.8
+France,2016-01-01,Solar,0.27,1,0.5
+France,2015-12-01,Solar,0.28,12,0.56
+France,2015-11-01,Solar,0.35,11,0.76
+France,2015-10-01,Solar,0.5,10,1.15
+France,2015-09-01,Solar,0.67,9,1.77
+France,2015-08-01,Solar,0.81,8,2.13
+France,2015-07-01,Solar,0.89,7,2.18
+France,2015-06-01,Solar,0.89,6,2.28
+France,2015-05-01,Solar,0.8,5,2.02
+France,2015-04-01,Solar,0.74,4,1.83
+France,2015-03-01,Solar,0.52,3,1.05
+France,2015-02-01,Solar,0.35,2,0.69
+France,2015-01-01,Solar,0.24,1,0.42
+Germany,2023-04-01,Solar,5.8,4,14.87
+Germany,2023-03-01,Solar,4.03,3,8.61
+Germany,2023-02-01,Solar,2.53,2,5.62
+Germany,2023-01-01,Solar,0.85,1,1.9
+Germany,2022-12-01,Solar,0.7,12,1.43
+Germany,2022-11-01,Solar,1.88,11,4.02
+Germany,2022-10-01,Solar,3.96,10,9
+Germany,2022-09-01,Solar,5.34,9,12.14
+Germany,2022-08-01,Solar,8.11,8,18.52
+Germany,2022-07-01,Solar,8.8,7,19.5
+Germany,2022-06-01,Solar,8.61,6,20.54
+Germany,2022-05-01,Solar,8.19,5,18.78
+Germany,2022-04-01,Solar,6.22,4,13.63
+Germany,2022-03-01,Solar,6.12,3,12.38
+Germany,2022-02-01,Solar,2.49,2,4.95
+Germany,2022-01-01,Solar,1.09,1,2.1
+Germany,2021-12-01,Solar,0.8,12,1.59
+Germany,2021-11-01,Solar,1.24,11,2.53
+Germany,2021-10-01,Solar,3.59,10,7.4
+Germany,2021-09-01,Solar,5.35,9,12.02
+Germany,2021-08-01,Solar,5.87,8,13.93
+Germany,2021-07-01,Solar,6.95,7,16.25
+Germany,2021-06-01,Solar,7.93,6,18.69
+Germany,2021-05-01,Solar,6.56,5,15.17
+Germany,2021-04-01,Solar,6.08,4,13.16
+Germany,2021-03-01,Solar,4.6,3,9.29
+Germany,2021-02-01,Solar,2.22,2,4.94
+Germany,2021-01-01,Solar,0.68,1,1.34
+Germany,2020-12-01,Solar,0.7,12,1.46
+Germany,2020-11-01,Solar,1.7,11,3.54
+Germany,2020-10-01,Solar,2.4,10,4.93
+Germany,2020-09-01,Solar,5.1,9,11.87
+Germany,2020-08-01,Solar,6.1,8,14.28
+Germany,2020-07-01,Solar,6.9,7,16.55
+Germany,2020-06-01,Solar,6.4,6,16.12
+Germany,2020-05-01,Solar,6.9,5,17.72
+Germany,2020-04-01,Solar,7,4,17.68
+Germany,2020-03-01,Solar,4.5,3,9.48
+Germany,2020-02-01,Solar,1.9,2,3.88
+Germany,2020-01-01,Solar,1.2,1,2.36
+Germany,2019-12-01,Solar,1,12,2
+Germany,2019-11-01,Solar,1.5,11,3.01
+Germany,2019-10-01,Solar,2.9,10,5.88
+Germany,2019-09-01,Solar,4.4,9,10.02
+Germany,2019-08-01,Solar,5.8,8,13.68
+Germany,2019-07-01,Solar,6.2,7,14.07
+Germany,2019-06-01,Solar,7,6,17.04
+Germany,2019-05-01,Solar,5.6,5,12.49
+Germany,2019-04-01,Solar,5.3,4,11.05
+Germany,2019-03-01,Solar,3.5,3,6.7
+Germany,2019-02-01,Solar,2.3,2,4.58
+Germany,2019-01-01,Solar,0.9,1,1.57
+Germany,2018-12-01,Solar,0.59,12,1.11
+Germany,2018-11-01,Solar,1.32,11,2.55
+Germany,2018-10-01,Solar,3.09,10,5.99
+Germany,2018-09-01,Solar,4.57,9,9.63
+Germany,2018-08-01,Solar,5.83,8,11.98
+Germany,2018-07-01,Solar,6.93,7,14.22
+Germany,2018-06-01,Solar,6,6,13.19
+Germany,2018-05-01,Solar,6.66,5,14.47
+Germany,2018-04-01,Solar,5.43,4,11.4
+Germany,2018-03-01,Solar,2.94,3,5.3
+Germany,2018-02-01,Solar,2,2,3.82
+Germany,2018-01-01,Solar,0.8,1,1.45
+Germany,2017-12-01,Solar,0.55,12,0.97
+Germany,2017-11-01,Solar,0.93,11,1.72
+Germany,2017-10-01,Solar,2.38,10,4.54
+Germany,2017-09-01,Solar,3.44,9,7.31
+Germany,2017-08-01,Solar,5.14,8,11.15
+Germany,2017-07-01,Solar,5.46,7,12
+Germany,2017-06-01,Solar,5.99,6,12.73
+Germany,2017-05-01,Solar,5.71,5,11.74
+Germany,2017-04-01,Solar,4.3,4,8.78
+Germany,2017-03-01,Solar,3.51,3,6.63
+Germany,2017-02-01,Solar,1.61,2,3.12
+Germany,2017-01-01,Solar,0.87,1,1.48
+Germany,2016-12-01,Solar,0.88,12,1.58
+Germany,2016-11-01,Solar,1.13,11,2.07
+Germany,2016-10-01,Solar,1.86,10,3.59
+Germany,2016-09-01,Solar,4.27,9,8.99
+Germany,2016-08-01,Solar,5.23,8,11.17
+Germany,2016-07-01,Solar,5.67,7,12.24
+Germany,2016-06-01,Solar,5.29,6,12.02
+Germany,2016-05-01,Solar,5.23,5,11.34
+Germany,2016-04-01,Solar,4.01,4,8.3
+Germany,2016-03-01,Solar,2.77,3,5.19
+Germany,2016-02-01,Solar,1.36,2,2.57
+Germany,2016-01-01,Solar,0.71,1,1.25
+Germany,2015-12-01,Solar,0.95,12,1.75
+Germany,2015-11-01,Solar,1.27,11,2.34
+Germany,2015-10-01,Solar,2.17,10,4.18
+Germany,2015-09-01,Solar,3.6,9,7.27
+Germany,2015-08-01,Solar,5.14,8,11.08
+Germany,2015-07-01,Solar,5.48,7,11.5
+Germany,2015-06-01,Solar,5.07,6,11.29
+Germany,2015-05-01,Solar,4.91,5,11.07
+Germany,2015-04-01,Solar,4.93,4,10.24
+Germany,2015-03-01,Solar,3.12,3,5.84
+Germany,2015-02-01,Solar,1.49,2,2.95
+Germany,2015-01-01,Solar,0.61,1,1.11
+India,2023-03-01,Solar,10.24,3,7.46
+India,2023-02-01,Solar,9.56,2,7.52
+India,2023-01-01,Solar,9.29,1,6.82
+India,2022-12-01,Solar,8.21,12,6.27
+India,2022-11-01,Solar,7.98,11,6.56
+India,2022-10-01,Solar,8.73,10,7.11
+India,2022-09-01,Solar,8.21,9,6.05
+India,2022-08-01,Solar,7.43,8,5.37
+India,2022-07-01,Solar,6.97,7,5.09
+India,2022-06-01,Solar,8.26,6,5.78
+India,2022-05-01,Solar,8.83,5,6.06
+India,2022-04-01,Solar,8.32,4,5.87
+India,2022-03-01,Solar,8.34,3,5.98
+India,2022-02-01,Solar,7.28,2,6.19
+India,2022-01-01,Solar,6.61,1,5.46
+India,2021-12-01,Solar,5.86,12,4.93
+India,2021-11-01,Solar,5.01,11,4.65
+India,2021-10-01,Solar,6.23,10,5.14
+India,2021-09-01,Solar,5.41,9,4.45
+India,2021-08-01,Solar,5.45,8,3.99
+India,2021-07-01,Solar,5.17,7,3.87
+India,2021-06-01,Solar,6.01,6,4.91
+India,2021-05-01,Solar,5.99,5,5.09
+India,2021-04-01,Solar,6.12,4,4.82
+India,2021-03-01,Solar,6.75,3,5.14
+India,2021-02-01,Solar,5.44,2,4.84
+India,2021-01-01,Solar,4.87,1,4.06
+India,2020-12-01,Solar,4.75,12,4.12
+India,2020-11-01,Solar,4.59,11,4.35
+India,2020-10-01,Solar,4.88,10,4.15
+India,2020-09-01,Solar,4.55,9,3.79
+India,2020-08-01,Solar,4.26,8,3.63
+India,2020-07-01,Solar,4.64,7,3.87
+India,2020-06-01,Solar,4.71,6,4.17
+India,2020-05-01,Solar,5.61,5,5.13
+India,2020-04-01,Solar,5.35,4,5.85
+India,2020-03-01,Solar,5.61,3,5.23
+India,2020-02-01,Solar,5.09,2,4.54
+India,2020-01-01,Solar,4.61,1,4.06
+India,2019-12-01,Solar,3.93,12,3.58
+India,2019-11-01,Solar,3.94,11,3.87
+India,2019-10-01,Solar,3.87,10,3.66
+India,2019-09-01,Solar,3.57,9,3.11
+India,2019-08-01,Solar,3.58,8,2.98
+India,2019-07-01,Solar,3.43,7,2.77
+India,2019-06-01,Solar,3.92,6,3.1
+India,2019-05-01,Solar,4.33,5,3.35
+India,2019-04-01,Solar,4.17,4,3.51
+India,2019-03-01,Solar,4.31,3,3.69
+India,2019-02-01,Solar,3.63,2,3.6
+India,2019-01-01,Solar,3.53,1,3.2
+Italy,2023-04-01,Solar,3.08,4,17.3
+Italy,2023-03-01,Solar,2.63,3,12.53
+Italy,2023-02-01,Solar,1.72,2,8.87
+Italy,2023-01-01,Solar,1.09,1,5.36
+Italy,2022-12-01,Solar,0.83,12,3.9
+Italy,2022-11-01,Solar,1.21,11,6.14
+Italy,2022-10-01,Solar,2.1,10,11.23
+Italy,2022-09-01,Solar,2.42,9,11.43
+Italy,2022-08-01,Solar,3.15,8,14.02
+Italy,2022-07-01,Solar,3.5,7,13.87
+Italy,2022-06-01,Solar,3.24,6,14.46
+Italy,2022-05-01,Solar,3.12,5,18.41
+Italy,2022-04-01,Solar,2.86,4,14.36
+Italy,2022-03-01,Solar,2.33,3,10.07
+Italy,2022-02-01,Solar,1.71,2,8.1
+Italy,2022-01-01,Solar,1.28,1,5.33
+Italy,2021-12-01,Solar,0.91,12,3.75
+Italy,2021-11-01,Solar,0.93,11,3.99
+Italy,2021-10-01,Solar,1.79,10,8.48
+Italy,2021-09-01,Solar,2.34,9,10.76
+Italy,2021-08-01,Solar,2.93,8,13.28
+Italy,2021-07-01,Solar,2.94,7,11.91
+Italy,2021-06-01,Solar,3,6,13.38
+Italy,2021-05-01,Solar,3,5,14.95
+Italy,2021-04-01,Solar,2.42,4,11.8
+Italy,2021-03-01,Solar,2.42,3,11.36
+Italy,2021-02-01,Solar,1.47,2,7.59
+Italy,2021-01-01,Solar,0.91,1,4
+Italy,2020-12-01,Solar,0.74,12,3.39
+Italy,2020-11-01,Solar,1.19,11,5.9
+Italy,2020-10-01,Solar,1.83,10,8.8
+Italy,2020-09-01,Solar,2.35,9,10.09
+Italy,2020-08-01,Solar,2.86,8,12.09
+Italy,2020-07-01,Solar,3.21,7,13.02
+Italy,2020-06-01,Solar,2.86,6,12.76
+Italy,2020-05-01,Solar,2.8,5,13.73
+Italy,2020-04-01,Solar,2.7,4,14.76
+Italy,2020-03-01,Solar,2.03,3,10.71
+Italy,2020-02-01,Solar,1.74,2,8.38
+Italy,2020-01-01,Solar,1.22,1,5.26
+Italy,2019-12-01,Solar,0.88,12,4.14
+Italy,2019-11-01,Solar,0.87,11,4.02
+Italy,2019-10-01,Solar,1.67,10,7.72
+Italy,2019-09-01,Solar,2.16,9,9.44
+Italy,2019-08-01,Solar,2.68,8,11.35
+Italy,2019-07-01,Solar,2.86,7,10.62
+Italy,2019-06-01,Solar,2.93,6,12.35
+Italy,2019-05-01,Solar,2.3,5,10.68
+Italy,2019-04-01,Solar,2.14,4,10.18
+Italy,2019-03-01,Solar,2.28,3,10.3
+Italy,2019-02-01,Solar,1.55,2,7.32
+Italy,2019-01-01,Solar,1.02,1,4.17
+Italy,2018-12-01,Solar,0.89,12,4.14
+Italy,2018-11-01,Solar,0.86,11,3.75
+Italy,2018-10-01,Solar,1.48,10,6.68
+Italy,2018-09-01,Solar,2.25,9,9.69
+Italy,2018-08-01,Solar,2.59,8,11.13
+Italy,2018-07-01,Solar,2.95,7,11.66
+Italy,2018-06-01,Solar,2.76,6,12.05
+Italy,2018-05-01,Solar,2.45,5,11.1
+Italy,2018-04-01,Solar,2.37,4,11.84
+Italy,2018-03-01,Solar,1.57,3,6.93
+Italy,2018-02-01,Solar,0.99,2,4.69
+Italy,2018-01-01,Solar,0.97,1,4.39
+Italy,2017-12-01,Solar,0.86,12,3.76
+Italy,2017-11-01,Solar,0.99,11,4.28
+Italy,2017-10-01,Solar,1.78,10,8.11
+Italy,2017-09-01,Solar,2.04,9,9.45
+Italy,2017-08-01,Solar,2.79,8,11.96
+Italy,2017-07-01,Solar,3.01,7,11.89
+Italy,2017-06-01,Solar,2.87,6,11.97
+Italy,2017-05-01,Solar,2.79,5,12.7
+Italy,2017-04-01,Solar,2.44,4,12.04
+Italy,2017-03-01,Solar,2.21,3,10.49
+Italy,2017-02-01,Solar,1.13,2,5.31
+Italy,2017-01-01,Solar,0.95,1,3.65
+Italy,2016-12-01,Solar,0.91,12,3.73
+Italy,2016-11-01,Solar,0.91,11,3.9
+Italy,2016-10-01,Solar,1.4,10,6.37
+Italy,2016-09-01,Solar,1.99,9,8.72
+Italy,2016-08-01,Solar,2.67,8,12.34
+Italy,2016-07-01,Solar,2.79,7,11.38
+Italy,2016-06-01,Solar,2.56,6,11.81
+Italy,2016-05-01,Solar,2.48,5,11.72
+Italy,2016-04-01,Solar,2.2,4,11.08
+Italy,2016-03-01,Solar,1.73,3,8.17
+Italy,2016-02-01,Solar,1.07,2,5.26
+Italy,2016-01-01,Solar,0.92,1,4.19
+Japan,2023-03-01,Solar,9.26,3,12.55
+Japan,2023-02-01,Solar,6.96,2,8.76
+Japan,2023-01-01,Solar,6.22,1,7.02
+Japan,2022-12-01,Solar,5.77,12,6.73
+Japan,2022-11-01,Solar,7.54,11,10.68
+Japan,2022-10-01,Solar,8.17,10,11.48
+Japan,2022-09-01,Solar,8.85,9,11.29
+Japan,2022-08-01,Solar,9.87,8,11.19
+Japan,2022-07-01,Solar,9.96,7,11.46
+Japan,2022-06-01,Solar,10.38,6,13.8
+Japan,2022-05-01,Solar,10.8,5,15.74
+Japan,2022-04-01,Solar,10.2,4,14.47
+Japan,2022-03-01,Solar,8.55,3,10.61
+Japan,2022-02-01,Solar,6.47,2,7.52
+Japan,2022-01-01,Solar,5.83,1,6.2
+Japan,2021-12-01,Solar,5.74,12,6.56
+Japan,2021-11-01,Solar,6.9,11,9.24
+Japan,2021-10-01,Solar,7.72,10,10.31
+Japan,2021-09-01,Solar,7.48,9,9.95
+Japan,2021-08-01,Solar,9.01,8,10.37
+Japan,2021-07-01,Solar,8.61,7,10.07
+Japan,2021-06-01,Solar,8.95,6,12.24
+Japan,2021-05-01,Solar,9.44,5,13.43
+Japan,2021-04-01,Solar,9.58,4,13.51
+Japan,2021-03-01,Solar,7.81,3,10
+Japan,2021-02-01,Solar,6.13,2,7.8
+Japan,2021-01-01,Solar,5.03,1,5.46
+Japan,2020-12-01,Solar,5.15,12,5.92
+Japan,2020-11-01,Solar,6.26,11,8.69
+Japan,2020-10-01,Solar,6.42,10,9.11
+Japan,2020-09-01,Solar,7.57,9,9.79
+Japan,2020-08-01,Solar,8.34,8,9.41
+Japan,2020-07-01,Solar,6.45,7,8.35
+Japan,2020-06-01,Solar,8.33,6,11.76
+Japan,2020-05-01,Solar,9.1,5,14.12
+Japan,2020-04-01,Solar,8.24,4,11.86
+Japan,2020-03-01,Solar,6.43,3,8.23
+Japan,2020-02-01,Solar,5.07,2,6.29
+Japan,2020-01-01,Solar,4.14,1,4.85
+Japan,2019-12-01,Solar,4.13,12,4.95
+Japan,2019-11-01,Solar,5.35,11,7.33
+Japan,2019-10-01,Solar,5.81,10,7.96
+Japan,2019-09-01,Solar,6.35,9,8.03
+Japan,2019-08-01,Solar,7.09,8,8.01
+Japan,2019-07-01,Solar,6.05,7,7.37
+Japan,2019-06-01,Solar,7.51,6,10.34
+Japan,2019-05-01,Solar,8.42,5,11.92
+Japan,2019-04-01,Solar,7.22,4,9.94
+Japan,2019-03-01,Solar,5.41,3,6.74
+Japan,2019-02-01,Solar,4.29,2,5.32
+Japan,2019-01-01,Solar,4.02,1,4.48
+Japan,2018-12-01,Solar,3.61,12,4.2
+Japan,2018-11-01,Solar,4.8,11,6.47
+Japan,2018-10-01,Solar,4.71,10,6.45
+Japan,2018-09-01,Solar,5.41,9,7.07
+Japan,2018-08-01,Solar,7.08,8,7.78
+Japan,2018-07-01,Solar,6.34,7,6.95
+Japan,2018-06-01,Solar,6.39,6,8.51
+Japan,2018-05-01,Solar,6.78,5,9.37
+Japan,2018-04-01,Solar,6.37,4,9
+Netherlands,2023-02-01,Solar,0.69,2,7.29
+Netherlands,2023-01-01,Solar,0.34,1,3.42
+Netherlands,2022-12-01,Solar,0.29,12,2.74
+Netherlands,2022-11-01,Solar,0.49,11,5.55
+Netherlands,2022-10-01,Solar,0.98,10,10.54
+Netherlands,2022-09-01,Solar,1.53,9,16.54
+Netherlands,2022-08-01,Solar,2.45,8,24.48
+Netherlands,2022-07-01,Solar,2.62,7,26.31
+Netherlands,2022-06-01,Solar,2.65,6,25.85
+Netherlands,2022-05-01,Solar,2.45,5,26.92
+Netherlands,2022-04-01,Solar,1.87,4,20.62
+Netherlands,2022-03-01,Solar,1.5,3,14.35
+Netherlands,2022-02-01,Solar,0.57,2,6.14
+Netherlands,2022-01-01,Solar,0.27,1,2.52
+Netherlands,2021-12-01,Solar,0.18,12,1.64
+Netherlands,2021-11-01,Solar,0.3,11,2.88
+Netherlands,2021-10-01,Solar,0.65,10,6.97
+Netherlands,2021-09-01,Solar,1.14,9,13.19
+Netherlands,2021-08-01,Solar,1.42,8,16.82
+Netherlands,2021-07-01,Solar,1.61,7,16.91
+Netherlands,2021-06-01,Solar,1.83,6,21.35
+Netherlands,2021-05-01,Solar,1.51,5,17
+Netherlands,2021-04-01,Solar,1.36,4,14.45
+Netherlands,2021-03-01,Solar,0.85,3,7.58
+Netherlands,2021-02-01,Solar,0.45,2,4.28
+Netherlands,2021-01-01,Solar,0.2,1,1.78
+Netherlands,2020-12-01,Solar,0.13,12,1.24
+Netherlands,2020-11-01,Solar,0.26,11,2.57
+Netherlands,2020-10-01,Solar,0.37,10,3.65
+Netherlands,2020-09-01,Solar,0.84,9,8.52
+Netherlands,2020-08-01,Solar,1.15,8,10.71
+Netherlands,2020-07-01,Solar,1.18,7,11.29
+Netherlands,2020-06-01,Solar,1.21,6,13.61
+Netherlands,2020-05-01,Solar,1.36,5,14.77
+Netherlands,2020-04-01,Solar,1.09,4,13.59
+Netherlands,2020-03-01,Solar,0.65,3,6.78
+Netherlands,2020-02-01,Solar,0.22,2,2.22
+Netherlands,2020-01-01,Solar,0.11,1,0.99
+Netherlands,2019-12-01,Solar,0.11,12,1.06
+Netherlands,2019-11-01,Solar,0.15,11,1.39
+Netherlands,2019-10-01,Solar,0.28,10,2.67
+Netherlands,2019-09-01,Solar,0.49,9,5.52
+Netherlands,2019-08-01,Solar,0.76,8,8.61
+Netherlands,2019-07-01,Solar,0.83,7,9.2
+Netherlands,2019-06-01,Solar,0.86,6,10.79
+Netherlands,2019-05-01,Solar,0.73,5,7.83
+Netherlands,2019-04-01,Solar,0.61,4,7.05
+Netherlands,2019-03-01,Solar,0.31,3,2.97
+Netherlands,2019-02-01,Solar,0.19,2,1.87
+Netherlands,2019-01-01,Solar,0.08,1,0.69
+Netherlands,2018-12-01,Solar,0.06,12,0.59
+Netherlands,2018-11-01,Solar,0.11,11,1.11
+Netherlands,2018-10-01,Solar,0.24,10,2.42
+Netherlands,2018-09-01,Solar,0.35,9,4.01
+Netherlands,2018-08-01,Solar,0.47,8,5.4
+Netherlands,2018-07-01,Solar,0.67,7,7.51
+Netherlands,2018-06-01,Solar,0.51,6,6.62
+Netherlands,2018-05-01,Solar,0.56,5,7.7
+Netherlands,2018-04-01,Solar,0.34,4,4.29
+Netherlands,2018-03-01,Solar,0.21,3,2.14
+Netherlands,2018-02-01,Solar,0.14,2,1.38
+Netherlands,2018-01-01,Solar,0.05,1,0.48
+Netherlands,2017-12-01,Solar,0.04,12,0.37
+Netherlands,2017-11-01,Solar,0.09,11,0.84
+Netherlands,2017-10-01,Solar,0.17,10,1.71
+Netherlands,2017-09-01,Solar,0.24,9,2.92
+Netherlands,2017-08-01,Solar,0.31,8,3.95
+Netherlands,2017-07-01,Solar,0.27,7,3
+Netherlands,2017-06-01,Solar,0.26,6,3.21
+Netherlands,2017-05-01,Solar,0.26,5,3.28
+Netherlands,2017-04-01,Solar,0.24,4,2.76
+Netherlands,2017-03-01,Solar,0.18,3,1.87
+Netherlands,2017-02-01,Solar,0.07,2,0.71
+Netherlands,2017-01-01,Solar,0.07,1,0.61
+Netherlands,2016-12-01,Solar,0.04,12,0.36
+Netherlands,2016-11-01,Solar,0.05,11,0.47
+Netherlands,2016-10-01,Solar,0.09,10,0.86
+Netherlands,2016-09-01,Solar,0.18,9,1.95
+Netherlands,2016-08-01,Solar,0.2,8,2.4
+Netherlands,2016-07-01,Solar,0.2,7,2.62
+Netherlands,2016-06-01,Solar,0.17,6,2.28
+Netherlands,2016-05-01,Solar,0.22,5,2.84
+Netherlands,2016-04-01,Solar,0.19,4,2.28
+Netherlands,2016-03-01,Solar,0.12,3,1.26
+Netherlands,2016-02-01,Solar,0.08,2,0.87
+Netherlands,2016-01-01,Solar,0.04,1,0.4
+Netherlands,2015-12-01,Solar,0.03,12,0.3
+Netherlands,2015-11-01,Solar,0.04,11,0.42
+Netherlands,2015-10-01,Solar,0.06,10,0.61
+Netherlands,2015-09-01,Solar,0.13,9,1.47
+Netherlands,2015-08-01,Solar,0.14,8,1.86
+Netherlands,2015-07-01,Solar,0.14,7,1.76
+Netherlands,2015-06-01,Solar,0.12,6,1.75
+Netherlands,2015-05-01,Solar,0.15,5,2.1
+Netherlands,2015-04-01,Solar,0.13,4,1.6
+Netherlands,2015-03-01,Solar,0.09,3,0.98
+Netherlands,2015-02-01,Solar,0.06,2,0.65
+Netherlands,2015-01-01,Solar,0.03,1,0.29
+Poland,2023-04-01,Solar,1.31,4,10.96
+Poland,2023-03-01,Solar,0.89,3,6.57
+Poland,2023-02-01,Solar,0.31,2,2.44
+Poland,2023-01-01,Solar,0.12,1,0.86
+Poland,2022-12-01,Solar,0.19,12,1.31
+Poland,2022-11-01,Solar,0.25,11,1.85
+Poland,2022-10-01,Solar,0.61,10,4.7
+Poland,2022-09-01,Solar,0.75,9,6.12
+Poland,2022-08-01,Solar,1.09,8,8.59
+Poland,2022-07-01,Solar,1.14,7,9.09
+Poland,2022-06-01,Solar,1.19,6,9.59
+Poland,2022-05-01,Solar,1.05,5,8.13
+Poland,2022-04-01,Solar,0.7,4,5.22
+Poland,2022-03-01,Solar,0.74,3,5.05
+Poland,2022-02-01,Solar,0.24,2,1.81
+Poland,2022-01-01,Solar,0.1,1,0.67
+Poland,2021-12-01,Solar,0.06,12,0.39
+Poland,2021-11-01,Solar,0.13,11,0.91
+Poland,2021-10-01,Solar,0.36,10,2.58
+Poland,2021-09-01,Solar,0.43,9,3.17
+Poland,2021-08-01,Solar,0.46,8,3.57
+Poland,2021-07-01,Solar,0.55,7,4.2
+Poland,2021-06-01,Solar,0.63,6,5.18
+Poland,2021-05-01,Solar,0.47,5,3.91
+Poland,2021-04-01,Solar,0.36,4,2.91
+Poland,2021-03-01,Solar,0.24,3,1.84
+Poland,2021-02-01,Solar,0.11,2,0.87
+Poland,2021-01-01,Solar,0.03,1,0.21
+Poland,2020-12-01,Solar,0.05,12,0.37
+Poland,2020-11-01,Solar,0.06,11,0.48
+Poland,2020-10-01,Solar,0.12,10,0.97
+Poland,2020-09-01,Solar,0.24,9,2.1
+Poland,2020-08-01,Solar,0.28,8,2.52
+Poland,2020-07-01,Solar,0.28,7,2.55
+Poland,2020-06-01,Solar,0.23,6,2.26
+Poland,2020-05-01,Solar,0.21,5,2.04
+Poland,2020-04-01,Solar,0.25,4,2.44
+Poland,2020-03-01,Solar,0.18,3,1.49
+Poland,2020-02-01,Solar,0.05,2,0.41
+Poland,2020-01-01,Solar,0.02,1,0.15
+Poland,2019-12-01,Solar,0.03,12,0.24
+Poland,2019-11-01,Solar,0.03,11,0.25
+Poland,2019-10-01,Solar,0.06,10,0.49
+Poland,2019-09-01,Solar,0.08,9,0.7
+Poland,2019-08-01,Solar,0.1,8,0.86
+Poland,2019-07-01,Solar,0.09,7,0.77
+Poland,2019-06-01,Solar,0.12,6,1.06
+Poland,2019-05-01,Solar,0.07,5,0.6
+Poland,2019-04-01,Solar,0.07,4,0.61
+Poland,2019-03-01,Solar,0.04,3,0.32
+Poland,2019-02-01,Solar,0.02,2,0.16
+Poland,2019-01-01,Solar,0.01,1,0.07
+Poland,2018-12-01,Solar,0,12,0
+Poland,2018-11-01,Solar,0.01,11,0.08
+Poland,2018-10-01,Solar,0.02,10,0.16
+Poland,2018-09-01,Solar,0.04,9,0.33
+Poland,2018-08-01,Solar,0.04,8,0.32
+Poland,2018-07-01,Solar,0.04,7,0.32
+Poland,2018-06-01,Solar,0.04,6,0.34
+Poland,2018-05-01,Solar,0.04,5,0.35
+Poland,2018-04-01,Solar,0.03,4,0.26
+Poland,2018-03-01,Solar,0.02,3,0.15
+Poland,2018-02-01,Solar,0.01,2,0.08
+Poland,2018-01-01,Solar,0,1,0
+Poland,2017-12-01,Solar,0,12,0
+Poland,2017-11-01,Solar,0,11,0
+Poland,2017-10-01,Solar,0.01,10,0.08
+Poland,2017-09-01,Solar,0.01,9,0.08
+Poland,2017-08-01,Solar,0.02,8,0.17
+Poland,2017-07-01,Solar,0.02,7,0.17
+Poland,2017-06-01,Solar,0.03,6,0.26
+Poland,2017-05-01,Solar,0.02,5,0.17
+Poland,2017-04-01,Solar,0.01,4,0.08
+Poland,2017-03-01,Solar,0.01,3,0.08
+Poland,2017-02-01,Solar,0.01,2,0.08
+Poland,2017-01-01,Solar,0,1,0
+Poland,2016-12-01,Solar,0,12,0
+Poland,2016-11-01,Solar,0,11,0
+Poland,2016-10-01,Solar,0.01,10,0.08
+Poland,2016-09-01,Solar,0.02,9,0.17
+Poland,2016-08-01,Solar,0.02,8,0.17
+Poland,2016-07-01,Solar,0.02,7,0.17
+Poland,2016-06-01,Solar,0.02,6,0.18
+Poland,2016-05-01,Solar,0.02,5,0.18
+Poland,2016-04-01,Solar,0.01,4,0.09
+Poland,2016-03-01,Solar,0.01,3,0.08
+Poland,2016-02-01,Solar,0,2,0
+Poland,2016-01-01,Solar,0,1,0
+Poland,2015-12-01,Solar,0,12,0
+Poland,2015-11-01,Solar,0,11,0
+Poland,2015-10-01,Solar,0.01,10,0.08
+Poland,2015-09-01,Solar,0.01,9,0.08
+Poland,2015-08-01,Solar,0.01,8,0.08
+Poland,2015-07-01,Solar,0.01,7,0.08
+Poland,2015-06-01,Solar,0.01,6,0.09
+Poland,2015-05-01,Solar,0.01,5,0.09
+Poland,2015-04-01,Solar,0,4,0
+Poland,2015-03-01,Solar,0,3,0
+Poland,2015-02-01,Solar,0,2,0
+Poland,2015-01-01,Solar,0,1,0
+South Korea,2023-03-01,Solar,2.92,3,6.14
+South Korea,2023-02-01,Solar,2.17,2,4.57
+South Korea,2023-01-01,Solar,1.86,1,3.46
+South Korea,2022-12-01,Solar,1.39,12,2.52
+South Korea,2022-11-01,Solar,1.85,11,4.03
+South Korea,2022-10-01,Solar,2.44,10,5.39
+South Korea,2022-09-01,Solar,2.27,9,4.95
+South Korea,2022-08-01,Solar,2.05,8,3.84
+South Korea,2022-07-01,Solar,2.4,7,4.41
+South Korea,2022-06-01,Solar,2.37,6,5.02
+South Korea,2022-05-01,Solar,3.29,5,7.17
+South Korea,2022-04-01,Solar,2.85,4,6.42
+South Korea,2022-03-01,Solar,2.19,3,4.48
+South Korea,2022-02-01,Solar,2.07,2,4.31
+South Korea,2022-01-01,Solar,1.79,1,3.3
+South Korea,2021-12-01,Solar,1.44,12,2.73
+South Korea,2021-11-01,Solar,1.5,11,3.23
+South Korea,2021-10-01,Solar,1.9,10,4.19
+South Korea,2021-09-01,Solar,1.72,9,3.83
+South Korea,2021-08-01,Solar,1.83,8,3.57
+South Korea,2021-07-01,Solar,2.19,7,4.07
+South Korea,2021-06-01,Solar,2.17,6,4.77
+South Korea,2021-05-01,Solar,2.14,5,4.88
+South Korea,2021-04-01,Solar,2.25,4,5.22
+South Korea,2021-03-01,Solar,1.96,3,4.2
+South Korea,2021-02-01,Solar,1.55,2,3.49
+South Korea,2021-01-01,Solar,1.17,1,2.22
+South Korea,2020-12-01,Solar,1.16,12,2.27
+South Korea,2020-11-01,Solar,1.22,11,2.74
+South Korea,2020-10-01,Solar,1.59,10,3.73
+South Korea,2020-09-01,Solar,1.38,9,3.13
+South Korea,2020-08-01,Solar,1.38,8,2.73
+South Korea,2020-07-01,Solar,1.18,7,2.55
+South Korea,2020-06-01,Solar,1.59,6,3.65
+South Korea,2020-05-01,Solar,1.62,5,3.93
+South Korea,2020-04-01,Solar,1.81,4,4.33
+South Korea,2020-03-01,Solar,1.57,3,3.44
+South Korea,2020-02-01,Solar,1.08,2,2.35
+South Korea,2020-01-01,Solar,0.78,1,1.59
+South Korea,2019-12-01,Solar,0.8,12,1.61
+South Korea,2019-11-01,Solar,0.87,11,1.94
+South Korea,2019-10-01,Solar,1.05,10,2.42
+South Korea,2019-09-01,Solar,0.87,9,1.99
+South Korea,2019-08-01,Solar,1.16,8,2.28
+South Korea,2019-07-01,Solar,0.99,7,2.01
+South Korea,2019-06-01,Solar,1.15,6,2.65
+South Korea,2019-05-01,Solar,1.34,5,3.05
+South Korea,2019-04-01,Solar,1,4,2.3
+South Korea,2019-03-01,Solar,1,3,2.13
+South Korea,2019-02-01,Solar,0.76,2,1.72
+South Korea,2019-01-01,Solar,0.72,1,1.37
+Spain,2023-04-01,Solar,4.19,4,21.54
+Spain,2023-03-01,Solar,3.36,3,15.15
+Spain,2023-02-01,Solar,2.19,2,10.88
+Spain,2023-01-01,Solar,1.71,1,7.77
+Spain,2022-12-01,Solar,1.11,12,5.34
+Spain,2022-11-01,Solar,1.58,11,7.66
+Spain,2022-10-01,Solar,2.11,10,10.11
+Spain,2022-09-01,Solar,2.95,9,13.3
+Spain,2022-08-01,Solar,3.77,8,15.75
+Spain,2022-07-01,Solar,4,7,16.06
+Spain,2022-06-01,Solar,3.69,6,16.82
+Spain,2022-05-01,Solar,3.91,5,18.42
+Spain,2022-04-01,Solar,2.89,4,14.1
+Spain,2022-03-01,Solar,1.51,3,7.02
+Spain,2022-02-01,Solar,1.83,2,9.44
+Spain,2022-01-01,Solar,1.66,1,7.2
+Spain,2021-12-01,Solar,1.08,12,4.79
+Spain,2021-11-01,Solar,1.49,11,6.82
+Spain,2021-10-01,Solar,2.07,10,10.65
+Spain,2021-09-01,Solar,2.33,9,12.04
+Spain,2021-08-01,Solar,3.07,8,15.12
+Spain,2021-07-01,Solar,3.44,7,16.2
+Spain,2021-06-01,Solar,2.97,6,15.73
+Spain,2021-05-01,Solar,2.99,5,15.35
+Spain,2021-04-01,Solar,1.89,4,9.95
+Spain,2021-03-01,Solar,2.02,3,9.53
+Spain,2021-02-01,Solar,1.07,2,5.27
+Spain,2021-01-01,Solar,0.92,1,3.95
+Spain,2020-12-01,Solar,0.8,12,3.54
+Spain,2020-11-01,Solar,0.9,11,4.79
+Spain,2020-10-01,Solar,1.65,10,8.35
+Spain,2020-09-01,Solar,1.93,9,9.53
+Spain,2020-08-01,Solar,2.6,8,12.2
+Spain,2020-07-01,Solar,2.74,7,12.03
+Spain,2020-06-01,Solar,2.54,6,13.82
+Spain,2020-05-01,Solar,2.25,5,13.21
+Spain,2020-04-01,Solar,1.39,4,8.36
+Spain,2020-03-01,Solar,1.3,3,6.52
+Spain,2020-02-01,Solar,1.2,2,6.22
+Spain,2020-01-01,Solar,0.73,1,3.37
+Spain,2019-12-01,Solar,0.59,12,2.82
+Spain,2019-11-01,Solar,0.6,11,2.8
+Spain,2019-10-01,Solar,1.11,10,5.61
+Spain,2019-09-01,Solar,1.33,9,6.61
+Spain,2019-08-01,Solar,1.85,8,8.76
+Spain,2019-07-01,Solar,1.76,7,7.9
+Spain,2019-06-01,Solar,1.7,6,8.68
+Spain,2019-05-01,Solar,1.64,5,8.46
+Spain,2019-04-01,Solar,1.02,4,5.48
+Spain,2019-03-01,Solar,1.27,3,6.42
+Spain,2019-02-01,Solar,0.89,2,4.56
+Spain,2019-01-01,Solar,0.66,1,2.81
+Spain,2018-12-01,Solar,0.53,12,2.58
+Spain,2018-11-01,Solar,0.44,11,2.09
+Spain,2018-10-01,Solar,0.85,10,4.07
+Spain,2018-09-01,Solar,1.18,9,5.97
+Spain,2018-08-01,Solar,1.52,8,7.26
+Spain,2018-07-01,Solar,1.78,7,8.7
+Spain,2018-06-01,Solar,1.35,6,7.29
+Spain,2018-05-01,Solar,1.29,5,6.86
+Spain,2018-04-01,Solar,1.02,4,5.26
+Spain,2018-03-01,Solar,0.81,3,3.5
+Spain,2018-02-01,Solar,0.72,2,3.48
+Spain,2018-01-01,Solar,0.53,1,2.45
+Spain,2017-12-01,Solar,0.54,12,2.34
+Spain,2017-11-01,Solar,0.7,11,3.28
+Spain,2017-10-01,Solar,1.02,10,5.09
+Spain,2017-09-01,Solar,1.35,9,7.15
+Spain,2017-08-01,Solar,1.45,8,7.21
+Spain,2017-07-01,Solar,1.66,7,7.81
+Spain,2017-06-01,Solar,1.56,6,7.58
+Spain,2017-05-01,Solar,1.43,5,7.63
+Spain,2017-04-01,Solar,1.3,4,7.23
+Spain,2017-03-01,Solar,0.98,3,4.97
+Spain,2017-02-01,Solar,0.5,2,2.55
+Spain,2017-01-01,Solar,0.6,1,2.52
+Spain,2016-12-01,Solar,0.47,12,2.29
+Spain,2016-11-01,Solar,0.52,11,2.55
+Spain,2016-10-01,Solar,0.8,10,3.96
+Spain,2016-09-01,Solar,1.28,9,6.53
+Spain,2016-08-01,Solar,1.61,8,7.91
+Spain,2016-07-01,Solar,1.67,7,7.87
+Spain,2016-06-01,Solar,1.66,6,8.7
+Spain,2016-05-01,Solar,1.24,5,6.5
+Spain,2016-04-01,Solar,1.08,4,5.3
+Spain,2016-03-01,Solar,1.04,3,4.8
+Spain,2016-02-01,Solar,0.58,2,2.86
+Spain,2016-01-01,Solar,0.39,1,1.82
+Spain,2015-12-01,Solar,0.44,12,2.16
+Spain,2015-11-01,Solar,0.73,11,3.7
+Spain,2015-10-01,Solar,0.7,10,3.6
+Spain,2015-09-01,Solar,1.16,9,5.87
+Spain,2015-08-01,Solar,1.37,8,6.45
+Spain,2015-07-01,Solar,1.74,7,7.33
+Spain,2015-06-01,Solar,1.58,6,7.79
+Spain,2015-05-01,Solar,1.52,5,7.72
+Spain,2015-04-01,Solar,1.09,4,5.66
+Spain,2015-03-01,Solar,1.08,3,4.92
+Spain,2015-02-01,Solar,0.66,2,3
+Spain,2015-01-01,Solar,0.66,1,2.85
+Türkiye,2023-03-01,Solar,1.26,3,4.88
+Türkiye,2023-02-01,Solar,1.08,2,4.54
+Türkiye,2023-01-01,Solar,0.9,1,3.38
+Türkiye,2022-12-01,Solar,0.71,12,2.72
+Türkiye,2022-11-01,Solar,0.88,11,3.64
+Türkiye,2022-10-01,Solar,1.27,10,5.15
+Türkiye,2022-09-01,Solar,1.57,9,5.86
+Türkiye,2022-08-01,Solar,1.72,8,5.53
+Türkiye,2022-07-01,Solar,1.97,7,6.92
+Türkiye,2022-06-01,Solar,1.62,6,6.05
+Türkiye,2022-05-01,Solar,1.6,5,6.39
+Türkiye,2022-04-01,Solar,1.43,4,5.57
+Türkiye,2022-03-01,Solar,1.06,3,3.75
+Türkiye,2022-02-01,Solar,0.79,2,3.12
+Türkiye,2022-01-01,Solar,0.55,1,1.95
+Türkiye,2021-12-01,Solar,0.6,12,2.09
+Türkiye,2021-11-01,Solar,0.81,11,3.06
+Türkiye,2021-10-01,Solar,1.19,10,4.57
+Türkiye,2021-09-01,Solar,1.31,9,4.75
+Türkiye,2021-08-01,Solar,1.48,8,4.56
+Türkiye,2021-07-01,Solar,1.56,7,5.08
+Türkiye,2021-06-01,Solar,1.41,6,5.3
+Türkiye,2021-05-01,Solar,1.47,5,5.88
+Türkiye,2021-04-01,Solar,1.08,4,4.19
+Türkiye,2021-03-01,Solar,0.96,3,3.47
+Türkiye,2021-02-01,Solar,0.86,2,3.56
+Türkiye,2021-01-01,Solar,0.54,1,2.02
+Türkiye,2020-12-01,Solar,0.56,12,2.07
+Türkiye,2020-11-01,Solar,0.74,11,2.91
+Türkiye,2020-10-01,Solar,0.96,10,3.81
+Türkiye,2020-09-01,Solar,1.1,9,4.02
+Türkiye,2020-08-01,Solar,1.28,8,4.47
+Türkiye,2020-07-01,Solar,1.3,7,4.57
+Türkiye,2020-06-01,Solar,1.18,6,5.05
+Türkiye,2020-05-01,Solar,1.15,5,5.57
+Türkiye,2020-04-01,Solar,1.01,4,5.03
+Türkiye,2020-03-01,Solar,0.84,3,3.44
+Türkiye,2020-02-01,Solar,0.57,2,2.31
+Türkiye,2020-01-01,Solar,0.53,1,1.98
+Türkiye,2019-12-01,Solar,0.4,12,1.55
+Türkiye,2019-11-01,Solar,0.64,11,2.72
+Türkiye,2019-10-01,Solar,0.84,10,3.53
+Türkiye,2019-09-01,Solar,0.99,9,3.94
+Türkiye,2019-08-01,Solar,1.08,8,3.93
+Türkiye,2019-07-01,Solar,1.13,7,3.96
+Türkiye,2019-06-01,Solar,0.99,6,4.13
+Türkiye,2019-05-01,Solar,1,5,4.04
+Türkiye,2019-04-01,Solar,0.8,4,3.4
+Türkiye,2019-03-01,Solar,0.82,3,3.33
+Türkiye,2019-02-01,Solar,0.54,2,2.32
+Türkiye,2019-01-01,Solar,0.33,1,1.28
+Türkiye,2018-12-01,Solar,0.3,12,1.17
+Türkiye,2018-11-01,Solar,0.48,11,2.01
+Türkiye,2018-10-01,Solar,0.69,10,2.93
+Türkiye,2018-09-01,Solar,0.83,9,3.32
+Türkiye,2018-08-01,Solar,0.99,8,3.58
+Türkiye,2018-07-01,Solar,0.94,7,3.22
+Türkiye,2018-06-01,Solar,0.84,6,3.52
+Türkiye,2018-05-01,Solar,0.76,5,3.2
+Türkiye,2018-04-01,Solar,0.79,4,3.38
+Türkiye,2018-03-01,Solar,0.57,3,2.3
+Türkiye,2018-02-01,Solar,0.36,2,1.55
+Türkiye,2018-01-01,Solar,0.27,1,1.03
+United Kingdom,2023-02-01,Solar,0.56,2,2.84
+United Kingdom,2023-01-01,Solar,0.39,1,1.66
+United Kingdom,2022-12-01,Solar,0.24,12,1
+United Kingdom,2022-11-01,Solar,0.36,11,1.53
+United Kingdom,2022-10-01,Solar,0.82,10,3.6
+United Kingdom,2022-09-01,Solar,1.05,9,4.76
+United Kingdom,2022-08-01,Solar,1.61,8,7.59
+United Kingdom,2022-07-01,Solar,1.68,7,7.66
+United Kingdom,2022-06-01,Solar,1.73,6,8.06
+United Kingdom,2022-05-01,Solar,1.56,5,6.84
+United Kingdom,2022-04-01,Solar,1.47,4,6.74
+United Kingdom,2022-03-01,Solar,1.17,3,5.12
+United Kingdom,2022-02-01,Solar,0.56,2,2.59
+United Kingdom,2022-01-01,Solar,0.39,1,1.54
+United Kingdom,2021-12-01,Solar,0.18,12,0.74
+United Kingdom,2021-11-01,Solar,0.4,11,1.7
+United Kingdom,2021-10-01,Solar,0.66,10,3.13
+United Kingdom,2021-09-01,Solar,1.01,9,5.31
+United Kingdom,2021-08-01,Solar,1.2,8,6.65
+United Kingdom,2021-07-01,Solar,1.54,7,8.28
+United Kingdom,2021-06-01,Solar,1.52,6,8.31
+United Kingdom,2021-05-01,Solar,1.43,5,6.98
+United Kingdom,2021-04-01,Solar,1.58,4,7.43
+United Kingdom,2021-03-01,Solar,0.91,3,4.03
+United Kingdom,2021-02-01,Solar,0.51,2,2.38
+United Kingdom,2021-01-01,Solar,0.27,1,1.08
+United Kingdom,2020-12-01,Solar,0.24,12,0.99
+United Kingdom,2020-11-01,Solar,0.37,11,1.69
+United Kingdom,2020-10-01,Solar,0.55,10,2.53
+United Kingdom,2020-09-01,Solar,1.15,9,5.69
+United Kingdom,2020-08-01,Solar,1.26,8,6.52
+United Kingdom,2020-07-01,Solar,1.45,7,7.21
+United Kingdom,2020-06-01,Solar,1.49,6,8.11
+United Kingdom,2020-05-01,Solar,1.97,5,11.07
+United Kingdom,2020-04-01,Solar,1.61,4,8.95
+United Kingdom,2020-03-01,Solar,1.14,3,4.95
+United Kingdom,2020-02-01,Solar,0.53,2,2.26
+United Kingdom,2020-01-01,Solar,0.3,1,1.17
+United Kingdom,2019-12-01,Solar,0.28,12,1.13
+United Kingdom,2019-11-01,Solar,0.33,11,1.36
+United Kingdom,2019-10-01,Solar,0.61,10,2.61
+United Kingdom,2019-09-01,Solar,1.12,9,5.53
+United Kingdom,2019-08-01,Solar,1.46,8,7.29
+United Kingdom,2019-07-01,Solar,1.56,7,7.61
+United Kingdom,2019-06-01,Solar,1.41,6,7.21
+United Kingdom,2019-05-01,Solar,1.58,5,7.67
+United Kingdom,2019-04-01,Solar,1.37,4,6.25
+United Kingdom,2019-03-01,Solar,0.98,3,4.19
+United Kingdom,2019-02-01,Solar,0.66,2,2.96
+United Kingdom,2019-01-01,Solar,0.29,1,1.07
+United Kingdom,2018-12-01,Solar,0.2,12,0.8
+United Kingdom,2018-11-01,Solar,0.34,11,1.37
+United Kingdom,2018-10-01,Solar,0.76,10,3.25
+United Kingdom,2018-09-01,Solar,1.03,9,4.94
+United Kingdom,2018-08-01,Solar,1.28,8,6.26
+United Kingdom,2018-07-01,Solar,1.78,7,8.62
+United Kingdom,2018-06-01,Solar,1.77,6,8.82
+United Kingdom,2018-05-01,Solar,1.72,5,8.17
+United Kingdom,2018-04-01,Solar,1.02,4,4.53
+United Kingdom,2018-03-01,Solar,0.73,3,2.71
+United Kingdom,2018-02-01,Solar,0.62,2,2.5
+United Kingdom,2018-01-01,Solar,0.31,1,1.16
+United Kingdom,2017-12-01,Solar,0.27,12,0.99
+United Kingdom,2017-11-01,Solar,0.42,11,1.58
+United Kingdom,2017-10-01,Solar,0.59,10,2.51
+United Kingdom,2017-09-01,Solar,0.92,9,4.4
+United Kingdom,2017-08-01,Solar,1.28,8,6.37
+United Kingdom,2017-07-01,Solar,1.4,7,6.9
+United Kingdom,2017-06-01,Solar,1.38,6,6.78
+United Kingdom,2017-05-01,Solar,1.4,5,6.51
+United Kingdom,2017-04-01,Solar,1.25,4,5.9
+United Kingdom,2017-03-01,Solar,0.86,3,3.5
+United Kingdom,2017-02-01,Solar,0.37,2,1.5
+United Kingdom,2017-01-01,Solar,0.3,1,1.02
+United Kingdom,2016-12-01,Solar,0.24,12,0.88
+United Kingdom,2016-11-01,Solar,0.38,11,1.43
+United Kingdom,2016-10-01,Solar,0.67,10,2.74
+United Kingdom,2016-09-01,Solar,0.88,9,4.11
+United Kingdom,2016-08-01,Solar,1.27,8,6.23
+United Kingdom,2016-07-01,Solar,1.27,7,6.16
+United Kingdom,2016-06-01,Solar,1.1,6,5.39
+United Kingdom,2016-05-01,Solar,1.33,5,6.29
+United Kingdom,2016-04-01,Solar,1.01,4,4.45
+United Kingdom,2016-03-01,Solar,0.73,3,2.9
+United Kingdom,2016-02-01,Solar,0.46,2,1.87
+United Kingdom,2016-01-01,Solar,0.23,1,0.87
+United Kingdom,2015-12-01,Solar,0.15,12,0.6
+United Kingdom,2015-11-01,Solar,0.2,11,0.81
+United Kingdom,2015-10-01,Solar,0.5,10,2.07
+United Kingdom,2015-09-01,Solar,0.87,9,4.07
+United Kingdom,2015-08-01,Solar,0.93,8,4.46
+United Kingdom,2015-07-01,Solar,1.13,7,5.31
+United Kingdom,2015-06-01,Solar,1.27,6,6.02
+United Kingdom,2015-05-01,Solar,1.15,5,5.18
+United Kingdom,2015-04-01,Solar,1.17,4,5.16
+United Kingdom,2015-03-01,Solar,0.58,3,2.19
+United Kingdom,2015-02-01,Solar,0.29,2,1.13
+United Kingdom,2015-01-01,Solar,0.19,1,0.67
+United States,2023-04-01,Solar,18.6,4,6.11
+United States,2023-03-01,Solar,16.11,3,4.84
+United States,2023-02-01,Solar,13.79,2,4.38
+United States,2023-01-01,Solar,12.16,1,3.46
+United States,2022-12-01,Solar,10.6,12,2.89
+United States,2022-11-01,Solar,12.38,11,3.79
+United States,2022-10-01,Solar,17.1,10,5.37
+United States,2022-09-01,Solar,18.86,9,5.3
+United States,2022-08-01,Solar,20.45,8,4.89
+United States,2022-07-01,Solar,22,7,5.12
+United States,2022-06-01,Solar,21.99,6,5.71
+United States,2022-05-01,Solar,21.24,5,6.08
+United States,2022-04-01,Solar,19,4,6.14
+United States,2022-03-01,Solar,16.92,3,5.12
+United States,2022-02-01,Solar,12.85,2,3.88
+United States,2022-01-01,Solar,11.3,1,2.96
+United States,2021-12-01,Solar,9.21,12,2.69
+United States,2021-11-01,Solar,11.14,11,3.5
+United States,2021-10-01,Solar,13.1,10,4.06
+United States,2021-09-01,Solar,15.5,9,4.4
+United States,2021-08-01,Solar,16.76,8,4.01
+United States,2021-07-01,Solar,17.12,7,4.18
+United States,2021-06-01,Solar,16.95,6,4.48
+United States,2021-05-01,Solar,17.34,5,5.36
+United States,2021-04-01,Solar,15.42,4,5.19
+United States,2021-03-01,Solar,13.36,3,4.23
+United States,2021-02-01,Solar,9.34,2,2.84
+United States,2021-01-01,Solar,8.47,1,2.4
+United States,2020-12-01,Solar,7.58,12,2.19
+United States,2020-11-01,Solar,8.45,11,2.78
+United States,2020-10-01,Solar,10.4,10,3.28
+United States,2020-09-01,Solar,11.45,9,3.4
+United States,2020-08-01,Solar,13.51,8,3.36
+United States,2020-07-01,Solar,15.02,7,3.63
+United States,2020-06-01,Solar,13.92,6,3.92
+United States,2020-05-01,Solar,13.92,5,4.51
+United States,2020-04-01,Solar,11.74,4,4.15
+United States,2020-03-01,Solar,9.77,3,3.13
+United States,2020-02-01,Solar,8.18,2,2.54
+United States,2020-01-01,Solar,6.77,1,1.97
+United States,2019-12-01,Solar,5.5,12,1.62
+United States,2019-11-01,Solar,6.59,11,2.07
+United States,2019-10-01,Solar,8.93,10,2.76
+United States,2019-09-01,Solar,10.02,9,2.76
+United States,2019-08-01,Solar,11.49,8,2.84
+United States,2019-07-01,Solar,11.89,7,2.88
+United States,2019-06-01,Solar,11.58,6,3.25
+United States,2019-05-01,Solar,10.71,5,3.21
+United States,2019-04-01,Solar,10,4,3.34
+United States,2019-03-01,Solar,8.81,3,2.68
+United States,2019-02-01,Solar,5.89,2,1.86
+United States,2019-01-01,Solar,5.48,1,1.52
+United States,2018-12-01,Solar,4.88,12,1.42
+United States,2018-11-01,Solar,5.65,11,1.74
+United States,2018-10-01,Solar,7.36,10,2.25
+United States,2018-09-01,Solar,8.64,9,2.41
+United States,2018-08-01,Solar,9.71,8,2.37
+United States,2018-07-01,Solar,9.9,7,2.39
+United States,2018-06-01,Solar,10.47,6,2.8
+United States,2018-05-01,Solar,9.86,5,2.89
+United States,2018-04-01,Solar,8.8,4,2.9
+United States,2018-03-01,Solar,7.49,3,2.31
+United States,2018-02-01,Solar,5.66,2,1.84
+United States,2018-01-01,Solar,4.94,1,1.32
+United States,2017-12-01,Solar,4.51,12,1.28
+United States,2017-11-01,Solar,4.77,11,1.54
+United States,2017-10-01,Solar,6.64,10,2.07
+United States,2017-09-01,Solar,7.28,9,2.16
+United States,2017-08-01,Solar,7.85,8,2.03
+United States,2017-07-01,Solar,8.12,7,2
+United States,2017-06-01,Solar,8.6,6,2.39
+United States,2017-05-01,Solar,8.21,5,2.52
+United States,2017-04-01,Solar,7.1,4,2.39
+United States,2017-03-01,Solar,6.49,3,2.02
+United States,2017-02-01,Solar,4.14,2,1.42
+United States,2017-01-01,Solar,3.57,1,1.04
+United States,2016-12-01,Solar,3.59,12,1.04
+United States,2016-11-01,Solar,4.02,11,1.35
+United States,2016-10-01,Solar,4.74,10,1.51
+United States,2016-09-01,Solar,5.37,9,1.52
+United States,2016-08-01,Solar,5.91,8,1.44
+United States,2016-07-01,Solar,5.95,7,1.44
+United States,2016-06-01,Solar,5.4,6,1.46
+United States,2016-05-01,Solar,5.3,5,1.67
+United States,2016-04-01,Solar,4.58,4,1.56
+United States,2016-03-01,Solar,4.14,3,1.36
+United States,2016-02-01,Solar,3.39,2,1.08
+United States,2016-01-01,Solar,2.47,1,0.7
+United States,2015-12-01,Solar,2.48,12,0.76
+United States,2015-11-01,Solar,2.71,11,0.9
+United States,2015-10-01,Solar,3.11,10,0.99
+United States,2015-09-01,Solar,3.55,9,1.01
+United States,2015-08-01,Solar,4.16,8,1.06
+United States,2015-07-01,Solar,4.11,7,1.02
+United States,2015-06-01,Solar,3.97,6,1.09
+United States,2015-05-01,Solar,3.9,5,1.21
+United States,2015-04-01,Solar,3.64,4,1.23
+United States,2015-03-01,Solar,3.21,3,0.99
+United States,2015-02-01,Solar,2.3,2,0.69
+United States,2015-01-01,Solar,1.9,1,0.53
+Viet Nam,2023-03-01,Solar,2.58,3,11.3
+Viet Nam,2023-02-01,Solar,2.17,2,10.98
+Viet Nam,2023-01-01,Solar,1.7,1,9.51
+Viet Nam,2022-12-01,Solar,2.32,12,9.83
+Viet Nam,2022-11-01,Solar,2.88,11,10.91
+Viet Nam,2022-10-01,Solar,1.76,10,8.44
+Viet Nam,2022-09-01,Solar,2.07,9,9.28
+Viet Nam,2022-08-01,Solar,2.28,8,9.68
+Viet Nam,2022-07-01,Solar,2.29,7,9.47
+Viet Nam,2022-06-01,Solar,2.52,6,10.51
+Viet Nam,2022-05-01,Solar,2.42,5,10.57
+Viet Nam,2022-04-01,Solar,2.32,4,10.45
+Viet Nam,2022-03-01,Solar,2.66,3,11.36
+Viet Nam,2022-02-01,Solar,1.98,2,10.87
+Viet Nam,2022-01-01,Solar,2.35,1,11.28
+Viet Nam,2021-12-01,Solar,2.89,12,12.9
+Viet Nam,2021-11-01,Solar,1.69,11,8.49
+Viet Nam,2021-10-01,Solar,2.29,10,10.94
+Viet Nam,2021-09-01,Solar,1.4,9,7.46
+Viet Nam,2021-08-01,Solar,3.18,8,14.72
+Viet Nam,2021-07-01,Solar,2.29,7,10.07
+Viet Nam,2021-06-01,Solar,2.11,6,8.53
+Viet Nam,2021-05-01,Solar,2.75,5,12.05
+Viet Nam,2021-04-01,Solar,1.6,4,7.59
+Viet Nam,2021-03-01,Solar,3.48,3,15.75
+Viet Nam,2021-02-01,Solar,1.52,2,8.27
+Viet Nam,2021-01-01,Solar,2.13,1,11.58
+Viet Nam,2020-12-01,Solar,0.8,12,3.71
+Viet Nam,2020-11-01,Solar,0.83,11,3.57
+Viet Nam,2020-10-01,Solar,0.72,10,3.59
+Viet Nam,2020-09-01,Solar,0.84,9,3.98
+Viet Nam,2020-08-01,Solar,0.83,8,3.89
+Viet Nam,2020-07-01,Solar,0.85,7,3.72
+Viet Nam,2020-06-01,Solar,0.75,6,3.47
+Viet Nam,2020-05-01,Solar,0.83,5,3.93
+Viet Nam,2020-04-01,Solar,0.82,4,4.51
+Viet Nam,2020-03-01,Solar,0.78,3,3.95
+Viet Nam,2020-02-01,Solar,0.79,2,4.36
+Viet Nam,2020-01-01,Solar,0.74,1,4.07
+Viet Nam,2019-12-01,Solar,0.37,12,1.76
+Viet Nam,2019-11-01,Solar,0,11,0
+Viet Nam,2019-10-01,Solar,0.45,10,2.25
+Viet Nam,2019-09-01,Solar,0.61,9,3.15
+Viet Nam,2019-08-01,Solar,0.65,8,3.1
+Viet Nam,2019-07-01,Solar,0.64,7,2.95
+Viet Nam,2019-06-01,Solar,0.52,6,2.42
+Viet Nam,2019-05-01,Solar,0.2,5,0.96
+Viet Nam,2019-04-01,Solar,0.08,4,0.4
+Viet Nam,2019-03-01,Solar,0.08,3,0.5
+Viet Nam,2019-02-01,Solar,0,2,0
+Viet Nam,2019-01-01,Solar,0,1,0
+World,2023-02-01,Solar,97.69,2,4.5
+World,2023-01-01,Solar,89.17,1,3.87
+World,2022-12-01,Solar,80.05,12,3.3
+World,2022-11-01,Solar,85.99,11,3.94
+World,2022-10-01,Solar,105.37,10,4.88
+World,2022-09-01,Solar,114.01,9,5.07
+World,2022-08-01,Solar,124.3,8,4.88
+World,2022-07-01,Solar,128.67,7,5.07
+World,2022-06-01,Solar,126.81,6,5.44
+World,2022-05-01,Solar,128.05,5,5.82
+World,2022-04-01,Solar,118.59,4,5.61
+World,2022-03-01,Solar,106.81,3,4.68
+World,2022-02-01,Solar,81.89,2,3.75
+World,2022-01-01,Solar,75.82,1,3.22
+World,2021-12-01,Solar,68.9,12,2.92
+World,2021-11-01,Solar,71.51,11,3.29
+World,2021-10-01,Solar,83.42,10,3.84
+World,2021-09-01,Solar,90.37,9,4.08
+World,2021-08-01,Solar,100.46,8,4.13
+World,2021-07-01,Solar,101.55,7,4.15
+World,2021-06-01,Solar,102.65,6,4.53
+World,2021-05-01,Solar,103.04,5,4.79
+World,2021-04-01,Solar,92.57,4,4.44
+World,2021-03-01,Solar,87.07,3,3.92
+World,2021-02-01,Solar,65.15,2,3.09
+World,2021-01-01,Solar,59.38,1,2.63
+World,2020-12-01,Solar,53.11,12,2.28
+World,2020-11-01,Solar,57.21,11,2.72
+World,2020-10-01,Solar,66.74,10,3.18
+World,2020-09-01,Solar,75.51,9,3.54
+World,2020-08-01,Solar,82.11,8,3.5
+World,2020-07-01,Solar,83.28,7,3.61
+World,2020-06-01,Solar,82.08,6,3.91
+World,2020-05-01,Solar,86.65,5,4.39
+World,2020-04-01,Solar,81.7,4,4.4
+World,2020-03-01,Solar,70.42,3,3.47
+World,2020-02-01,Solar,52.33,2,2.62
+World,2020-01-01,Solar,46.44,1,2.22
+World,2019-12-01,Solar,43.39,12,1.95
+World,2019-11-01,Solar,46.09,11,2.22
+World,2019-10-01,Solar,56.32,10,2.74
+World,2019-09-01,Solar,62.76,9,2.98
+World,2019-08-01,Solar,69.86,8,3.05
+World,2019-07-01,Solar,69.83,7,3.03
+World,2019-06-01,Solar,70.73,6,3.37
+World,2019-05-01,Solar,69.53,5,3.38
+World,2019-04-01,Solar,64.23,4,3.26
+World,2019-03-01,Solar,58.76,3,2.8
+World,2019-02-01,Solar,42.03,2,2.1
+World,2019-01-01,Solar,37.75,1,1.73
+Argentina,2018-01-01,Solar,0,1,0
+Argentina,2018-02-01,Solar,0,2,0
+Argentina,2018-03-01,Solar,0,3,0
+Argentina,2018-04-01,Solar,0,4,0
+Argentina,2018-05-01,Solar,0,5,0
+Argentina,2018-06-01,Solar,0,6,0
+Argentina,2018-07-01,Solar,0,7,0
+Argentina,2018-08-01,Solar,0.01,8,0.08
+Argentina,2018-09-01,Solar,0.01,9,0.1
+Argentina,2018-10-01,Solar,0.01,10,0.1
+Argentina,2018-11-01,Solar,0.02,11,0.19
+Argentina,2018-12-01,Solar,0.04,12,0.36
+Argentina,2019-01-01,Solar,0.04,1,0.34
+Argentina,2019-02-01,Solar,0.04,2,0.36
+Argentina,2019-03-01,Solar,0.05,3,0.49
+Argentina,2019-04-01,Solar,0.05,4,0.51
+Argentina,2019-05-01,Solar,0.04,5,0.38
+Argentina,2019-06-01,Solar,0.04,6,0.37
+Argentina,2019-07-01,Solar,0.05,7,0.41
+Argentina,2019-08-01,Solar,0.07,8,0.6
+Argentina,2019-09-01,Solar,0.09,9,0.85
+Argentina,2019-10-01,Solar,0.1,10,0.94
+Argentina,2019-11-01,Solar,0.11,11,1.03
+Argentina,2019-12-01,Solar,0.12,12,1.04
+Argentina,2020-01-01,Solar,0.11,1,0.88
+Argentina,2020-02-01,Solar,0.08,2,0.71
+Argentina,2020-03-01,Solar,0.1,3,0.85
+Argentina,2020-04-01,Solar,0.08,4,0.89
+Argentina,2020-05-01,Solar,0.07,5,0.7
+Argentina,2020-06-01,Solar,0.06,6,0.54
+Argentina,2020-07-01,Solar,0.07,7,0.57
+Argentina,2020-08-01,Solar,0.09,8,0.82
+Argentina,2020-09-01,Solar,0.13,9,1.26
+Argentina,2020-10-01,Solar,0.15,10,1.4
+Argentina,2020-11-01,Solar,0.19,11,1.62
+Argentina,2020-12-01,Solar,0.22,12,1.73
+Argentina,2021-01-01,Solar,0.19,1,1.48
+Argentina,2021-02-01,Solar,0.17,2,1.55
+Argentina,2021-03-01,Solar,0.16,3,1.39
+Argentina,2021-04-01,Solar,0.15,4,1.48
+Argentina,2021-05-01,Solar,0.12,5,1.07
+Argentina,2021-06-01,Solar,0.11,6,0.88
+Argentina,2021-07-01,Solar,0.14,7,1.08
+Argentina,2021-08-01,Solar,0.17,8,1.33
+Argentina,2021-09-01,Solar,0.19,9,1.68
+Argentina,2021-10-01,Solar,0.27,10,2.41
+Argentina,2021-11-01,Solar,0.28,11,2.46
+Argentina,2021-12-01,Solar,0.25,12,1.93
+Argentina,2022-01-01,Solar,0.26,1,1.92
+Argentina,2022-02-01,Solar,0.25,2,2.29
+Argentina,2022-03-01,Solar,0.26,3,2.31
+Argentina,2022-04-01,Solar,0.23,4,2.2
+Argentina,2022-05-01,Solar,0.19,5,1.66
+Argentina,2022-06-01,Solar,0.16,6,1.27
+Argentina,2022-07-01,Solar,0.18,7,1.49
+Argentina,2022-08-01,Solar,0.23,8,2.03
+Argentina,2022-09-01,Solar,0.26,9,2.59
+Argentina,2022-10-01,Solar,0.32,10,2.99
+Argentina,2022-11-01,Solar,0.3,11,2.58
+Argentina,2022-12-01,Solar,0.3,12,2.35
+Argentina,2023-01-01,Solar,0.31,1,2.32
+Argentina,2023-02-01,Solar,0.27,2,2.31
+Austria,2015-01-01,Solar,0.01,1,0.22
+Austria,2015-02-01,Solar,0.03,2,0.8
+Austria,2015-03-01,Solar,0.06,3,1.47
+Austria,2015-04-01,Solar,0.09,4,2.02
+Austria,2015-05-01,Solar,0.1,5,2.09
+Austria,2015-06-01,Solar,0.1,6,2.37
+Austria,2015-07-01,Solar,0.11,7,3.04
+Austria,2015-08-01,Solar,0.11,8,3.29
+Austria,2015-09-01,Solar,0.08,9,2.34
+Austria,2015-10-01,Solar,0.06,10,1.66
+Austria,2015-11-01,Solar,0.04,11,1.23
+Austria,2015-12-01,Solar,0.03,12,0.84
+Austria,2016-01-01,Solar,0.02,1,0.53
+Austria,2016-02-01,Solar,0.04,2,0.91
+Austria,2016-03-01,Solar,0.08,3,2.07
+Austria,2016-04-01,Solar,0.11,4,2.6
+Austria,2016-05-01,Solar,0.12,5,2.63
+Austria,2016-06-01,Solar,0.11,6,2.28
+Austria,2016-07-01,Solar,0.12,7,2.44
+Austria,2016-08-01,Solar,0.12,8,2.67
+Austria,2016-09-01,Solar,0.1,9,2.71
+Austria,2016-10-01,Solar,0.06,10,1.46
+Austria,2016-11-01,Solar,0.04,11,0.87
+Austria,2016-12-01,Solar,0.03,12,0.67
+Austria,2017-01-01,Solar,0.02,1,0.41
+Austria,2017-02-01,Solar,0.05,2,1.26
+Austria,2017-03-01,Solar,0.09,3,1.97
+Austria,2017-04-01,Solar,0.12,4,2.91
+Austria,2017-05-01,Solar,0.15,5,3.3
+Austria,2017-06-01,Solar,0.15,6,3.76
+Austria,2017-07-01,Solar,0.15,7,3.39
+Austria,2017-08-01,Solar,0.15,8,3.25
+Austria,2017-09-01,Solar,0.11,9,2.24
+Austria,2017-10-01,Solar,0.08,10,1.75
+Austria,2017-11-01,Solar,0.04,11,0.83
+Austria,2017-12-01,Solar,0.03,12,0.64
+Austria,2018-01-01,Solar,0.03,1,0.57
+Austria,2018-02-01,Solar,0.05,2,1.17
+Austria,2018-03-01,Solar,0.09,3,2.15
+Austria,2018-04-01,Solar,0.16,4,3.31
+Austria,2018-05-01,Solar,0.19,5,3.9
+Austria,2018-06-01,Solar,0.19,6,4.12
+Austria,2018-07-01,Solar,0.2,7,5.35
+Austria,2018-08-01,Solar,0.18,8,5.36
+Austria,2018-09-01,Solar,0.12,9,3.33
+Austria,2018-10-01,Solar,0.05,10,1.33
+Austria,2018-11-01,Solar,0.03,11,0.74
+Austria,2018-12-01,Solar,0.01,12,0.2
+Austria,2019-01-01,Solar,0.01,1,0.19
+Austria,2019-02-01,Solar,0.03,2,0.68
+Austria,2019-03-01,Solar,0.05,3,1.01
+Austria,2019-04-01,Solar,0.07,4,1.41
+Austria,2019-05-01,Solar,0.07,5,1.38
+Austria,2019-06-01,Solar,0.11,6,2.17
+Austria,2019-07-01,Solar,0.1,7,2.29
+Austria,2019-08-01,Solar,0.08,8,1.93
+Austria,2019-09-01,Solar,0.07,9,1.75
+Austria,2019-10-01,Solar,0.05,10,1.22
+Austria,2019-11-01,Solar,0.02,11,0.42
+Austria,2019-12-01,Solar,0.01,12,0.22
+Austria,2020-01-01,Solar,0.02,1,0.46
+Austria,2020-02-01,Solar,0.03,2,0.62
+Austria,2020-03-01,Solar,0.06,3,1.29
+Austria,2020-04-01,Solar,0.1,4,2.73
+Austria,2020-05-01,Solar,0.1,5,2.29
+Austria,2020-06-01,Solar,0.1,6,2.14
+Austria,2020-07-01,Solar,0.11,7,2.3
+Austria,2020-08-01,Solar,0.1,8,2.21
+Austria,2020-09-01,Solar,0.09,9,2.07
+Austria,2020-10-01,Solar,0.05,10,1
+Austria,2020-11-01,Solar,0.03,11,0.7
+Austria,2020-12-01,Solar,0.02,12,0.47
+Austria,2021-01-01,Solar,0.02,1,0.49
+Austria,2021-02-01,Solar,0.04,2,0.98
+Austria,2021-03-01,Solar,0.07,3,1.75
+Austria,2021-04-01,Solar,0.09,4,2.19
+Austria,2021-05-01,Solar,0.1,5,1.91
+Austria,2021-06-01,Solar,0.12,6,2.53
+Austria,2021-07-01,Solar,0.11,7,2.39
+Austria,2021-08-01,Solar,0.09,8,1.93
+Austria,2021-09-01,Solar,0.08,9,2.33
+Austria,2021-10-01,Solar,0.06,10,1.6
+Austria,2021-11-01,Solar,0.03,11,0.76
+Austria,2021-12-01,Solar,0.02,12,0.46
+Austria,2022-01-01,Solar,0.03,1,0.63
+Austria,2022-02-01,Solar,0.05,2,1.2
+Austria,2022-03-01,Solar,0.08,3,1.96
+Austria,2022-04-01,Solar,0.08,4,1.9
+Austria,2022-05-01,Solar,0.09,5,1.93
+Austria,2022-06-01,Solar,0.1,6,2.36
+Austria,2022-07-01,Solar,0.11,7,2.89
+Austria,2022-08-01,Solar,0.09,8,2.68
+Austria,2022-09-01,Solar,0.06,9,1.57
+Austria,2022-10-01,Solar,0.04,10,1.02
+Austria,2022-11-01,Solar,0.03,11,0.81
+Austria,2022-12-01,Solar,0.02,12,0.5
+Austria,2023-01-01,Solar,0.02,1,0.51
+Austria,2023-02-01,Solar,0.05,2,1.24
+Austria,2023-03-01,Solar,0.1,3,2.38
+Austria,2023-04-01,Solar,0.23,4,4.98
+Bangladesh,2019-01-01,Solar,0.01,1,0.23
+Bangladesh,2019-02-01,Solar,0,2,0
+Bangladesh,2019-03-01,Solar,0,3,0
+Bangladesh,2019-04-01,Solar,0,4,0
+Bangladesh,2019-05-01,Solar,0,5,0
+Bangladesh,2019-06-01,Solar,0.01,6,0.16
+Bangladesh,2019-07-01,Solar,0,7,0
+Bangladesh,2019-08-01,Solar,0.01,8,0.15
+Bangladesh,2019-09-01,Solar,0.02,9,0.3
+Bangladesh,2019-10-01,Solar,0.01,10,0.17
+Bangladesh,2019-11-01,Solar,0.01,11,0.21
+Bangladesh,2019-12-01,Solar,0,12,0
+Bangladesh,2020-01-01,Solar,0,1,0
+Bangladesh,2020-02-01,Solar,0.01,2,0.21
+Bangladesh,2020-03-01,Solar,0.01,3,0.18
+Bangladesh,2020-04-01,Solar,0.01,4,0.21
+Bangladesh,2020-05-01,Solar,0.02,5,0.37
+Bangladesh,2020-06-01,Solar,0,6,0
+Bangladesh,2020-07-01,Solar,0,7,0
+Bangladesh,2020-08-01,Solar,0,8,0
+Bangladesh,2020-09-01,Solar,0,9,0
+Bangladesh,2020-10-01,Solar,0.01,10,0.15
+Bangladesh,2020-11-01,Solar,0,11,0
+Bangladesh,2020-12-01,Solar,0,12,0
+Bangladesh,2021-01-01,Solar,0.01,1,0.2
+Bangladesh,2021-02-01,Solar,0.02,2,0.43
+Bangladesh,2021-03-01,Solar,0.02,3,0.34
+Bangladesh,2021-04-01,Solar,0.02,4,0.28
+Bangladesh,2021-05-01,Solar,0.02,5,0.29
+Bangladesh,2021-06-01,Solar,0.02,6,0.29
+Bangladesh,2021-07-01,Solar,0.02,7,0.29
+Bangladesh,2021-08-01,Solar,0.03,8,0.4
+Bangladesh,2021-09-01,Solar,0.02,9,0.27
+Bangladesh,2021-10-01,Solar,0.02,10,0.28
+Bangladesh,2021-11-01,Solar,0.02,11,0.38
+Bangladesh,2021-12-01,Solar,0.02,12,0.39
+Bangladesh,2022-01-01,Solar,0.03,1,0.57
+Bangladesh,2022-02-01,Solar,0.03,2,0.62
+Bangladesh,2022-03-01,Solar,0.04,3,0.56
+Bangladesh,2022-04-01,Solar,0.04,4,0.5
+Bangladesh,2022-05-01,Solar,0.03,5,0.42
+Bangladesh,2022-06-01,Solar,0.03,6,0.39
+Bangladesh,2022-07-01,Solar,0.04,7,0.51
+Bangladesh,2022-08-01,Solar,0.04,8,0.5
+Bangladesh,2022-09-01,Solar,0.03,9,0.39
+Bangladesh,2022-10-01,Solar,0.04,10,0.6
+Bangladesh,2022-11-01,Solar,0.04,11,0.7
+Bangladesh,2022-12-01,Solar,0.03,12,0.6
+Bangladesh,2023-01-01,Solar,0.03,1,0.57
+Bangladesh,2023-02-01,Solar,0.04,2,0.75
+Bangladesh,2023-03-01,Solar,0.15,3,2.24
+Belgium,2015-01-01,Solar,0.07,1,1.04
+Belgium,2015-02-01,Solar,0.13,2,2.16
+Belgium,2015-03-01,Solar,0.23,3,3.99
+Belgium,2015-04-01,Solar,0.39,4,7.8
+Belgium,2015-05-01,Solar,0.41,5,7.93
+Belgium,2015-06-01,Solar,0.46,6,9.35
+Belgium,2015-07-01,Solar,0.39,7,8.04
+Belgium,2015-08-01,Solar,0.38,8,8.5
+Belgium,2015-09-01,Solar,0.26,9,5.42
+Belgium,2015-10-01,Solar,0.16,10,2.91
+Belgium,2015-11-01,Solar,0.08,11,1.32
+Belgium,2015-12-01,Solar,0.07,12,1.11
+Belgium,2016-01-01,Solar,0.07,1,0.89
+Belgium,2016-02-01,Solar,0.13,2,1.85
+Belgium,2016-03-01,Solar,0.24,3,3.25
+Belgium,2016-04-01,Solar,0.33,4,4.97
+Belgium,2016-05-01,Solar,0.41,5,6.95
+Belgium,2016-06-01,Solar,0.33,6,5.79
+Belgium,2016-07-01,Solar,0.41,7,6.48
+Belgium,2016-08-01,Solar,0.38,8,5.54
+Belgium,2016-09-01,Solar,0.31,9,5.2
+Belgium,2016-10-01,Solar,0.17,10,2.81
+Belgium,2016-11-01,Solar,0.08,11,1.22
+Belgium,2016-12-01,Solar,0.06,12,0.82
+Belgium,2017-01-01,Solar,0.08,1,1.06
+Belgium,2017-02-01,Solar,0.09,2,1.34
+Belgium,2017-03-01,Solar,0.26,3,3.71
+Belgium,2017-04-01,Solar,0.34,4,6.28
+Belgium,2017-05-01,Solar,0.41,5,7.11
+Belgium,2017-06-01,Solar,0.43,6,6.61
+Belgium,2017-07-01,Solar,0.4,7,5.63
+Belgium,2017-08-01,Solar,0.34,8,4.91
+Belgium,2017-09-01,Solar,0.26,9,4.02
+Belgium,2017-10-01,Solar,0.16,10,2.41
+Belgium,2017-11-01,Solar,0.08,11,1.18
+Belgium,2017-12-01,Solar,0.03,12,0.4
+Belgium,2018-01-01,Solar,0.05,1,0.72
+Belgium,2018-02-01,Solar,0.19,2,2.77
+Belgium,2018-03-01,Solar,0.23,3,3.23
+Belgium,2018-04-01,Solar,0.36,4,6.56
+Belgium,2018-05-01,Solar,0.52,5,9.76
+Belgium,2018-06-01,Solar,0.46,6,8.78
+Belgium,2018-07-01,Solar,0.56,7,9.96
+Belgium,2018-08-01,Solar,0.42,8,7.79
+Belgium,2018-09-01,Solar,0.34,9,7.23
+Belgium,2018-10-01,Solar,0.24,10,4.47
+Belgium,2018-11-01,Solar,0.11,11,1.86
+Belgium,2018-12-01,Solar,0.06,12,1.06
+Belgium,2019-01-01,Solar,0.06,1,0.8
+Belgium,2019-02-01,Solar,0.19,2,2.96
+Belgium,2019-03-01,Solar,0.24,3,3.38
+Belgium,2019-04-01,Solar,0.41,4,6.04
+Belgium,2019-05-01,Solar,0.45,5,6.67
+Belgium,2019-06-01,Solar,0.5,6,7.81
+Belgium,2019-07-01,Solar,0.48,7,6.74
+Belgium,2019-08-01,Solar,0.44,8,5.65
+Belgium,2019-09-01,Solar,0.36,9,4.56
+Belgium,2019-10-01,Solar,0.2,10,2.64
+Belgium,2019-11-01,Solar,0.12,11,1.57
+Belgium,2019-12-01,Solar,0.07,12,0.92
+Belgium,2020-01-01,Solar,0.08,1,1.06
+Belgium,2020-02-01,Solar,0.14,2,2.01
+Belgium,2020-03-01,Solar,0.39,3,5.41
+Belgium,2020-04-01,Solar,0.58,4,9.59
+Belgium,2020-05-01,Solar,0.68,5,10.09
+Belgium,2020-06-01,Solar,0.58,6,9.42
+Belgium,2020-07-01,Solar,0.55,7,8.08
+Belgium,2020-08-01,Solar,0.5,8,8.03
+Belgium,2020-09-01,Solar,0.4,9,6.22
+Belgium,2020-10-01,Solar,0.18,10,2.72
+Belgium,2020-11-01,Solar,0.13,11,1.83
+Belgium,2020-12-01,Solar,0.07,12,0.89
+Belgium,2021-01-01,Solar,0.09,1,1.08
+Belgium,2021-02-01,Solar,0.21,2,2.63
+Belgium,2021-03-01,Solar,0.44,3,5.02
+Belgium,2021-04-01,Solar,0.6,4,7.46
+Belgium,2021-05-01,Solar,0.63,5,8.53
+Belgium,2021-06-01,Solar,0.65,6,9.05
+Belgium,2021-07-01,Solar,0.6,7,7.96
+Belgium,2021-08-01,Solar,0.52,8,7.14
+Belgium,2021-09-01,Solar,0.48,9,7.64
+Belgium,2021-10-01,Solar,0.27,10,3.59
+Belgium,2021-11-01,Solar,0.13,11,1.71
+Belgium,2021-12-01,Solar,0.06,12,0.71
+Belgium,2022-01-01,Solar,0.1,1,1.16
+Belgium,2022-02-01,Solar,0.22,2,2.95
+Belgium,2022-03-01,Solar,0.56,3,7.68
+Belgium,2022-04-01,Solar,0.71,4,9.85
+Belgium,2022-05-01,Solar,0.89,5,12.86
+Belgium,2022-06-01,Solar,0.86,6,13.19
+Belgium,2022-07-01,Solar,0.94,7,13.82
+Belgium,2022-08-01,Solar,0.86,8,11.39
+Belgium,2022-09-01,Solar,0.54,9,7.41
+Belgium,2022-10-01,Solar,0.43,10,5.87
+Belgium,2022-11-01,Solar,0.2,11,2.76
+Belgium,2022-12-01,Solar,0.1,12,1.3
+Belgium,2023-01-01,Solar,0.13,1,1.58
+Belgium,2023-02-01,Solar,0.32,2,4.83
+Belgium,2023-03-01,Solar,0.47,3,6.48
+Belgium,2023-04-01,Solar,0.77,4,13.25
+Bulgaria,2015-01-01,Solar,0.06,1,1.24
+Bulgaria,2015-02-01,Solar,0.08,2,1.91
+Bulgaria,2015-03-01,Solar,0.1,3,2.31
+Bulgaria,2015-04-01,Solar,0.14,4,3.66
+Bulgaria,2015-05-01,Solar,0.15,5,4.55
+Bulgaria,2015-06-01,Solar,0.15,6,3.99
+Bulgaria,2015-07-01,Solar,0.18,7,4.34
+Bulgaria,2015-08-01,Solar,0.16,8,3.94
+Bulgaria,2015-09-01,Solar,0.11,9,3.14
+Bulgaria,2015-10-01,Solar,0.08,10,2.25
+Bulgaria,2015-11-01,Solar,0.08,11,2.07
+Bulgaria,2015-12-01,Solar,0.07,12,1.56
+Bulgaria,2016-01-01,Solar,0.06,1,1.31
+Bulgaria,2016-02-01,Solar,0.08,2,2.2
+Bulgaria,2016-03-01,Solar,0.1,3,2.86
+Bulgaria,2016-04-01,Solar,0.14,4,4.81
+Bulgaria,2016-05-01,Solar,0.13,5,4.26
+Bulgaria,2016-06-01,Solar,0.15,6,4.41
+Bulgaria,2016-07-01,Solar,0.17,7,4.72
+Bulgaria,2016-08-01,Solar,0.16,8,4.41
+Bulgaria,2016-09-01,Solar,0.12,9,3.42
+Bulgaria,2016-10-01,Solar,0.08,10,2.23
+Bulgaria,2016-11-01,Solar,0.07,11,1.82
+Bulgaria,2016-12-01,Solar,0.07,12,1.55
+Bulgaria,2017-01-01,Solar,0.04,1,0.87
+Bulgaria,2017-02-01,Solar,0.09,2,2.32
+Bulgaria,2017-03-01,Solar,0.11,3,2.86
+Bulgaria,2017-04-01,Solar,0.13,4,3.89
+Bulgaria,2017-05-01,Solar,0.15,5,4.69
+Bulgaria,2017-06-01,Solar,0.15,6,4.62
+Bulgaria,2017-07-01,Solar,0.16,7,4.37
+Bulgaria,2017-08-01,Solar,0.16,8,4.3
+Bulgaria,2017-09-01,Solar,0.12,9,3.59
+Bulgaria,2017-10-01,Solar,0.1,10,2.96
+Bulgaria,2017-11-01,Solar,0.05,11,1.26
+Bulgaria,2017-12-01,Solar,0.05,12,1.21
+Bulgaria,2018-01-01,Solar,0.06,1,1.48
+Bulgaria,2018-02-01,Solar,0.05,2,1.3
+Bulgaria,2018-03-01,Solar,0.08,3,1.95
+Bulgaria,2018-04-01,Solar,0.14,4,4.46
+Bulgaria,2018-05-01,Solar,0.14,5,4.65
+Bulgaria,2018-06-01,Solar,0.14,6,3.88
+Bulgaria,2018-07-01,Solar,0.14,7,3.66
+Bulgaria,2018-08-01,Solar,0.15,8,3.76
+Bulgaria,2018-09-01,Solar,0.12,9,3.34
+Bulgaria,2018-10-01,Solar,0.11,10,2.93
+Bulgaria,2018-11-01,Solar,0.05,11,1.14
+Bulgaria,2018-12-01,Solar,0.05,12,1.07
+Bulgaria,2019-01-01,Solar,0.04,1,0.88
+Bulgaria,2019-02-01,Solar,0.08,2,1.95
+Bulgaria,2019-03-01,Solar,0.13,3,3.37
+Bulgaria,2019-04-01,Solar,0.12,4,3.41
+Bulgaria,2019-05-01,Solar,0.14,5,4.71
+Bulgaria,2019-06-01,Solar,0.15,6,4.97
+Bulgaria,2019-07-01,Solar,0.15,7,4.27
+Bulgaria,2019-08-01,Solar,0.16,8,4.46
+Bulgaria,2019-09-01,Solar,0.13,9,4.04
+Bulgaria,2019-10-01,Solar,0.11,10,3.33
+Bulgaria,2019-11-01,Solar,0.05,11,1.35
+Bulgaria,2019-12-01,Solar,0.06,12,1.51
+Bulgaria,2020-01-01,Solar,0.08,1,2.07
+Bulgaria,2020-02-01,Solar,0.09,2,2.43
+Bulgaria,2020-03-01,Solar,0.11,3,3.17
+Bulgaria,2020-04-01,Solar,0.15,4,5
+Bulgaria,2020-05-01,Solar,0.15,5,5.58
+Bulgaria,2020-06-01,Solar,0.15,6,4.81
+Bulgaria,2020-07-01,Solar,0.18,7,5.42
+Bulgaria,2020-08-01,Solar,0.16,8,4.92
+Bulgaria,2020-09-01,Solar,0.15,9,5
+Bulgaria,2020-10-01,Solar,0.11,10,3.83
+Bulgaria,2020-11-01,Solar,0.07,11,2.01
+Bulgaria,2020-12-01,Solar,0.03,12,0.81
+Bulgaria,2021-01-01,Solar,0.06,1,1.51
+Bulgaria,2021-02-01,Solar,0.09,2,2.49
+Bulgaria,2021-03-01,Solar,0.11,3,2.67
+Bulgaria,2021-04-01,Solar,0.14,4,3.67
+Bulgaria,2021-05-01,Solar,0.16,5,5
+Bulgaria,2021-06-01,Solar,0.15,6,4.79
+Bulgaria,2021-07-01,Solar,0.19,7,5.19
+Bulgaria,2021-08-01,Solar,0.18,8,4.79
+Bulgaria,2021-09-01,Solar,0.13,9,3.26
+Bulgaria,2021-10-01,Solar,0.1,10,2.54
+Bulgaria,2021-11-01,Solar,0.07,11,1.59
+Bulgaria,2021-12-01,Solar,0.05,12,1.01
+Bulgaria,2022-01-01,Solar,0.1,1,1.94
+Bulgaria,2022-02-01,Solar,0.1,2,2.23
+Bulgaria,2022-03-01,Solar,0.14,3,2.74
+Bulgaria,2022-04-01,Solar,0.16,4,3.93
+Bulgaria,2022-05-01,Solar,0.2,5,5.57
+Bulgaria,2022-06-01,Solar,0.18,6,4.51
+Bulgaria,2022-07-01,Solar,0.2,7,4.84
+Bulgaria,2022-08-01,Solar,0.18,8,4.43
+Bulgaria,2022-09-01,Solar,0.15,9,4.16
+Bulgaria,2022-10-01,Solar,0.14,10,4.47
+Bulgaria,2022-11-01,Solar,0.08,11,1.91
+Bulgaria,2022-12-01,Solar,0.05,12,1.16
+Bulgaria,2023-01-01,Solar,0.06,1,1.37
+Bulgaria,2023-02-01,Solar,0.14,2,3.45
+Bulgaria,2023-03-01,Solar,0.18,3,4.93
+Bulgaria,2023-04-01,Solar,0.18,4,6.16
+Canada,2015-01-01,Solar,0.01,1,0.02
+Canada,2015-02-01,Solar,0.01,2,0.02
+Canada,2015-03-01,Solar,0.01,3,0.02
+Canada,2015-04-01,Solar,0.03,4,0.06
+Canada,2015-05-01,Solar,0.03,5,0.07
+Canada,2015-06-01,Solar,0.03,6,0.07
+Canada,2015-07-01,Solar,0.03,7,0.06
+Canada,2015-08-01,Solar,0.03,8,0.06
+Canada,2015-09-01,Solar,0.03,9,0.07
+Canada,2015-10-01,Solar,0.02,10,0.04
+Canada,2015-11-01,Solar,0.02,11,0.04
+Canada,2015-12-01,Solar,0.01,12,0.02
+Canada,2016-01-01,Solar,0.06,1,0.09
+Canada,2016-02-01,Solar,0.08,2,0.14
+Canada,2016-03-01,Solar,0.11,3,0.19
+Canada,2016-04-01,Solar,0.15,4,0.3
+Canada,2016-05-01,Solar,0.23,5,0.48
+Canada,2016-06-01,Solar,0.24,6,0.49
+Canada,2016-07-01,Solar,0.23,7,0.44
+Canada,2016-08-01,Solar,0.22,8,0.42
+Canada,2016-09-01,Solar,0.19,9,0.39
+Canada,2016-10-01,Solar,0.14,10,0.28
+Canada,2016-11-01,Solar,0.1,11,0.18
+Canada,2016-12-01,Solar,0.04,12,0.06
+Canada,2017-01-01,Solar,0.05,1,0.08
+Canada,2017-02-01,Solar,0.09,2,0.16
+Canada,2017-03-01,Solar,0.18,3,0.3
+Canada,2017-04-01,Solar,0.19,4,0.38
+Canada,2017-05-01,Solar,0.21,5,0.43
+Canada,2017-06-01,Solar,0.23,6,0.48
+Canada,2017-07-01,Solar,0.26,7,0.5
+Canada,2017-08-01,Solar,0.26,8,0.5
+Canada,2017-09-01,Solar,0.25,9,0.51
+Canada,2017-10-01,Solar,0.17,10,0.35
+Canada,2017-11-01,Solar,0.09,11,0.16
+Canada,2017-12-01,Solar,0.05,12,0.08
+Canada,2018-01-01,Solar,0.06,1,0.09
+Canada,2018-02-01,Solar,0.08,2,0.14
+Canada,2018-03-01,Solar,0.18,3,0.31
+Canada,2018-04-01,Solar,0.19,4,0.38
+Canada,2018-05-01,Solar,0.28,5,0.58
+Canada,2018-06-01,Solar,0.29,6,0.62
+Canada,2018-07-01,Solar,0.3,7,0.57
+Canada,2018-08-01,Solar,0.32,8,0.62
+Canada,2018-09-01,Solar,0.22,9,0.47
+Canada,2018-10-01,Solar,0.14,10,0.28
+Canada,2018-11-01,Solar,0.08,11,0.14
+Canada,2018-12-01,Solar,0.06,12,0.1
+Canada,2019-01-01,Solar,0.09,1,0.14
+Canada,2019-02-01,Solar,0.1,2,0.17
+Canada,2019-03-01,Solar,0.21,3,0.36
+Canada,2019-04-01,Solar,0.24,4,0.49
+Canada,2019-05-01,Solar,0.28,5,0.59
+Canada,2019-06-01,Solar,0.32,6,0.69
+Canada,2019-07-01,Solar,0.34,7,0.66
+Canada,2019-08-01,Solar,0.31,8,0.62
+Canada,2019-09-01,Solar,0.24,9,0.51
+Canada,2019-10-01,Solar,0.15,10,0.31
+Canada,2019-11-01,Solar,0.1,11,0.18
+Canada,2019-12-01,Solar,0.07,12,0.11
+Canada,2020-01-01,Solar,0.07,1,0.11
+Canada,2020-02-01,Solar,0.12,2,0.21
+Canada,2020-03-01,Solar,0.22,3,0.38
+Canada,2020-04-01,Solar,0.24,4,0.49
+Canada,2020-05-01,Solar,0.29,5,0.62
+Canada,2020-06-01,Solar,0.33,6,0.7
+Canada,2020-07-01,Solar,0.34,7,0.64
+Canada,2020-08-01,Solar,0.3,8,0.59
+Canada,2020-09-01,Solar,0.27,9,0.59
+Canada,2020-10-01,Solar,0.17,10,0.34
+Canada,2020-11-01,Solar,0.14,11,0.26
+Canada,2020-12-01,Solar,0.07,12,0.11
+Canada,2021-01-01,Solar,0.09,1,0.15
+Canada,2021-02-01,Solar,0.14,2,0.24
+Canada,2021-03-01,Solar,0.27,3,0.48
+Canada,2021-04-01,Solar,0.29,4,0.6
+Canada,2021-05-01,Solar,0.33,5,0.69
+Canada,2021-06-01,Solar,0.3,6,0.61
+Canada,2021-07-01,Solar,0.28,7,0.56
+Canada,2021-08-01,Solar,0.3,8,0.6
+Canada,2021-09-01,Solar,0.3,9,0.65
+Canada,2021-10-01,Solar,0.2,10,0.41
+Canada,2021-11-01,Solar,0.16,11,0.31
+Canada,2021-12-01,Solar,0.08,12,0.13
+Canada,2022-01-01,Solar,0.11,1,0.17
+Canada,2022-02-01,Solar,0.14,2,0.25
+Canada,2022-03-01,Solar,0.22,3,0.39
+Canada,2022-04-01,Solar,0.29,4,0.58
+Canada,2022-05-01,Solar,0.35,5,0.73
+Canada,2022-06-01,Solar,0.36,6,0.76
+Canada,2022-07-01,Solar,0.4,7,0.77
+Canada,2022-08-01,Solar,0.35,8,0.65
+Canada,2022-09-01,Solar,0.34,9,0.71
+Canada,2022-10-01,Solar,0.32,10,0.67
+Canada,2022-11-01,Solar,0.19,11,0.35
+Canada,2022-12-01,Solar,0.12,12,0.19
+Canada,2023-01-01,Solar,0.13,1,0.21
+Canada,2023-02-01,Solar,0.24,2,0.43
+Colombia,2017-08-01,Solar,0,8,0
+Colombia,2017-09-01,Solar,0,9,0
+Colombia,2017-10-01,Solar,0,10,0
+Colombia,2017-11-01,Solar,0,11,0
+Colombia,2017-12-01,Solar,0,12,0
+Colombia,2018-01-01,Solar,0,1,0
+Colombia,2018-02-01,Solar,0,2,0
+Colombia,2018-03-01,Solar,0,3,0
+Colombia,2018-04-01,Solar,0,4,0
+Colombia,2018-05-01,Solar,0,5,0
+Colombia,2018-06-01,Solar,0,6,0
+Colombia,2018-07-01,Solar,0,7,0
+Colombia,2018-08-01,Solar,0,8,0
+Colombia,2018-09-01,Solar,0,9,0
+Colombia,2018-10-01,Solar,0,10,0
+Colombia,2018-11-01,Solar,0,11,0
+Colombia,2018-12-01,Solar,0,12,0
+Colombia,2019-01-01,Solar,0,1,0
+Colombia,2019-02-01,Solar,0.01,2,0.2
+Colombia,2019-03-01,Solar,0.01,3,0.18
+Colombia,2019-04-01,Solar,0.01,4,0.18
+Colombia,2019-05-01,Solar,0.01,5,0.17
+Colombia,2019-06-01,Solar,0.01,6,0.18
+Colombia,2019-07-01,Solar,0.01,7,0.17
+Colombia,2019-08-01,Solar,0.01,8,0.17
+Colombia,2019-09-01,Solar,0.01,9,0.17
+Colombia,2019-10-01,Solar,0.01,10,0.17
+Colombia,2019-11-01,Solar,0.01,11,0.18
+Colombia,2019-12-01,Solar,0.01,12,0.17
+Colombia,2020-01-01,Solar,0.02,1,0.35
+Colombia,2020-02-01,Solar,0.02,2,0.42
+Colombia,2020-03-01,Solar,0.02,3,0.4
+Colombia,2020-04-01,Solar,0.01,4,0.21
+Colombia,2020-05-01,Solar,0.02,5,0.41
+Colombia,2020-06-01,Solar,0.01,6,0.21
+Colombia,2020-07-01,Solar,0.01,7,0.18
+Colombia,2020-08-01,Solar,0.01,8,0.18
+Colombia,2020-09-01,Solar,0.02,9,0.35
+Colombia,2020-10-01,Solar,0.02,10,0.34
+Colombia,2020-11-01,Solar,0.02,11,0.34
+Colombia,2020-12-01,Solar,0.02,12,0.34
+Colombia,2021-01-01,Solar,0.03,1,0.53
+Colombia,2021-02-01,Solar,0.02,2,0.41
+Colombia,2021-03-01,Solar,0.03,3,0.53
+Colombia,2021-04-01,Solar,0.02,4,0.35
+Colombia,2021-05-01,Solar,0.02,5,0.34
+Colombia,2021-06-01,Solar,0.02,6,0.35
+Colombia,2021-07-01,Solar,0.03,7,0.49
+Colombia,2021-08-01,Solar,0.03,8,0.48
+Colombia,2021-09-01,Solar,0.03,9,0.47
+Colombia,2021-10-01,Solar,0.03,10,0.47
+Colombia,2021-11-01,Solar,0.03,11,0.5
+Colombia,2021-12-01,Solar,0.04,12,0.66
+Colombia,2022-01-01,Solar,0.04,1,0.69
+Colombia,2022-02-01,Solar,0.03,2,0.53
+Colombia,2022-03-01,Solar,0.03,3,0.48
+Colombia,2022-04-01,Solar,0.03,4,0.5
+Colombia,2022-05-01,Solar,0.03,5,0.47
+Colombia,2022-06-01,Solar,0.03,6,0.5
+Colombia,2022-07-01,Solar,0.04,7,0.63
+Colombia,2022-08-01,Solar,0.05,8,0.78
+Colombia,2022-09-01,Solar,0.05,9,0.81
+Colombia,2022-10-01,Solar,0.05,10,0.77
+Colombia,2022-11-01,Solar,0.05,11,0.8
+Colombia,2022-12-01,Solar,0.07,12,1.07
+Colombia,2023-01-01,Solar,0.07,1,1.06
+Colombia,2023-02-01,Solar,0.07,2,1.16
+Colombia,2023-03-01,Solar,0.07,3,1.08
+Colombia,2023-04-01,Solar,0.07,4,1.11
+Croatia,2019-01-01,Solar,0,1,0
+Croatia,2019-02-01,Solar,0,2,0
+Croatia,2019-03-01,Solar,0.01,3,1.23
+Croatia,2019-04-01,Solar,0.01,4,1.23
+Croatia,2019-05-01,Solar,0.01,5,0.99
+Croatia,2019-06-01,Solar,0.01,6,1.18
+Croatia,2019-07-01,Solar,0.01,7,1.27
+Croatia,2019-08-01,Solar,0.01,8,1.25
+Croatia,2019-09-01,Solar,0.01,9,1.43
+Croatia,2019-10-01,Solar,0.01,10,1.18
+Croatia,2019-11-01,Solar,0,11,0
+Croatia,2019-12-01,Solar,0,12,0
+Croatia,2020-01-01,Solar,0,1,0
+Croatia,2020-02-01,Solar,0,2,0
+Croatia,2020-03-01,Solar,0.01,3,1.03
+Croatia,2020-04-01,Solar,0.01,4,1.72
+Croatia,2020-05-01,Solar,0.01,5,1.28
+Croatia,2020-06-01,Solar,0.01,6,1.22
+Croatia,2020-07-01,Solar,0.01,7,1.16
+Croatia,2020-08-01,Solar,0.01,8,1.18
+Croatia,2020-09-01,Solar,0.01,9,1.15
+Croatia,2020-10-01,Solar,0.01,10,0.84
+Croatia,2020-11-01,Solar,0,11,0
+Croatia,2020-12-01,Solar,0,12,0
+Croatia,2021-01-01,Solar,0,1,0
+Croatia,2021-02-01,Solar,0,2,0
+Croatia,2021-03-01,Solar,0.01,3,0.78
+Croatia,2021-04-01,Solar,0.01,4,0.97
+Croatia,2021-05-01,Solar,0.01,5,1.03
+Croatia,2021-06-01,Solar,0.01,6,1.2
+Croatia,2021-07-01,Solar,0.01,7,1.06
+Croatia,2021-08-01,Solar,0.01,8,1.04
+Croatia,2021-09-01,Solar,0.01,9,1.23
+Croatia,2021-10-01,Solar,0.01,10,0.97
+Croatia,2021-11-01,Solar,0,11,0
+Croatia,2021-12-01,Solar,0,12,0
+Croatia,2022-01-01,Solar,0,1,0
+Croatia,2022-02-01,Solar,0,2,0
+Croatia,2022-03-01,Solar,0.01,3,0.91
+Croatia,2022-04-01,Solar,0.01,4,1.06
+Croatia,2022-05-01,Solar,0.01,5,1.15
+Croatia,2022-06-01,Solar,0.01,6,1.09
+Croatia,2022-07-01,Solar,0.01,7,0.98
+Croatia,2022-08-01,Solar,0.01,8,1.03
+Croatia,2022-09-01,Solar,0.01,9,1.14
+Croatia,2022-10-01,Solar,0.01,10,1.08
+Croatia,2022-11-01,Solar,0,11,0
+Croatia,2022-12-01,Solar,0,12,0
+Croatia,2023-01-01,Solar,0,1,0
+Croatia,2023-02-01,Solar,0,2,0
+Croatia,2023-03-01,Solar,0.01,3,0.66
+Croatia,2023-04-01,Solar,0.01,4,0.83
+Cyprus,2017-01-01,Solar,0.01,1,2.38
+Cyprus,2017-02-01,Solar,0.01,2,2.86
+Cyprus,2017-03-01,Solar,0.01,3,3.03
+Cyprus,2017-04-01,Solar,0.01,4,3.33
+Cyprus,2017-05-01,Solar,0.01,5,3.03
+Cyprus,2017-06-01,Solar,0.01,6,2.56
+Cyprus,2017-07-01,Solar,0.02,7,3.57
+Cyprus,2017-08-01,Solar,0.02,8,3.92
+Cyprus,2017-09-01,Solar,0.02,9,4.44
+Cyprus,2017-10-01,Solar,0.01,10,2.78
+Cyprus,2017-11-01,Solar,0.01,11,3.13
+Cyprus,2017-12-01,Solar,0.01,12,2.7
+Cyprus,2018-01-01,Solar,0.01,1,2.56
+Cyprus,2018-02-01,Solar,0.01,2,3.03
+Cyprus,2018-03-01,Solar,0.01,3,3.13
+Cyprus,2018-04-01,Solar,0.02,4,6.25
+Cyprus,2018-05-01,Solar,0.02,5,5.13
+Cyprus,2018-06-01,Solar,0.02,6,4.65
+Cyprus,2018-07-01,Solar,0.02,7,3.77
+Cyprus,2018-08-01,Solar,0.02,8,3.85
+Cyprus,2018-09-01,Solar,0.02,9,4.35
+Cyprus,2018-10-01,Solar,0.02,10,5.13
+Cyprus,2018-11-01,Solar,0.01,11,3.03
+Cyprus,2018-12-01,Solar,0.01,12,2.7
+Cyprus,2019-01-01,Solar,0.01,1,2.33
+Cyprus,2019-02-01,Solar,0.01,2,2.78
+Cyprus,2019-03-01,Solar,0.02,3,5.71
+Cyprus,2019-04-01,Solar,0.02,4,6.25
+Cyprus,2019-05-01,Solar,0.02,5,5.56
+Cyprus,2019-06-01,Solar,0.02,6,4.65
+Cyprus,2019-07-01,Solar,0.02,7,3.77
+Cyprus,2019-08-01,Solar,0.02,8,3.7
+Cyprus,2019-09-01,Solar,0.02,9,4.44
+Cyprus,2019-10-01,Solar,0.02,10,5.26
+Cyprus,2019-11-01,Solar,0.02,11,6.06
+Cyprus,2019-12-01,Solar,0.01,12,2.7
+Cyprus,2020-01-01,Solar,0.01,1,2.38
+Cyprus,2020-02-01,Solar,0.02,2,5
+Cyprus,2020-03-01,Solar,0.02,3,6.06
+Cyprus,2020-04-01,Solar,0.03,4,11.54
+Cyprus,2020-05-01,Solar,0.03,5,9.38
+Cyprus,2020-06-01,Solar,0.03,6,8.82
+Cyprus,2020-07-01,Solar,0.04,7,8
+Cyprus,2020-08-01,Solar,0.04,8,7.84
+Cyprus,2020-09-01,Solar,0.03,9,6.12
+Cyprus,2020-10-01,Solar,0.03,10,7.69
+Cyprus,2020-11-01,Solar,0.02,11,6.06
+Cyprus,2020-12-01,Solar,0.02,12,5.41
+Cyprus,2021-01-01,Solar,0.02,1,5.13
+Cyprus,2021-02-01,Solar,0.03,2,8.82
+Cyprus,2021-03-01,Solar,0.04,3,11.43
+Cyprus,2021-04-01,Solar,0.04,4,13.33
+Cyprus,2021-05-01,Solar,0.05,5,14.29
+Cyprus,2021-06-01,Solar,0.05,6,12.2
+Cyprus,2021-07-01,Solar,0.05,7,8.62
+Cyprus,2021-08-01,Solar,0.05,8,8.47
+Cyprus,2021-09-01,Solar,0.05,9,11.11
+Cyprus,2021-10-01,Solar,0.04,10,10.81
+Cyprus,2021-11-01,Solar,0.03,11,9.09
+Cyprus,2021-12-01,Solar,0.02,12,5.13
+Cyprus,2022-01-01,Solar,0.03,1,6.38
+Cyprus,2022-02-01,Solar,0.03,2,7.89
+Cyprus,2022-03-01,Solar,0.04,3,9.09
+Cyprus,2022-04-01,Solar,0.05,4,16.13
+Cyprus,2022-05-01,Solar,0.06,5,16.67
+Cyprus,2022-06-01,Solar,0.06,6,14.29
+Cyprus,2022-07-01,Solar,0.07,7,12.5
+Cyprus,2022-08-01,Solar,0.07,8,13.21
+Cyprus,2022-09-01,Solar,0.07,9,14.89
+Cyprus,2022-10-01,Solar,0.05,10,13.16
+Cyprus,2022-11-01,Solar,0.04,11,12.5
+Cyprus,2022-12-01,Solar,0.04,12,11.43
+Cyprus,2023-01-01,Solar,0.04,1,9.76
+Cyprus,2023-02-01,Solar,0.04,2,10
+Czechia,2015-01-01,Solar,0.04,1,0.54
+Czechia,2015-02-01,Solar,0.11,2,1.54
+Czechia,2015-03-01,Solar,0.2,3,2.68
+Czechia,2015-04-01,Solar,0.27,4,4.05
+Czechia,2015-05-01,Solar,0.27,5,4.59
+Czechia,2015-06-01,Solar,0.29,6,5.08
+Czechia,2015-07-01,Solar,0.31,7,5.5
+Czechia,2015-08-01,Solar,0.29,8,4.94
+Czechia,2015-09-01,Solar,0.2,9,3.74
+Czechia,2015-10-01,Solar,0.11,10,1.75
+Czechia,2015-11-01,Solar,0.09,11,1.43
+Czechia,2015-12-01,Solar,0.05,12,0.77
+Czechia,2016-01-01,Solar,0.05,1,0.71
+Czechia,2016-02-01,Solar,0.09,2,1.36
+Czechia,2016-03-01,Solar,0.16,3,2.17
+Czechia,2016-04-01,Solar,0.24,4,3.68
+Czechia,2016-05-01,Solar,0.29,5,4.54
+Czechia,2016-06-01,Solar,0.28,6,4.79
+Czechia,2016-07-01,Solar,0.29,7,5
+Czechia,2016-08-01,Solar,0.28,8,5.05
+Czechia,2016-09-01,Solar,0.24,9,4.49
+Czechia,2016-10-01,Solar,0.09,10,1.43
+Czechia,2016-11-01,Solar,0.07,11,1.05
+Czechia,2016-12-01,Solar,0.05,12,0.72
+Czechia,2017-01-01,Solar,0.06,1,0.76
+Czechia,2017-02-01,Solar,0.1,2,1.47
+Czechia,2017-03-01,Solar,0.2,3,2.79
+Czechia,2017-04-01,Solar,0.21,4,2.93
+Czechia,2017-05-01,Solar,0.31,5,5.01
+Czechia,2017-06-01,Solar,0.32,6,5.93
+Czechia,2017-07-01,Solar,0.28,7,5.49
+Czechia,2017-08-01,Solar,0.28,8,4.65
+Czechia,2017-09-01,Solar,0.16,9,2.43
+Czechia,2017-10-01,Solar,0.13,10,1.86
+Czechia,2017-11-01,Solar,0.06,11,0.82
+Czechia,2017-12-01,Solar,0.04,12,0.59
+Czechia,2018-01-01,Solar,0.04,1,0.6
+Czechia,2018-02-01,Solar,0.11,2,1.71
+Czechia,2018-03-01,Solar,0.16,3,2.07
+Czechia,2018-04-01,Solar,0.3,4,4.85
+Czechia,2018-05-01,Solar,0.33,5,4.98
+Czechia,2018-06-01,Solar,0.27,6,4.32
+Czechia,2018-07-01,Solar,0.3,7,4.83
+Czechia,2018-08-01,Solar,0.29,8,4.58
+Czechia,2018-09-01,Solar,0.24,9,3.63
+Czechia,2018-10-01,Solar,0.17,10,2.39
+Czechia,2018-11-01,Solar,0.07,11,0.96
+Czechia,2018-12-01,Solar,0.03,12,0.4
+Czechia,2019-01-01,Solar,0.05,1,0.65
+Czechia,2019-02-01,Solar,0.14,2,1.99
+Czechia,2019-03-01,Solar,0.2,3,2.94
+Czechia,2019-04-01,Solar,0.28,4,4.43
+Czechia,2019-05-01,Solar,0.23,5,3.51
+Czechia,2019-06-01,Solar,0.32,6,5.57
+Czechia,2019-07-01,Solar,0.29,7,5.45
+Czechia,2019-08-01,Solar,0.26,8,4.31
+Czechia,2019-09-01,Solar,0.22,9,3.42
+Czechia,2019-10-01,Solar,0.15,10,2.07
+Czechia,2019-11-01,Solar,0.06,11,0.84
+Czechia,2019-12-01,Solar,0.05,12,0.71
+Czechia,2020-01-01,Solar,0.06,1,0.82
+Czechia,2020-02-01,Solar,0.1,2,1.52
+Czechia,2020-03-01,Solar,0.22,3,3.44
+Czechia,2020-04-01,Solar,0.32,4,6.23
+Czechia,2020-05-01,Solar,0.27,5,4.86
+Czechia,2020-06-01,Solar,0.23,6,4.06
+Czechia,2020-07-01,Solar,0.28,7,5.23
+Czechia,2020-08-01,Solar,0.26,8,4.28
+Czechia,2020-09-01,Solar,0.22,9,3.61
+Czechia,2020-10-01,Solar,0.1,10,1.54
+Czechia,2020-11-01,Solar,0.06,11,0.84
+Czechia,2020-12-01,Solar,0.03,12,0.42
+Czechia,2021-01-01,Solar,0.04,1,0.53
+Czechia,2021-02-01,Solar,0.08,2,1.2
+Czechia,2021-03-01,Solar,0.19,3,2.74
+Czechia,2021-04-01,Solar,0.24,4,4.05
+Czechia,2021-05-01,Solar,0.25,5,4.61
+Czechia,2021-06-01,Solar,0.32,6,5.76
+Czechia,2021-07-01,Solar,0.29,7,5.03
+Czechia,2021-08-01,Solar,0.24,8,4.25
+Czechia,2021-09-01,Solar,0.23,9,3.7
+Czechia,2021-10-01,Solar,0.2,10,2.73
+Czechia,2021-11-01,Solar,0.06,11,0.8
+Czechia,2021-12-01,Solar,0.04,12,0.53
+Czechia,2022-01-01,Solar,0.06,1,0.81
+Czechia,2022-02-01,Solar,0.13,2,2.05
+Czechia,2022-03-01,Solar,0.28,3,3.72
+Czechia,2022-04-01,Solar,0.24,4,4.02
+Czechia,2022-05-01,Solar,0.32,5,5.68
+Czechia,2022-06-01,Solar,0.32,6,5.32
+Czechia,2022-07-01,Solar,0.31,7,5.11
+Czechia,2022-08-01,Solar,0.27,8,4.44
+Czechia,2022-09-01,Solar,0.19,9,3
+Czechia,2022-10-01,Solar,0.15,10,2.45
+Czechia,2022-11-01,Solar,0.07,11,1.03
+Czechia,2022-12-01,Solar,0.03,12,0.38
+Czechia,2023-01-01,Solar,0.05,1,0.7
+Czechia,2023-02-01,Solar,0.1,2,1.55
+Czechia,2023-03-01,Solar,0.18,3,2.83
+Czechia,2023-04-01,Solar,0.2,4,3.48
+Denmark,2015-01-01,Solar,0.01,1,0.29
+Denmark,2015-02-01,Solar,0.02,2,0.68
+Denmark,2015-03-01,Solar,0.05,3,1.83
+Denmark,2015-04-01,Solar,0.08,4,3.35
+Denmark,2015-05-01,Solar,0.08,5,3.56
+Denmark,2015-06-01,Solar,0.09,6,4.79
+Denmark,2015-07-01,Solar,0.09,7,5.33
+Denmark,2015-08-01,Solar,0.09,8,5.84
+Denmark,2015-09-01,Solar,0.06,9,3.57
+Denmark,2015-10-01,Solar,0.03,10,1.56
+Denmark,2015-11-01,Solar,0.01,11,0.41
+Denmark,2015-12-01,Solar,0.01,12,0.33
+Denmark,2016-01-01,Solar,0.01,1,0.3
+Denmark,2016-02-01,Solar,0.03,2,1.11
+Denmark,2016-03-01,Solar,0.06,3,2.35
+Denmark,2016-04-01,Solar,0.08,4,3.33
+Denmark,2016-05-01,Solar,0.12,5,6.49
+Denmark,2016-06-01,Solar,0.11,6,7.19
+Denmark,2016-07-01,Solar,0.1,7,5.75
+Denmark,2016-08-01,Solar,0.1,8,5.05
+Denmark,2016-09-01,Solar,0.08,9,4.79
+Denmark,2016-10-01,Solar,0.03,10,1.12
+Denmark,2016-11-01,Solar,0.02,11,0.65
+Denmark,2016-12-01,Solar,0.01,12,0.33
+Denmark,2017-01-01,Solar,0.01,1,0.34
+Denmark,2017-02-01,Solar,0.02,2,0.64
+Denmark,2017-03-01,Solar,0.06,3,1.94
+Denmark,2017-04-01,Solar,0.09,4,3.45
+Denmark,2017-05-01,Solar,0.13,5,6.44
+Denmark,2017-06-01,Solar,0.11,6,5.91
+Denmark,2017-07-01,Solar,0.11,7,7.05
+Denmark,2017-08-01,Solar,0.1,8,6.06
+Denmark,2017-09-01,Solar,0.06,9,3.47
+Denmark,2017-10-01,Solar,0.04,10,1.55
+Denmark,2017-11-01,Solar,0.02,11,0.74
+Denmark,2017-12-01,Solar,0.01,12,0.31
+Denmark,2018-01-01,Solar,0.01,1,0.32
+Denmark,2018-02-01,Solar,0.03,2,0.96
+Denmark,2018-03-01,Solar,0.05,3,1.4
+Denmark,2018-04-01,Solar,0.1,4,3.85
+Denmark,2018-05-01,Solar,0.17,5,10.06
+Denmark,2018-06-01,Solar,0.15,6,9.74
+Denmark,2018-07-01,Solar,0.17,7,10.97
+Denmark,2018-08-01,Solar,0.11,8,6.47
+Denmark,2018-09-01,Solar,0.08,9,3.6
+Denmark,2018-10-01,Solar,0.06,10,2.26
+Denmark,2018-11-01,Solar,0.02,11,0.79
+Denmark,2018-12-01,Solar,0.01,12,0.32
+Denmark,2019-01-01,Solar,0.02,1,0.58
+Denmark,2019-02-01,Solar,0.04,2,1.43
+Denmark,2019-03-01,Solar,0.07,3,2.17
+Denmark,2019-04-01,Solar,0.14,4,6.7
+Denmark,2019-05-01,Solar,0.14,5,6.09
+Denmark,2019-06-01,Solar,0.15,6,10.27
+Denmark,2019-07-01,Solar,0.14,7,8.59
+Denmark,2019-08-01,Solar,0.12,8,7.95
+Denmark,2019-09-01,Solar,0.08,9,3.86
+Denmark,2019-10-01,Solar,0.05,10,2.25
+Denmark,2019-11-01,Solar,0.01,11,0.4
+Denmark,2019-12-01,Solar,0.01,12,0.31
+Denmark,2020-01-01,Solar,0.01,1,0.28
+Denmark,2020-02-01,Solar,0.03,2,0.92
+Denmark,2020-03-01,Solar,0.11,3,3.87
+Denmark,2020-04-01,Solar,0.16,4,7.51
+Denmark,2020-05-01,Solar,0.19,5,8.8
+Denmark,2020-06-01,Solar,0.2,6,12.99
+Denmark,2020-07-01,Solar,0.17,7,8.67
+Denmark,2020-08-01,Solar,0.17,8,12.14
+Denmark,2020-09-01,Solar,0.11,9,6.15
+Denmark,2020-10-01,Solar,0.06,10,2.69
+Denmark,2020-11-01,Solar,0.03,11,1.25
+Denmark,2020-12-01,Solar,0.01,12,0.38
+Denmark,2021-01-01,Solar,0.02,1,0.64
+Denmark,2021-02-01,Solar,0.05,2,1.54
+Denmark,2021-03-01,Solar,0.11,3,3.61
+Denmark,2021-04-01,Solar,0.2,4,6.8
+Denmark,2021-05-01,Solar,0.17,5,7.26
+Denmark,2021-06-01,Solar,0.22,6,11.17
+Denmark,2021-07-01,Solar,0.21,7,10.82
+Denmark,2021-08-01,Solar,0.18,8,7.96
+Denmark,2021-09-01,Solar,0.14,9,6.22
+Denmark,2021-10-01,Solar,0.07,10,2.44
+Denmark,2021-11-01,Solar,0.03,11,0.98
+Denmark,2021-12-01,Solar,0.01,12,0.28
+Denmark,2022-01-01,Solar,0.03,1,0.77
+Denmark,2022-02-01,Solar,0.08,2,2.13
+Denmark,2022-03-01,Solar,0.21,3,6.69
+Denmark,2022-04-01,Solar,0.26,4,9.32
+Denmark,2022-05-01,Solar,0.28,5,10.94
+Denmark,2022-06-01,Solar,0.29,6,15.34
+Denmark,2022-07-01,Solar,0.28,7,11.16
+Denmark,2022-08-01,Solar,0.28,8,15.64
+Denmark,2022-09-01,Solar,0.21,9,8.54
+Denmark,2022-10-01,Solar,0.12,10,4.71
+Denmark,2022-11-01,Solar,0.03,11,0.93
+Denmark,2022-12-01,Solar,0.02,12,0.59
+Denmark,2023-01-01,Solar,0.04,1,1.11
+Denmark,2023-02-01,Solar,0.09,2,2.88
+Denmark,2023-03-01,Solar,0.18,3,5.68
+Denmark,2023-04-01,Solar,0.41,4,14.75
+Egypt,2016-01-01,Solar,0.13,1,0.92
+Egypt,2016-02-01,Solar,0.09,2,0.68
+Egypt,2016-03-01,Solar,0.17,3,1.21
+Egypt,2016-04-01,Solar,0.18,4,1.24
+Egypt,2016-05-01,Solar,0.21,5,1.32
+Egypt,2016-06-01,Solar,0.23,6,1.3
+Egypt,2016-07-01,Solar,0.24,7,1.33
+Egypt,2016-08-01,Solar,0.25,8,1.34
+Egypt,2016-09-01,Solar,0.32,9,1.91
+Egypt,2016-10-01,Solar,0.29,10,1.82
+Egypt,2016-11-01,Solar,0.14,11,1
+Egypt,2016-12-01,Solar,0.13,12,0.9
+Egypt,2017-01-01,Solar,0.19,1,1.27
+Egypt,2017-02-01,Solar,0.15,2,1.25
+Egypt,2017-03-01,Solar,0.15,3,1.03
+Egypt,2017-04-01,Solar,0.18,4,1.26
+Egypt,2017-05-01,Solar,0.21,5,1.28
+Egypt,2017-06-01,Solar,0.3,6,1.72
+Egypt,2017-07-01,Solar,0.2,7,1.02
+Egypt,2017-08-01,Solar,0.24,8,1.21
+Egypt,2017-09-01,Solar,0.25,9,1.46
+Egypt,2017-10-01,Solar,0.22,10,1.39
+Egypt,2017-11-01,Solar,0.19,11,1.33
+Egypt,2017-12-01,Solar,0.13,12,0.87
+Egypt,2018-01-01,Solar,0.15,1,1.01
+Egypt,2018-02-01,Solar,0.11,2,0.82
+Egypt,2018-03-01,Solar,0.26,3,1.72
+Egypt,2018-04-01,Solar,0.24,4,1.59
+Egypt,2018-05-01,Solar,0.29,5,1.63
+Egypt,2018-06-01,Solar,0.38,6,2.09
+Egypt,2018-07-01,Solar,0.38,7,1.93
+Egypt,2018-08-01,Solar,0.45,8,2.26
+Egypt,2018-09-01,Solar,0.4,9,2.17
+Egypt,2018-10-01,Solar,0.37,10,2.21
+Egypt,2018-11-01,Solar,0.21,11,1.45
+Egypt,2018-12-01,Solar,0.22,12,1.46
+Egypt,2019-01-01,Solar,0.19,1,1.24
+Egypt,2019-02-01,Solar,0.24,2,1.74
+Egypt,2019-03-01,Solar,0.38,3,2.52
+Egypt,2019-04-01,Solar,0.38,4,2.58
+Egypt,2019-05-01,Solar,0.52,5,2.96
+Egypt,2019-06-01,Solar,0.58,6,3.1
+Egypt,2019-07-01,Solar,0.66,7,3.23
+Egypt,2019-08-01,Solar,0.13,8,0.87
+Egypt,2019-09-01,Solar,0.4,9,2.17
+Egypt,2019-10-01,Solar,0.56,10,3.32
+Egypt,2019-11-01,Solar,0.5,11,3.4
+Egypt,2019-12-01,Solar,0.45,12,3.05
+Egypt,2020-01-01,Solar,0.58,1,3.82
+Egypt,2020-02-01,Solar,0.58,2,3.99
+Egypt,2020-03-01,Solar,0.6,3,4.16
+Egypt,2020-04-01,Solar,0.68,4,4.84
+Egypt,2020-05-01,Solar,0.77,5,4.79
+Egypt,2020-06-01,Solar,0.9,6,5.23
+Egypt,2020-07-01,Solar,0.91,7,4.76
+Egypt,2020-08-01,Solar,0.85,8,4.25
+Egypt,2020-09-01,Solar,0.94,9,4.8
+Egypt,2020-10-01,Solar,0.8,10,4.49
+Egypt,2020-11-01,Solar,0.56,11,3.81
+Egypt,2020-12-01,Solar,0.56,12,3.72
+Egypt,2021-01-01,Solar,0.58,1,3.82
+Egypt,2021-02-01,Solar,0.64,2,4.57
+Egypt,2021-03-01,Solar,0.81,3,5.15
+Egypt,2021-04-01,Solar,0.87,4,5.49
+Egypt,2021-05-01,Solar,0.93,5,5.12
+Egypt,2021-06-01,Solar,1.02,6,5.4
+Egypt,2021-07-01,Solar,0.9,7,4.25
+Egypt,2021-08-01,Solar,0.84,8,3.8
+Egypt,2021-09-01,Solar,1,9,5.17
+Egypt,2021-10-01,Solar,1.26,10,7.18
+Egypt,2021-11-01,Solar,0.5,11,3.16
+Egypt,2021-12-01,Solar,0.55,12,3.47
+Egypt,2022-01-01,Solar,0.53,1,3.28
+Egypt,2022-02-01,Solar,0.65,2,4.39
+Egypt,2022-03-01,Solar,0.93,3,5.65
+Egypt,2022-04-01,Solar,0.96,4,5.77
+Egypt,2022-05-01,Solar,1.03,5,5.82
+Egypt,2022-06-01,Solar,0.96,6,4.77
+Egypt,2022-07-01,Solar,1.03,7,4.86
+Egypt,2022-08-01,Solar,1.04,8,4.63
+Egypt,2022-09-01,Solar,0.96,9,4.77
+Egypt,2022-10-01,Solar,0.88,10,4.95
+Egypt,2022-11-01,Solar,0.5,11,3.16
+Egypt,2022-12-01,Solar,0.68,12,4.17
+Egypt,2023-01-01,Solar,0.59,1,3.67
+Egypt,2023-02-01,Solar,0.79,2,5.28
+Egypt,2023-03-01,Solar,0.69,3,4.15
+El Salvador,2019-01-01,Solar,0.01,1,2.5
+El Salvador,2019-02-01,Solar,0.02,2,4.35
+El Salvador,2019-03-01,Solar,0.02,3,4.35
+El Salvador,2019-04-01,Solar,0.02,4,4.44
+El Salvador,2019-05-01,Solar,0.02,5,4.55
+El Salvador,2019-06-01,Solar,0.02,6,5.13
+El Salvador,2019-07-01,Solar,0.02,7,4.65
+El Salvador,2019-08-01,Solar,0.02,8,4.65
+El Salvador,2019-09-01,Solar,0.02,9,4.44
+El Salvador,2019-10-01,Solar,0.02,10,4.35
+El Salvador,2019-11-01,Solar,0.02,11,4.65
+El Salvador,2019-12-01,Solar,0.03,12,7.32
+El Salvador,2020-01-01,Solar,0.04,1,9.76
+El Salvador,2020-02-01,Solar,0.04,2,9.3
+El Salvador,2020-03-01,Solar,0.05,3,10.64
+El Salvador,2020-04-01,Solar,0.04,4,8.89
+El Salvador,2020-05-01,Solar,0.04,5,8.51
+El Salvador,2020-06-01,Solar,0.04,6,9.3
+El Salvador,2020-07-01,Solar,0.05,7,11.11
+El Salvador,2020-08-01,Solar,0.04,8,9.09
+El Salvador,2020-09-01,Solar,0.04,9,8.33
+El Salvador,2020-10-01,Solar,0.04,10,8.33
+El Salvador,2020-11-01,Solar,0.03,11,6.67
+El Salvador,2020-12-01,Solar,0.05,12,11.63
+El Salvador,2021-01-01,Solar,0.05,1,11.36
+El Salvador,2021-02-01,Solar,0.05,2,11.63
+El Salvador,2021-03-01,Solar,0.05,3,10.42
+El Salvador,2021-04-01,Solar,0.05,4,11.11
+El Salvador,2021-05-01,Solar,0.05,5,11.63
+El Salvador,2021-06-01,Solar,0.04,6,9.76
+El Salvador,2021-07-01,Solar,0.05,7,11.11
+El Salvador,2021-08-01,Solar,0.05,8,10.87
+El Salvador,2021-09-01,Solar,0.04,9,8.33
+El Salvador,2021-10-01,Solar,0.04,10,8.89
+El Salvador,2021-11-01,Solar,0.05,11,11.9
+El Salvador,2021-12-01,Solar,0.05,12,11.11
+El Salvador,2022-01-01,Solar,0.05,1,10.64
+El Salvador,2022-02-01,Solar,0.05,2,10.87
+El Salvador,2022-03-01,Solar,0.05,3,8.93
+El Salvador,2022-04-01,Solar,0.05,4,9.09
+El Salvador,2022-05-01,Solar,0.04,5,6.45
+El Salvador,2022-06-01,Solar,0.04,6,7.69
+El Salvador,2022-07-01,Solar,0.05,7,9.09
+El Salvador,2022-08-01,Solar,0.05,8,8.93
+El Salvador,2022-09-01,Solar,0.04,9,7.14
+El Salvador,2022-10-01,Solar,0.05,10,8.47
+El Salvador,2022-11-01,Solar,0.04,11,7.69
+El Salvador,2022-12-01,Solar,0.05,12,11.11
+Greece,2015-01-01,Solar,0.19,1,5.52
+Greece,2015-02-01,Solar,0.21,2,6.84
+Greece,2015-03-01,Solar,0.23,3,7.85
+Greece,2015-04-01,Solar,0.37,4,14.74
+Greece,2015-05-01,Solar,0.39,5,14.77
+Greece,2015-06-01,Solar,0.36,6,12.86
+Greece,2015-07-01,Solar,0.43,7,10.36
+Greece,2015-08-01,Solar,0.4,8,10.18
+Greece,2015-09-01,Solar,0.32,9,9.82
+Greece,2015-10-01,Solar,0.24,10,7.74
+Greece,2015-11-01,Solar,0.24,11,7.48
+Greece,2015-12-01,Solar,0.21,12,5.41
+Greece,2016-01-01,Solar,0.19,1,5.05
+Greece,2016-02-01,Solar,0.23,2,8.13
+Greece,2016-03-01,Solar,0.27,3,9.51
+Greece,2016-04-01,Solar,0.37,4,14.29
+Greece,2016-05-01,Solar,0.36,5,13.64
+Greece,2016-06-01,Solar,0.39,6,11.3
+Greece,2016-07-01,Solar,0.43,7,10.54
+Greece,2016-08-01,Solar,0.4,8,10.87
+Greece,2016-09-01,Solar,0.32,9,10.09
+Greece,2016-10-01,Solar,0.25,10,7.31
+Greece,2016-11-01,Solar,0.19,11,5.51
+Greece,2016-12-01,Solar,0.2,12,4.52
+Greece,2017-01-01,Solar,0.16,1,3.25
+Greece,2017-02-01,Solar,0.2,2,5.43
+Greece,2017-03-01,Solar,0.31,3,10
+Greece,2017-04-01,Solar,0.36,4,13.09
+Greece,2017-05-01,Solar,0.37,5,11.9
+Greece,2017-06-01,Solar,0.38,6,10.8
+Greece,2017-07-01,Solar,0.43,7,10.34
+Greece,2017-08-01,Solar,0.43,8,9.89
+Greece,2017-09-01,Solar,0.36,9,10.59
+Greece,2017-10-01,Solar,0.3,10,8.43
+Greece,2017-11-01,Solar,0.17,11,4.51
+Greece,2017-12-01,Solar,0.18,12,4.63
+Greece,2018-01-01,Solar,0.2,1,5.28
+Greece,2018-02-01,Solar,0.17,2,4.94
+Greece,2018-03-01,Solar,0.29,3,8.33
+Greece,2018-04-01,Solar,0.36,4,13.24
+Greece,2018-05-01,Solar,0.35,5,11.18
+Greece,2018-06-01,Solar,0.35,6,9.89
+Greece,2018-07-01,Solar,0.4,7,10.13
+Greece,2018-08-01,Solar,0.39,8,9.51
+Greece,2018-09-01,Solar,0.32,9,8.74
+Greece,2018-10-01,Solar,0.26,10,7.51
+Greece,2018-11-01,Solar,0.17,11,4.71
+Greece,2018-12-01,Solar,0.17,12,4.07
+Greece,2019-01-01,Solar,0.17,1,3.64
+Greece,2019-02-01,Solar,0.22,2,6.57
+Greece,2019-03-01,Solar,0.35,3,11.44
+Greece,2019-04-01,Solar,0.31,4,11.03
+Greece,2019-05-01,Solar,0.36,5,13.33
+Greece,2019-06-01,Solar,0.39,6,11.4
+Greece,2019-07-01,Solar,0.41,7,10.57
+Greece,2019-08-01,Solar,0.42,8,10.34
+Greece,2019-09-01,Solar,0.36,9,10.88
+Greece,2019-10-01,Solar,0.3,10,9.77
+Greece,2019-11-01,Solar,0.17,11,6.09
+Greece,2019-12-01,Solar,0.15,12,4.78
+Greece,2020-01-01,Solar,0.22,1,5.74
+Greece,2020-02-01,Solar,0.27,2,8.88
+Greece,2020-03-01,Solar,0.32,3,11.51
+Greece,2020-04-01,Solar,0.35,4,13.51
+Greece,2020-05-01,Solar,0.41,5,15.95
+Greece,2020-06-01,Solar,0.43,6,15.09
+Greece,2020-07-01,Solar,0.46,7,11.95
+Greece,2020-08-01,Solar,0.44,8,12.54
+Greece,2020-09-01,Solar,0.37,9,10.6
+Greece,2020-10-01,Solar,0.32,10,11.31
+Greece,2020-11-01,Solar,0.23,11,6.76
+Greece,2020-12-01,Solar,0.15,12,3.93
+Greece,2021-01-01,Solar,0.21,1,4.98
+Greece,2021-02-01,Solar,0.29,2,8.84
+Greece,2021-03-01,Solar,0.38,3,11.11
+Greece,2021-04-01,Solar,0.41,4,12.28
+Greece,2021-05-01,Solar,0.49,5,16.39
+Greece,2021-06-01,Solar,0.47,6,13.99
+Greece,2021-07-01,Solar,0.51,7,11.04
+Greece,2021-08-01,Solar,0.49,8,10.94
+Greece,2021-09-01,Solar,0.4,9,10.58
+Greece,2021-10-01,Solar,0.31,10,8.07
+Greece,2021-11-01,Solar,0.21,11,5.98
+Greece,2021-12-01,Solar,0.23,12,5.13
+Greece,2022-01-01,Solar,0.3,1,7.61
+Greece,2022-02-01,Solar,0.33,2,10.12
+Greece,2022-03-01,Solar,0.42,3,9.46
+Greece,2022-04-01,Solar,0.55,4,21.4
+Greece,2022-05-01,Solar,0.61,5,21.11
+Greece,2022-06-01,Solar,0.62,6,16.15
+Greece,2022-07-01,Solar,0.69,7,13.4
+Greece,2022-08-01,Solar,0.61,8,13.01
+Greece,2022-09-01,Solar,0.55,9,17.63
+Greece,2022-10-01,Solar,0.51,10,18.09
+Greece,2022-11-01,Solar,0.33,11,10.86
+Greece,2022-12-01,Solar,0.25,12,7.46
+Greece,2023-01-01,Solar,0.39,1,13.64
+Greece,2023-02-01,Solar,0.43,2,13.78
+Greece,2023-03-01,Solar,0.54,3,17.88
+Greece,2023-04-01,Solar,0.56,4,20.36
+Hungary,2015-01-01,Solar,0,1,0
+Hungary,2015-02-01,Solar,0,2,0
+Hungary,2015-03-01,Solar,0,3,0
+Hungary,2015-04-01,Solar,0,4,0
+Hungary,2015-05-01,Solar,0,5,0
+Hungary,2015-06-01,Solar,0,6,0
+Hungary,2015-07-01,Solar,0,7,0
+Hungary,2015-08-01,Solar,0,8,0
+Hungary,2015-09-01,Solar,0,9,0
+Hungary,2015-10-01,Solar,0,10,0
+Hungary,2015-11-01,Solar,0,11,0
+Hungary,2015-12-01,Solar,0,12,0
+Hungary,2016-01-01,Solar,0,1,0
+Hungary,2016-02-01,Solar,0,2,0
+Hungary,2016-03-01,Solar,0,3,0
+Hungary,2016-04-01,Solar,0,4,0
+Hungary,2016-05-01,Solar,0,5,0
+Hungary,2016-06-01,Solar,0,6,0
+Hungary,2016-07-01,Solar,0,7,0
+Hungary,2016-08-01,Solar,0,8,0
+Hungary,2016-09-01,Solar,0,9,0
+Hungary,2016-10-01,Solar,0,10,0
+Hungary,2016-11-01,Solar,0,11,0
+Hungary,2016-12-01,Solar,0,12,0
+Hungary,2017-01-01,Solar,0.01,1,0.34
+Hungary,2017-02-01,Solar,0.01,2,0.48
+Hungary,2017-03-01,Solar,0.03,3,1.19
+Hungary,2017-04-01,Solar,0.03,4,1.3
+Hungary,2017-05-01,Solar,0.04,5,1.72
+Hungary,2017-06-01,Solar,0.04,6,1.72
+Hungary,2017-07-01,Solar,0.05,7,1.99
+Hungary,2017-08-01,Solar,0.05,8,2.07
+Hungary,2017-09-01,Solar,0.03,9,1.29
+Hungary,2017-10-01,Solar,0.03,10,1.13
+Hungary,2017-11-01,Solar,0.01,11,0.37
+Hungary,2017-12-01,Solar,0.01,12,0.35
+Hungary,2018-01-01,Solar,0.02,1,0.74
+Hungary,2018-02-01,Solar,0.02,2,0.82
+Hungary,2018-03-01,Solar,0.03,3,1.32
+Hungary,2018-04-01,Solar,0.06,4,2.64
+Hungary,2018-05-01,Solar,0.07,5,3.54
+Hungary,2018-06-01,Solar,0.06,6,3.11
+Hungary,2018-07-01,Solar,0.08,7,3.03
+Hungary,2018-08-01,Solar,0.08,8,3.36
+Hungary,2018-09-01,Solar,0.08,9,3.2
+Hungary,2018-10-01,Solar,0.06,10,2.34
+Hungary,2018-11-01,Solar,0.03,11,1.2
+Hungary,2018-12-01,Solar,0.02,12,0.72
+Hungary,2019-01-01,Solar,0.03,1,0.97
+Hungary,2019-02-01,Solar,0.07,2,3.15
+Hungary,2019-03-01,Solar,0.11,3,4.74
+Hungary,2019-04-01,Solar,0.12,4,4.92
+Hungary,2019-05-01,Solar,0.11,5,5.02
+Hungary,2019-06-01,Solar,0.18,6,7.63
+Hungary,2019-07-01,Solar,0.18,7,6.38
+Hungary,2019-08-01,Solar,0.18,8,6.98
+Hungary,2019-09-01,Solar,0.15,9,5.91
+Hungary,2019-10-01,Solar,0.14,10,4.61
+Hungary,2019-11-01,Solar,0.06,11,2.19
+Hungary,2019-12-01,Solar,0.05,12,1.8
+Hungary,2020-01-01,Solar,0.04,1,1.37
+Hungary,2020-02-01,Solar,0.09,2,3.54
+Hungary,2020-03-01,Solar,0.13,3,4.81
+Hungary,2020-04-01,Solar,0.2,4,8.3
+Hungary,2020-05-01,Solar,0.18,5,7.79
+Hungary,2020-06-01,Solar,0.17,6,7.42
+Hungary,2020-07-01,Solar,0.21,7,7.87
+Hungary,2020-08-01,Solar,0.21,8,8.75
+Hungary,2020-09-01,Solar,0.18,9,6.69
+Hungary,2020-10-01,Solar,0.1,10,3.5
+Hungary,2020-11-01,Solar,0.05,11,1.85
+Hungary,2020-12-01,Solar,0.03,12,1.12
+Hungary,2021-01-01,Solar,0.06,1,2.08
+Hungary,2021-02-01,Solar,0.11,2,4.37
+Hungary,2021-03-01,Solar,0.21,3,7.45
+Hungary,2021-04-01,Solar,0.22,4,8.12
+Hungary,2021-05-01,Solar,0.26,5,10.79
+Hungary,2021-06-01,Solar,0.33,6,12.09
+Hungary,2021-07-01,Solar,0.31,7,11.27
+Hungary,2021-08-01,Solar,0.28,8,11.02
+Hungary,2021-09-01,Solar,0.24,9,9.6
+Hungary,2021-10-01,Solar,0.2,10,7.43
+Hungary,2021-11-01,Solar,0.1,11,3.88
+Hungary,2021-12-01,Solar,0.07,12,2.55
+Hungary,2022-01-01,Solar,0.12,1,4.01
+Hungary,2022-02-01,Solar,0.17,2,6.91
+Hungary,2022-03-01,Solar,0.3,3,10.07
+Hungary,2022-04-01,Solar,0.28,4,10.73
+Hungary,2022-05-01,Solar,0.35,5,13.41
+Hungary,2022-06-01,Solar,0.4,6,15.56
+Hungary,2022-07-01,Solar,0.41,7,14.54
+Hungary,2022-08-01,Solar,0.37,8,15.55
+Hungary,2022-09-01,Solar,0.25,9,11.06
+Hungary,2022-10-01,Solar,0.23,10,8.39
+Hungary,2022-11-01,Solar,0.09,11,3.88
+Hungary,2022-12-01,Solar,0.09,12,3.33
+Hungary,2023-01-01,Solar,0.1,1,3.83
+Hungary,2023-02-01,Solar,0.22,2,8.7
+Hungary,2023-03-01,Solar,0.34,3,12.73
+Hungary,2023-04-01,Solar,0.38,4,14.29
+Ireland,2015-01-01,Solar,0,1,0
+Ireland,2015-02-01,Solar,0,2,0
+Ireland,2015-03-01,Solar,0,3,0
+Ireland,2015-04-01,Solar,0,4,0
+Ireland,2015-05-01,Solar,0,5,0
+Ireland,2015-06-01,Solar,0,6,0
+Ireland,2015-07-01,Solar,0,7,0
+Ireland,2015-08-01,Solar,0,8,0
+Ireland,2015-09-01,Solar,0,9,0
+Ireland,2015-10-01,Solar,0,10,0
+Ireland,2015-11-01,Solar,0,11,0
+Ireland,2015-12-01,Solar,0,12,0
+Ireland,2016-01-01,Solar,0,1,0
+Ireland,2016-02-01,Solar,0,2,0
+Ireland,2016-03-01,Solar,0,3,0
+Ireland,2016-04-01,Solar,0,4,0
+Ireland,2016-05-01,Solar,0,5,0
+Ireland,2016-06-01,Solar,0,6,0
+Ireland,2016-07-01,Solar,0,7,0
+Ireland,2016-08-01,Solar,0,8,0
+Ireland,2016-09-01,Solar,0,9,0
+Ireland,2016-10-01,Solar,0,10,0
+Ireland,2016-11-01,Solar,0,11,0
+Ireland,2016-12-01,Solar,0,12,0
+Ireland,2017-01-01,Solar,0,1,0
+Ireland,2017-02-01,Solar,0,2,0
+Ireland,2017-03-01,Solar,0,3,0
+Ireland,2017-04-01,Solar,0,4,0
+Ireland,2017-05-01,Solar,0,5,0
+Ireland,2017-06-01,Solar,0,6,0
+Ireland,2017-07-01,Solar,0,7,0
+Ireland,2017-08-01,Solar,0,8,0
+Ireland,2017-09-01,Solar,0,9,0
+Ireland,2017-10-01,Solar,0,10,0
+Ireland,2017-11-01,Solar,0,11,0
+Ireland,2017-12-01,Solar,0,12,0
+Ireland,2018-01-01,Solar,0,1,0
+Ireland,2018-02-01,Solar,0,2,0
+Ireland,2018-03-01,Solar,0,3,0
+Ireland,2018-04-01,Solar,0,4,0
+Ireland,2018-05-01,Solar,0,5,0
+Ireland,2018-06-01,Solar,0,6,0
+Ireland,2018-07-01,Solar,0,7,0
+Ireland,2018-08-01,Solar,0,8,0
+Ireland,2018-09-01,Solar,0,9,0
+Ireland,2018-10-01,Solar,0,10,0
+Ireland,2018-11-01,Solar,0,11,0
+Ireland,2018-12-01,Solar,0,12,0
+Ireland,2019-01-01,Solar,0,1,0
+Ireland,2019-02-01,Solar,0,2,0
+Ireland,2019-03-01,Solar,0,3,0
+Ireland,2019-04-01,Solar,0,4,0
+Ireland,2019-05-01,Solar,0,5,0
+Ireland,2019-06-01,Solar,0,6,0
+Ireland,2019-07-01,Solar,0,7,0
+Ireland,2019-08-01,Solar,0,8,0
+Ireland,2019-09-01,Solar,0,9,0
+Ireland,2019-10-01,Solar,0,10,0
+Ireland,2019-11-01,Solar,0,11,0
+Ireland,2019-12-01,Solar,0,12,0
+Ireland,2020-01-01,Solar,0,1,0
+Ireland,2020-02-01,Solar,0,2,0
+Ireland,2020-03-01,Solar,0,3,0
+Ireland,2020-04-01,Solar,0,4,0
+Ireland,2020-05-01,Solar,0,5,0
+Ireland,2020-06-01,Solar,0,6,0
+Ireland,2020-07-01,Solar,0,7,0
+Ireland,2020-08-01,Solar,0,8,0
+Ireland,2020-09-01,Solar,0,9,0
+Ireland,2020-10-01,Solar,0,10,0
+Ireland,2020-11-01,Solar,0,11,0
+Ireland,2020-12-01,Solar,0,12,0
+Ireland,2021-01-01,Solar,0,1,0
+Ireland,2021-02-01,Solar,0,2,0
+Ireland,2021-03-01,Solar,0,3,0
+Ireland,2021-04-01,Solar,0,4,0
+Ireland,2021-05-01,Solar,0,5,0
+Ireland,2021-06-01,Solar,0,6,0
+Ireland,2021-07-01,Solar,0,7,0
+Ireland,2021-08-01,Solar,0,8,0
+Ireland,2021-09-01,Solar,0,9,0
+Ireland,2021-10-01,Solar,0,10,0
+Ireland,2021-11-01,Solar,0,11,0
+Ireland,2021-12-01,Solar,0,12,0
+Ireland,2022-01-01,Solar,0,1,0
+Ireland,2022-02-01,Solar,0,2,0
+Ireland,2022-03-01,Solar,0,3,0
+Ireland,2022-04-01,Solar,0,4,0
+Ireland,2022-05-01,Solar,0,5,0
+Ireland,2022-06-01,Solar,0,6,0
+Ireland,2022-07-01,Solar,0,7,0
+Ireland,2022-08-01,Solar,0,8,0
+Ireland,2022-09-01,Solar,0,9,0
+Ireland,2022-10-01,Solar,0,10,0
+Ireland,2022-11-01,Solar,0,11,0
+Ireland,2022-12-01,Solar,0,12,0
+Ireland,2023-01-01,Solar,0,1,0
+Ireland,2023-02-01,Solar,0.01,2,0.39
+Ireland,2023-03-01,Solar,0.01,3,0.36
+Luxembourg,2018-01-01,Solar,0,1,0
+Luxembourg,2018-02-01,Solar,0,2,0
+Luxembourg,2018-03-01,Solar,0.01,3,12.5
+Luxembourg,2018-04-01,Solar,0.01,4,14.29
+Luxembourg,2018-05-01,Solar,0.02,5,25
+Luxembourg,2018-06-01,Solar,0.02,6,28.57
+Luxembourg,2018-07-01,Solar,0.02,7,33.33
+Luxembourg,2018-08-01,Solar,0.01,8,20
+Luxembourg,2018-09-01,Solar,0.01,9,16.67
+Luxembourg,2018-10-01,Solar,0.01,10,14.29
+Luxembourg,2018-11-01,Solar,0,11,0
+Luxembourg,2018-12-01,Solar,0,12,0
+Luxembourg,2019-01-01,Solar,0,1,0
+Luxembourg,2019-02-01,Solar,0.01,2,12.5
+Luxembourg,2019-03-01,Solar,0.01,3,9.09
+Luxembourg,2019-04-01,Solar,0.01,4,12.5
+Luxembourg,2019-05-01,Solar,0.01,5,14.29
+Luxembourg,2019-06-01,Solar,0.02,6,33.33
+Luxembourg,2019-07-01,Solar,0.02,7,28.57
+Luxembourg,2019-08-01,Solar,0.01,8,20
+Luxembourg,2019-09-01,Solar,0.01,9,14.29
+Luxembourg,2019-10-01,Solar,0.01,10,11.11
+Luxembourg,2019-11-01,Solar,0,11,0
+Luxembourg,2019-12-01,Solar,0,12,0
+Luxembourg,2020-01-01,Solar,0,1,0
+Luxembourg,2020-02-01,Solar,0,2,0
+Luxembourg,2020-03-01,Solar,0.01,3,8.33
+Luxembourg,2020-04-01,Solar,0.02,4,22.22
+Luxembourg,2020-05-01,Solar,0.03,5,33.33
+Luxembourg,2020-06-01,Solar,0.02,6,25
+Luxembourg,2020-07-01,Solar,0.03,7,33.33
+Luxembourg,2020-08-01,Solar,0.02,8,25
+Luxembourg,2020-09-01,Solar,0.02,9,25
+Luxembourg,2020-10-01,Solar,0.01,10,14.29
+Luxembourg,2020-11-01,Solar,0,11,0
+Luxembourg,2020-12-01,Solar,0,12,0
+Luxembourg,2021-01-01,Solar,0,1,0
+Luxembourg,2021-02-01,Solar,0.01,2,9.09
+Luxembourg,2021-03-01,Solar,0.02,3,16.67
+Luxembourg,2021-04-01,Solar,0.03,4,25
+Luxembourg,2021-05-01,Solar,0.03,5,23.08
+Luxembourg,2021-06-01,Solar,0.04,6,40
+Luxembourg,2021-07-01,Solar,0.04,7,36.36
+Luxembourg,2021-08-01,Solar,0.03,8,30
+Luxembourg,2021-09-01,Solar,0.02,9,28.57
+Luxembourg,2021-10-01,Solar,0.01,10,11.11
+Luxembourg,2021-11-01,Solar,0.01,11,11.11
+Luxembourg,2021-12-01,Solar,0,12,0
+Luxembourg,2022-01-01,Solar,0,1,0
+Luxembourg,2022-02-01,Solar,0.01,2,8.33
+Luxembourg,2022-03-01,Solar,0.02,3,20
+Luxembourg,2022-04-01,Solar,0.03,4,27.27
+Luxembourg,2022-05-01,Solar,0.04,5,40
+Luxembourg,2022-06-01,Solar,0.04,6,44.44
+Luxembourg,2022-07-01,Solar,0.05,7,55.56
+Luxembourg,2022-08-01,Solar,0.04,8,44.44
+Luxembourg,2022-09-01,Solar,0.03,9,33.33
+Luxembourg,2022-10-01,Solar,0.01,10,12.5
+Luxembourg,2022-11-01,Solar,0.01,11,11.11
+Luxembourg,2022-12-01,Solar,0,12,0
+Luxembourg,2023-01-01,Solar,0.01,1,10
+Mexico,2019-01-01,Solar,0.42,1,1.78
+Mexico,2019-02-01,Solar,0.45,2,2.03
+Mexico,2019-03-01,Solar,0.58,3,2.3
+Mexico,2019-04-01,Solar,0.64,4,2.52
+Mexico,2019-05-01,Solar,0.78,5,2.73
+Mexico,2019-06-01,Solar,0.9,6,3.13
+Mexico,2019-07-01,Solar,0.85,7,2.84
+Mexico,2019-08-01,Solar,0.81,8,2.64
+Mexico,2019-09-01,Solar,0.76,9,2.76
+Mexico,2019-10-01,Solar,0.81,10,3.04
+Mexico,2019-11-01,Solar,0.65,11,2.72
+Mexico,2019-12-01,Solar,0.74,12,3.18
+Mexico,2020-01-01,Solar,0.78,1,3.25
+Mexico,2020-02-01,Solar,0.88,2,3.83
+Mexico,2020-03-01,Solar,1.11,3,4.31
+Mexico,2020-04-01,Solar,1.26,4,5.36
+Mexico,2020-05-01,Solar,1.16,5,4.56
+Mexico,2020-06-01,Solar,1.28,6,4.73
+Mexico,2020-07-01,Solar,1.23,7,4.22
+Mexico,2020-08-01,Solar,1.24,8,4.18
+Mexico,2020-09-01,Solar,1.12,9,4.1
+Mexico,2020-10-01,Solar,1.3,10,4.78
+Mexico,2020-11-01,Solar,1.11,11,4.59
+Mexico,2020-12-01,Solar,1.06,12,4.46
+Mexico,2021-01-01,Solar,1.15,1,4.8
+Mexico,2021-02-01,Solar,1.28,2,5.84
+Mexico,2021-03-01,Solar,1.61,3,6.2
+Mexico,2021-04-01,Solar,1.57,4,5.9
+Mexico,2021-05-01,Solar,1.78,5,6.14
+Mexico,2021-06-01,Solar,1.52,6,5.18
+Mexico,2021-07-01,Solar,1.51,7,5.05
+Mexico,2021-08-01,Solar,1.52,8,5.05
+Mexico,2021-09-01,Solar,1.33,9,4.72
+Mexico,2021-10-01,Solar,1.4,10,5.1
+Mexico,2021-11-01,Solar,1.29,11,5.3
+Mexico,2021-12-01,Solar,1.11,12,4.53
+Mexico,2022-01-01,Solar,1.1,1,4.42
+Mexico,2022-02-01,Solar,1.14,2,4.94
+Mexico,2022-03-01,Solar,1.58,3,5.95
+Mexico,2022-04-01,Solar,1.55,4,5.63
+Mexico,2022-05-01,Solar,1.73,5,5.56
+Mexico,2022-06-01,Solar,1.53,6,4.97
+Mexico,2022-07-01,Solar,1.48,7,4.6
+Mexico,2022-08-01,Solar,1.33,8,4.26
+Mexico,2022-09-01,Solar,1.29,9,4.53
+Mexico,2022-10-01,Solar,1.26,10,4.56
+Mexico,2022-11-01,Solar,1.22,11,4.79
+Mexico,2022-12-01,Solar,1.09,12,4.36
+Mexico,2023-01-01,Solar,1.21,1,4.74
+Mexico,2023-02-01,Solar,1.27,2,5.33
+Mexico,2023-03-01,Solar,1.67,3,6.01
+Pakistan,2019-01-01,Solar,0.04,1,0.52
+Pakistan,2019-02-01,Solar,0.05,2,0.75
+Pakistan,2019-03-01,Solar,0.07,3,0.92
+Pakistan,2019-04-01,Solar,0.07,4,0.72
+Pakistan,2019-05-01,Solar,0.07,5,0.56
+Pakistan,2019-06-01,Solar,0.06,6,0.46
+Pakistan,2019-07-01,Solar,0.08,7,0.56
+Pakistan,2019-08-01,Solar,0.06,8,0.43
+Pakistan,2019-09-01,Solar,0.06,9,0.44
+Pakistan,2019-10-01,Solar,0.06,10,0.63
+Pakistan,2019-11-01,Solar,0.04,11,0.54
+Pakistan,2019-12-01,Solar,0.04,12,0.53
+Pakistan,2020-01-01,Solar,0.04,1,0.52
+Pakistan,2020-02-01,Solar,0.06,2,0.86
+Pakistan,2020-03-01,Solar,0.06,3,0.87
+Pakistan,2020-04-01,Solar,0.07,4,0.84
+Pakistan,2020-05-01,Solar,0.07,5,0.58
+Pakistan,2020-06-01,Solar,0.06,6,0.45
+Pakistan,2020-07-01,Solar,0.06,7,0.41
+Pakistan,2020-08-01,Solar,0.06,8,0.39
+Pakistan,2020-09-01,Solar,0.06,9,0.46
+Pakistan,2020-10-01,Solar,0.06,10,0.59
+Pakistan,2020-11-01,Solar,0.05,11,0.74
+Pakistan,2020-12-01,Solar,0.05,12,0.64
+Pakistan,2021-01-01,Solar,0.05,1,0.61
+Pakistan,2021-02-01,Solar,0.06,2,0.83
+Pakistan,2021-03-01,Solar,0.07,3,0.78
+Pakistan,2021-04-01,Solar,0.07,4,0.67
+Pakistan,2021-05-01,Solar,0.07,5,0.54
+Pakistan,2021-06-01,Solar,0.06,6,0.42
+Pakistan,2021-07-01,Solar,0.06,7,0.41
+Pakistan,2021-08-01,Solar,0.07,8,0.44
+Pakistan,2021-09-01,Solar,0.06,9,0.43
+Pakistan,2021-10-01,Solar,0.06,10,0.54
+Pakistan,2021-11-01,Solar,0.05,11,0.59
+Pakistan,2021-12-01,Solar,0.05,12,0.58
+Pakistan,2022-01-01,Solar,0.05,1,0.57
+Pakistan,2022-02-01,Solar,0.06,2,0.74
+Pakistan,2022-03-01,Solar,0.07,3,0.67
+Pakistan,2022-04-01,Solar,0.09,4,0.7
+Pakistan,2022-05-01,Solar,0.09,5,0.62
+Pakistan,2022-06-01,Solar,0.09,6,0.65
+Pakistan,2022-07-01,Solar,0.07,7,0.49
+Pakistan,2022-08-01,Solar,0.07,8,0.5
+Pakistan,2022-09-01,Solar,0.08,9,0.62
+Pakistan,2022-10-01,Solar,0.08,10,0.75
+Pakistan,2022-11-01,Solar,0.08,11,0.96
+Pakistan,2022-12-01,Solar,0.07,12,0.84
+Pakistan,2023-01-01,Solar,0.07,1,0.83
+Pakistan,2023-02-01,Solar,0.08,2,1.04
+Pakistan,2023-03-01,Solar,0.11,3,1.27
+Portugal,2015-01-01,Solar,0.04,1,0.97
+Portugal,2015-02-01,Solar,0.05,2,1.14
+Portugal,2015-03-01,Solar,0.07,3,1.69
+Portugal,2015-04-01,Solar,0.07,4,2.03
+Portugal,2015-05-01,Solar,0.08,5,2.11
+Portugal,2015-06-01,Solar,0.08,6,2.27
+Portugal,2015-07-01,Solar,0.09,7,2.31
+Portugal,2015-08-01,Solar,0.08,8,2.27
+Portugal,2015-09-01,Solar,0.07,9,1.93
+Portugal,2015-10-01,Solar,0.05,10,1.17
+Portugal,2015-11-01,Solar,0.05,11,1.33
+Portugal,2015-12-01,Solar,0.03,12,0.78
+Portugal,2016-01-01,Solar,0.03,1,0.59
+Portugal,2016-02-01,Solar,0.04,2,0.82
+Portugal,2016-03-01,Solar,0.07,3,1.54
+Portugal,2016-04-01,Solar,0.07,4,1.59
+Portugal,2016-05-01,Solar,0.07,5,1.63
+Portugal,2016-06-01,Solar,0.09,6,2.2
+Portugal,2016-07-01,Solar,0.09,7,2.11
+Portugal,2016-08-01,Solar,0.09,8,2.15
+Portugal,2016-09-01,Solar,0.08,9,1.98
+Portugal,2016-10-01,Solar,0.06,10,1.55
+Portugal,2016-11-01,Solar,0.04,11,0.92
+Portugal,2016-12-01,Solar,0.05,12,1.1
+Portugal,2017-01-01,Solar,0.05,1,1.03
+Portugal,2017-02-01,Solar,0.04,2,0.88
+Portugal,2017-03-01,Solar,0.07,3,1.55
+Portugal,2017-04-01,Solar,0.08,4,2.06
+Portugal,2017-05-01,Solar,0.08,5,1.92
+Portugal,2017-06-01,Solar,0.09,6,2.08
+Portugal,2017-07-01,Solar,0.09,7,1.94
+Portugal,2017-08-01,Solar,0.09,8,1.9
+Portugal,2017-09-01,Solar,0.08,9,1.89
+Portugal,2017-10-01,Solar,0.07,10,1.87
+Portugal,2017-11-01,Solar,0.05,11,1.21
+Portugal,2017-12-01,Solar,0.04,12,0.94
+Portugal,2018-01-01,Solar,0.05,1,1.07
+Portugal,2018-02-01,Solar,0.05,2,1.21
+Portugal,2018-03-01,Solar,0.06,3,1.16
+Portugal,2018-04-01,Solar,0.07,4,1.7
+Portugal,2018-05-01,Solar,0.08,5,2.08
+Portugal,2018-06-01,Solar,0.08,6,1.83
+Portugal,2018-07-01,Solar,0.1,7,2.14
+Portugal,2018-08-01,Solar,0.1,8,2.29
+Portugal,2018-09-01,Solar,0.09,9,2.17
+Portugal,2018-10-01,Solar,0.07,10,1.79
+Portugal,2018-11-01,Solar,0.04,11,0.9
+Portugal,2018-12-01,Solar,0.05,12,1.17
+Portugal,2019-01-01,Solar,0.06,1,1.32
+Portugal,2019-02-01,Solar,0.07,2,2.11
+Portugal,2019-03-01,Solar,0.09,3,2.71
+Portugal,2019-04-01,Solar,0.09,4,2.49
+Portugal,2019-05-01,Solar,0.11,5,3.05
+Portugal,2019-06-01,Solar,0.11,6,3.08
+Portugal,2019-07-01,Solar,0.11,7,2.7
+Portugal,2019-08-01,Solar,0.12,8,3.6
+Portugal,2019-09-01,Solar,0.11,9,3.24
+Portugal,2019-10-01,Solar,0.08,10,2.14
+Portugal,2019-11-01,Solar,0.05,11,1.12
+Portugal,2019-12-01,Solar,0.05,12,1.02
+Portugal,2020-01-01,Solar,0.06,1,1.17
+Portugal,2020-02-01,Solar,0.08,2,2.1
+Portugal,2020-03-01,Solar,0.1,3,2.65
+Portugal,2020-04-01,Solar,0.1,4,3.44
+Portugal,2020-05-01,Solar,0.13,5,4.58
+Portugal,2020-06-01,Solar,0.13,6,4.28
+Portugal,2020-07-01,Solar,0.15,7,4.32
+Portugal,2020-08-01,Solar,0.15,8,3.97
+Portugal,2020-09-01,Solar,0.12,9,2.89
+Portugal,2020-10-01,Solar,0.11,10,2.63
+Portugal,2020-11-01,Solar,0.07,11,1.49
+Portugal,2020-12-01,Solar,0.07,12,1.62
+Portugal,2021-01-01,Solar,0.07,1,1.54
+Portugal,2021-02-01,Solar,0.07,2,1.58
+Portugal,2021-03-01,Solar,0.14,3,3.54
+Portugal,2021-04-01,Solar,0.13,4,3.75
+Portugal,2021-05-01,Solar,0.17,5,5.5
+Portugal,2021-06-01,Solar,0.18,6,5.13
+Portugal,2021-07-01,Solar,0.21,7,6
+Portugal,2021-08-01,Solar,0.21,8,7.45
+Portugal,2021-09-01,Solar,0.17,9,5.21
+Portugal,2021-10-01,Solar,0.15,10,4.89
+Portugal,2021-11-01,Solar,0.13,11,3.55
+Portugal,2021-12-01,Solar,0.1,12,2.49
+Portugal,2022-01-01,Solar,0.15,1,3.93
+Portugal,2022-02-01,Solar,0.16,2,5.76
+Portugal,2022-03-01,Solar,0.16,3,4.18
+Portugal,2022-04-01,Solar,0.24,4,7.29
+Portugal,2022-05-01,Solar,0.28,5,8.95
+Portugal,2022-06-01,Solar,0.27,6,8.88
+Portugal,2022-07-01,Solar,0.3,7,9.46
+Portugal,2022-08-01,Solar,0.3,8,9.97
+Portugal,2022-09-01,Solar,0.25,9,7.81
+Portugal,2022-10-01,Solar,0.19,10,5.92
+Portugal,2022-11-01,Solar,0.15,11,4
+Portugal,2022-12-01,Solar,0.11,12,2.38
+Portugal,2023-01-01,Solar,0.19,1,4.09
+Portugal,2023-02-01,Solar,0.2,2,5
+Portugal,2023-03-01,Solar,0.29,3,9.24
+Portugal,2023-04-01,Solar,0.36,4,15.13
+Romania,2015-01-01,Solar,0.04,1,0.73
+Romania,2015-02-01,Solar,0.06,2,1.08
+Romania,2015-03-01,Solar,0.1,3,1.71
+Romania,2015-04-01,Solar,0.13,4,2.39
+Romania,2015-05-01,Solar,0.14,5,3.01
+Romania,2015-06-01,Solar,0.15,6,3.28
+Romania,2015-07-01,Solar,0.16,7,3.01
+Romania,2015-08-01,Solar,0.15,8,2.83
+Romania,2015-09-01,Solar,0.11,9,2.17
+Romania,2015-10-01,Solar,0.08,10,1.44
+Romania,2015-11-01,Solar,0.07,11,1.23
+Romania,2015-12-01,Solar,0.05,12,0.87
+Romania,2016-01-01,Solar,0.04,1,0.65
+Romania,2016-02-01,Solar,0.06,2,1.18
+Romania,2016-03-01,Solar,0.1,3,1.97
+Romania,2016-04-01,Solar,0.13,4,2.8
+Romania,2016-05-01,Solar,0.14,5,3.2
+Romania,2016-06-01,Solar,0.15,6,2.97
+Romania,2016-07-01,Solar,0.17,7,3.07
+Romania,2016-08-01,Solar,0.15,8,2.87
+Romania,2016-09-01,Solar,0.13,9,2.73
+Romania,2016-10-01,Solar,0.07,10,1.27
+Romania,2016-11-01,Solar,0.05,11,0.86
+Romania,2016-12-01,Solar,0.05,12,0.79
+Romania,2017-01-01,Solar,0.05,1,0.78
+Romania,2017-02-01,Solar,0.07,2,1.3
+Romania,2017-03-01,Solar,0.12,3,2.09
+Romania,2017-04-01,Solar,0.13,4,2.57
+Romania,2017-05-01,Solar,0.16,5,3.45
+Romania,2017-06-01,Solar,0.17,6,3.56
+Romania,2017-07-01,Solar,0.17,7,3.47
+Romania,2017-08-01,Solar,0.17,8,3.54
+Romania,2017-09-01,Solar,0.13,9,2.77
+Romania,2017-10-01,Solar,0.11,10,2.15
+Romania,2017-11-01,Solar,0.05,11,0.93
+Romania,2017-12-01,Solar,0.04,12,0.67
+Romania,2018-01-01,Solar,0.05,1,0.84
+Romania,2018-02-01,Solar,0.05,2,0.87
+Romania,2018-03-01,Solar,0.09,3,1.49
+Romania,2018-04-01,Solar,0.16,4,3.26
+Romania,2018-05-01,Solar,0.18,5,3.87
+Romania,2018-06-01,Solar,0.15,6,3.15
+Romania,2018-07-01,Solar,0.15,7,2.83
+Romania,2018-08-01,Solar,0.17,8,3.25
+Romania,2018-09-01,Solar,0.14,9,2.92
+Romania,2018-10-01,Solar,0.12,10,2.34
+Romania,2018-11-01,Solar,0.05,11,0.95
+Romania,2018-12-01,Solar,0.03,12,0.55
+Romania,2019-01-01,Solar,0.04,1,0.73
+Romania,2019-02-01,Solar,0.08,2,1.57
+Romania,2019-03-01,Solar,0.14,3,2.68
+Romania,2019-04-01,Solar,0.13,4,2.7
+Romania,2019-05-01,Solar,0.14,5,2.8
+Romania,2019-06-01,Solar,0.16,6,3.15
+Romania,2019-07-01,Solar,0.16,7,3.4
+Romania,2019-08-01,Solar,0.17,8,3.84
+Romania,2019-09-01,Solar,0.13,9,3.16
+Romania,2019-10-01,Solar,0.11,10,2.47
+Romania,2019-11-01,Solar,0.05,11,1.01
+Romania,2019-12-01,Solar,0.05,12,0.97
+Romania,2020-01-01,Solar,0.06,1,1.13
+Romania,2020-02-01,Solar,0.08,2,1.65
+Romania,2020-03-01,Solar,0.11,3,2.2
+Romania,2020-04-01,Solar,0.17,4,4.27
+Romania,2020-05-01,Solar,0.15,5,3.85
+Romania,2020-06-01,Solar,0.14,6,3.41
+Romania,2020-07-01,Solar,0.16,7,3.51
+Romania,2020-08-01,Solar,0.16,8,3.46
+Romania,2020-09-01,Solar,0.14,9,3.16
+Romania,2020-10-01,Solar,0.09,10,2.03
+Romania,2020-11-01,Solar,0.05,11,1.05
+Romania,2020-12-01,Solar,0.03,12,0.56
+Romania,2021-01-01,Solar,0.04,1,0.73
+Romania,2021-02-01,Solar,0.07,2,1.39
+Romania,2021-03-01,Solar,0.11,3,2.09
+Romania,2021-04-01,Solar,0.13,4,2.69
+Romania,2021-05-01,Solar,0.16,5,3.27
+Romania,2021-06-01,Solar,0.15,6,3.03
+Romania,2021-07-01,Solar,0.17,7,3.56
+Romania,2021-08-01,Solar,0.14,8,3.54
+Romania,2021-09-01,Solar,0.12,9,2.91
+Romania,2021-10-01,Solar,0.1,10,2.21
+Romania,2021-11-01,Solar,0.06,11,1.3
+Romania,2021-12-01,Solar,0.03,12,0.57
+Romania,2022-01-01,Solar,0.06,1,1.09
+Romania,2022-02-01,Solar,0.08,2,1.74
+Romania,2022-03-01,Solar,0.12,3,2.53
+Romania,2022-04-01,Solar,0.13,4,2.84
+Romania,2022-05-01,Solar,0.17,5,3.74
+Romania,2022-06-01,Solar,0.17,6,3.97
+Romania,2022-07-01,Solar,0.17,7,3.77
+Romania,2022-08-01,Solar,0.15,8,3.65
+Romania,2022-09-01,Solar,0.11,9,2.56
+Romania,2022-10-01,Solar,0.12,10,2.78
+Romania,2022-11-01,Solar,0.05,11,1.12
+Romania,2022-12-01,Solar,0.04,12,0.81
+Romania,2023-01-01,Solar,0.04,1,0.73
+Romania,2023-02-01,Solar,0.08,2,1.6
+Romania,2023-03-01,Solar,0.13,3,2.64
+Romania,2023-04-01,Solar,0.13,4,2.55
+Russia,2019-01-01,Solar,0.02,1,0.02
+Russia,2019-02-01,Solar,0.05,2,0.05
+Russia,2019-03-01,Solar,0.11,3,0.11
+Russia,2019-04-01,Solar,0.14,4,0.16
+Russia,2019-05-01,Solar,0.16,5,0.19
+Russia,2019-06-01,Solar,0.16,6,0.2
+Russia,2019-07-01,Solar,0.16,7,0.2
+Russia,2019-08-01,Solar,0.15,8,0.18
+Russia,2019-09-01,Solar,0.12,9,0.14
+Russia,2019-10-01,Solar,0.1,10,0.11
+Russia,2019-11-01,Solar,0.06,11,0.06
+Russia,2019-12-01,Solar,0.04,12,0.04
+Russia,2020-01-01,Solar,0.04,1,0.04
+Russia,2020-02-01,Solar,0.09,2,0.1
+Russia,2020-03-01,Solar,0.18,3,0.19
+Russia,2020-04-01,Solar,0.22,4,0.26
+Russia,2020-05-01,Solar,0.22,5,0.29
+Russia,2020-06-01,Solar,0.23,6,0.31
+Russia,2020-07-01,Solar,0.24,7,0.31
+Russia,2020-08-01,Solar,0.23,8,0.29
+Russia,2020-09-01,Solar,0.21,9,0.26
+Russia,2020-10-01,Solar,0.16,10,0.18
+Russia,2020-11-01,Solar,0.08,11,0.09
+Russia,2020-12-01,Solar,0.06,12,0.06
+Russia,2021-01-01,Solar,0.06,1,0.06
+Russia,2021-02-01,Solar,0.1,2,0.1
+Russia,2021-03-01,Solar,0.21,3,0.21
+Russia,2021-04-01,Solar,0.23,4,0.26
+Russia,2021-05-01,Solar,0.29,5,0.35
+Russia,2021-06-01,Solar,0.27,6,0.34
+Russia,2021-07-01,Solar,0.29,7,0.35
+Russia,2021-08-01,Solar,0.27,8,0.32
+Russia,2021-09-01,Solar,0.2,9,0.23
+Russia,2021-10-01,Solar,0.18,10,0.19
+Russia,2021-11-01,Solar,0.09,11,0.09
+Russia,2021-12-01,Solar,0.05,12,0.05
+Russia,2022-01-01,Solar,0.06,1,0.05
+Russia,2022-02-01,Solar,0.12,2,0.12
+Russia,2022-03-01,Solar,0.23,3,0.22
+Russia,2022-04-01,Solar,0.26,4,0.29
+Russia,2022-05-01,Solar,0.31,5,0.36
+Russia,2022-06-01,Solar,0.33,6,0.42
+Russia,2022-07-01,Solar,0.32,7,0.39
+Russia,2022-08-01,Solar,0.33,8,0.39
+Russia,2022-09-01,Solar,0.23,9,0.27
+Slovenia,2016-01-01,Solar,0.01,1,0.83
+Slovenia,2016-02-01,Solar,0.01,2,0.84
+Slovenia,2016-03-01,Solar,0.02,3,1.52
+Slovenia,2016-04-01,Solar,0.03,4,2.46
+Slovenia,2016-05-01,Solar,0.04,5,3.01
+Slovenia,2016-06-01,Solar,0.04,6,2.8
+Slovenia,2016-07-01,Solar,0.04,7,2.78
+Slovenia,2016-08-01,Solar,0.04,8,3.05
+Slovenia,2016-09-01,Solar,0.03,9,2.48
+Slovenia,2016-10-01,Solar,0.02,10,2.33
+Slovenia,2016-11-01,Solar,0.01,11,0.79
+Slovenia,2016-12-01,Solar,0.01,12,0.74
+Slovenia,2017-01-01,Solar,0.01,1,0.78
+Slovenia,2017-02-01,Solar,0.01,2,0.88
+Slovenia,2017-03-01,Solar,0.03,3,2.33
+Slovenia,2017-04-01,Solar,0.03,4,2.73
+Slovenia,2017-05-01,Solar,0.03,5,2.44
+Slovenia,2017-06-01,Solar,0.03,6,2.68
+Slovenia,2017-07-01,Solar,0.04,7,3.13
+Slovenia,2017-08-01,Solar,0.04,8,3.15
+Slovenia,2017-09-01,Solar,0.02,9,1.49
+Slovenia,2017-10-01,Solar,0.02,10,1.67
+Slovenia,2017-11-01,Solar,0.01,11,0.81
+Slovenia,2017-12-01,Solar,0.01,12,0.75
+Slovenia,2018-01-01,Solar,0.01,1,0.75
+Slovenia,2018-02-01,Solar,0,2,0
+Slovenia,2018-03-01,Solar,0.01,3,0.71
+Slovenia,2018-04-01,Solar,0.03,4,3.06
+Slovenia,2018-05-01,Solar,0.03,5,2.34
+Slovenia,2018-06-01,Solar,0.03,6,2.63
+Slovenia,2018-07-01,Solar,0.03,7,2.42
+Slovenia,2018-08-01,Solar,0.03,8,2.46
+Slovenia,2018-09-01,Solar,0.03,9,2.44
+Slovenia,2018-10-01,Solar,0.02,10,1.56
+Slovenia,2018-11-01,Solar,0.01,11,0.68
+Slovenia,2018-12-01,Solar,0.01,12,0.85
+Slovenia,2019-01-01,Solar,0.01,1,0.85
+Slovenia,2019-02-01,Solar,0.02,2,1.65
+Slovenia,2019-03-01,Solar,0.02,3,1.71
+Slovenia,2019-04-01,Solar,0.02,4,1.68
+Slovenia,2019-05-01,Solar,0.02,5,1.47
+Slovenia,2019-06-01,Solar,0.03,6,2.22
+Slovenia,2019-07-01,Solar,0.03,7,2.27
+Slovenia,2019-08-01,Solar,0.03,8,2.68
+Slovenia,2019-09-01,Solar,0.02,9,1.89
+Slovenia,2019-10-01,Solar,0.02,10,2.56
+Slovenia,2019-11-01,Solar,0.01,11,0.68
+Slovenia,2019-12-01,Solar,0.01,12,0.7
+Slovenia,2020-01-01,Solar,0.01,1,0.84
+Slovenia,2020-02-01,Solar,0.02,2,1.9
+Slovenia,2020-03-01,Solar,0.02,3,1.75
+Slovenia,2020-04-01,Solar,0.03,4,2.86
+Slovenia,2020-05-01,Solar,0.03,5,2.52
+Slovenia,2020-06-01,Solar,0.03,6,2.22
+Slovenia,2020-07-01,Solar,0.04,7,2.78
+Slovenia,2020-08-01,Solar,0.03,8,2.24
+Slovenia,2020-09-01,Solar,0.03,9,2.17
+Slovenia,2020-10-01,Solar,0.02,10,1.16
+Slovenia,2020-11-01,Solar,0.01,11,0.72
+Slovenia,2020-12-01,Solar,0,12,0
+Slovenia,2021-01-01,Solar,0.01,1,0.7
+Slovenia,2021-02-01,Solar,0.02,2,1.55
+Slovenia,2021-03-01,Solar,0.03,3,2.27
+Slovenia,2021-04-01,Solar,0.02,4,2.74
+Slovenia,2021-05-01,Solar,0.03,5,2.26
+Slovenia,2021-06-01,Solar,0.04,6,3.23
+Slovenia,2021-07-01,Solar,0.04,7,3.51
+Slovenia,2021-08-01,Solar,0.03,8,2.33
+Slovenia,2021-09-01,Solar,0.03,9,2.88
+Slovenia,2021-10-01,Solar,0.02,10,1.77
+Slovenia,2021-11-01,Solar,0.01,11,0.82
+Slovenia,2021-12-01,Solar,0,12,0
+Slovenia,2022-01-01,Solar,0.01,1,0.83
+Slovenia,2022-02-01,Solar,0.02,2,1.94
+Slovenia,2022-03-01,Solar,0.03,3,2.46
+Slovenia,2022-04-01,Solar,0.03,4,2.78
+Slovenia,2022-05-01,Solar,0.03,5,2.61
+Slovenia,2022-06-01,Solar,0.04,6,3.6
+Slovenia,2022-07-01,Solar,0.03,7,3
+Slovenia,2022-08-01,Solar,0.03,8,3.03
+Slovenia,2022-09-01,Solar,0.02,9,2.02
+Slovenia,2022-10-01,Solar,0.02,10,4.26
+Slovenia,2022-11-01,Solar,0.01,11,1.41
+Slovenia,2022-12-01,Solar,0,12,0
+Slovenia,2023-01-01,Solar,0.01,1,0.88
+Slovenia,2023-02-01,Solar,0.01,2,1
+Slovenia,2023-03-01,Solar,0.02,3,1.79
+Slovenia,2023-04-01,Solar,0.03,4,2.73
+South Africa,2018-01-01,Solar,0.44,1,2.06
+South Africa,2018-02-01,Solar,0.36,2,1.84
+South Africa,2018-03-01,Solar,0.34,3,1.58
+South Africa,2018-04-01,Solar,0.31,4,1.52
+South Africa,2018-05-01,Solar,0.3,5,1.35
+South Africa,2018-06-01,Solar,0.27,6,1.23
+South Africa,2018-07-01,Solar,0.27,7,1.19
+South Africa,2018-08-01,Solar,0.33,8,1.5
+South Africa,2018-09-01,Solar,0.36,9,1.72
+South Africa,2018-10-01,Solar,0.41,10,1.87
+South Africa,2018-11-01,Solar,0.44,11,2.07
+South Africa,2018-12-01,Solar,0.47,12,2.3
+South Africa,2019-01-01,Solar,0.51,1,2.44
+South Africa,2019-02-01,Solar,0.39,2,2.03
+South Africa,2019-03-01,Solar,0.43,3,2.05
+South Africa,2019-04-01,Solar,0.35,4,1.69
+South Africa,2019-05-01,Solar,0.31,5,1.4
+South Africa,2019-06-01,Solar,0.3,6,1.37
+South Africa,2019-07-01,Solar,0.31,7,1.37
+South Africa,2019-08-01,Solar,0.39,8,1.81
+South Africa,2019-09-01,Solar,0.44,9,2.12
+South Africa,2019-10-01,Solar,0.49,10,2.27
+South Africa,2019-11-01,Solar,0.49,11,2.37
+South Africa,2019-12-01,Solar,0.47,12,2.39
+South Africa,2020-01-01,Solar,0.51,1,2.5
+South Africa,2020-02-01,Solar,0.39,2,2.01
+South Africa,2020-03-01,Solar,0.44,3,2.19
+South Africa,2020-04-01,Solar,0.4,4,2.5
+South Africa,2020-05-01,Solar,0.41,5,2.14
+South Africa,2020-06-01,Solar,0.35,6,1.69
+South Africa,2020-07-01,Solar,0.37,7,1.72
+South Africa,2020-08-01,Solar,0.47,8,2.24
+South Africa,2020-09-01,Solar,0.53,9,2.63
+South Africa,2020-10-01,Solar,0.58,10,2.76
+South Africa,2020-11-01,Solar,0.65,11,3.23
+South Africa,2020-12-01,Solar,0.67,12,3.38
+South Africa,2021-01-01,Solar,0.58,1,2.93
+South Africa,2021-02-01,Solar,0.57,2,3.07
+South Africa,2021-03-01,Solar,0.6,3,2.93
+South Africa,2021-04-01,Solar,0.5,4,2.49
+South Africa,2021-05-01,Solar,0.47,5,2.19
+South Africa,2021-06-01,Solar,0.39,6,1.83
+South Africa,2021-07-01,Solar,0.46,7,2.07
+South Africa,2021-08-01,Solar,0.48,8,2.24
+South Africa,2021-09-01,Solar,0.6,9,2.98
+South Africa,2021-10-01,Solar,0.67,10,3.31
+South Africa,2021-11-01,Solar,0.73,11,3.76
+South Africa,2021-12-01,Solar,0.67,12,3.5
+South Africa,2022-01-01,Solar,0.64,1,3.27
+South Africa,2022-02-01,Solar,0.56,2,3.03
+South Africa,2022-03-01,Solar,0.5,3,2.47
+South Africa,2022-04-01,Solar,0.5,4,2.59
+South Africa,2022-05-01,Solar,0.44,5,2.14
+South Africa,2022-06-01,Solar,0.35,6,1.71
+South Africa,2022-07-01,Solar,0.4,7,1.95
+South Africa,2022-08-01,Solar,0.51,8,2.44
+South Africa,2022-09-01,Solar,0.52,9,2.81
+South Africa,2022-10-01,Solar,0.55,10,2.82
+South Africa,2022-11-01,Solar,0.63,11,3.31
+South Africa,2022-12-01,Solar,0.68,12,3.88
+South Africa,2023-01-01,Solar,0.67,1,3.72
+South Africa,2023-02-01,Solar,0.59,2,3.53
+Sweden,2015-01-01,Solar,0,1,0
+Sweden,2015-02-01,Solar,0,2,0
+Sweden,2015-03-01,Solar,0,3,0
+Sweden,2015-04-01,Solar,0,4,0
+Sweden,2015-05-01,Solar,0,5,0
+Sweden,2015-06-01,Solar,0,6,0
+Sweden,2015-07-01,Solar,0,7,0
+Sweden,2015-08-01,Solar,0,8,0
+Sweden,2015-09-01,Solar,0,9,0
+Sweden,2015-10-01,Solar,0,10,0
+Sweden,2015-11-01,Solar,0,11,0
+Sweden,2015-12-01,Solar,0,12,0
+Sweden,2016-01-01,Solar,0,1,0
+Sweden,2016-02-01,Solar,0,2,0
+Sweden,2016-03-01,Solar,0,3,0
+Sweden,2016-04-01,Solar,0,4,0
+Sweden,2016-05-01,Solar,0,5,0
+Sweden,2016-06-01,Solar,0,6,0
+Sweden,2016-07-01,Solar,0,7,0
+Sweden,2016-08-01,Solar,0,8,0
+Sweden,2016-09-01,Solar,0,9,0
+Sweden,2016-10-01,Solar,0,10,0
+Sweden,2016-11-01,Solar,0,11,0
+Sweden,2016-12-01,Solar,0,12,0
+Sweden,2017-01-01,Solar,0,1,0
+Sweden,2017-02-01,Solar,0,2,0
+Sweden,2017-03-01,Solar,0,3,0
+Sweden,2017-04-01,Solar,0,4,0
+Sweden,2017-05-01,Solar,0,5,0
+Sweden,2017-06-01,Solar,0,6,0
+Sweden,2017-07-01,Solar,0,7,0
+Sweden,2017-08-01,Solar,0,8,0
+Sweden,2017-09-01,Solar,0,9,0
+Sweden,2017-10-01,Solar,0,10,0
+Sweden,2017-11-01,Solar,0,11,0
+Sweden,2017-12-01,Solar,0,12,0
+Sweden,2018-01-01,Solar,0,1,0
+Sweden,2018-02-01,Solar,0,2,0
+Sweden,2018-03-01,Solar,0,3,0
+Sweden,2018-04-01,Solar,0,4,0
+Sweden,2018-05-01,Solar,0,5,0
+Sweden,2018-06-01,Solar,0,6,0
+Sweden,2018-07-01,Solar,0,7,0
+Sweden,2018-08-01,Solar,0,8,0
+Sweden,2018-09-01,Solar,0,9,0
+Sweden,2018-10-01,Solar,0,10,0
+Sweden,2018-11-01,Solar,0,11,0
+Sweden,2018-12-01,Solar,0,12,0
+Sweden,2019-01-01,Solar,0,1,0
+Sweden,2019-02-01,Solar,0,2,0
+Sweden,2019-03-01,Solar,0,3,0
+Sweden,2019-04-01,Solar,0,4,0
+Sweden,2019-05-01,Solar,0,5,0
+Sweden,2019-06-01,Solar,0,6,0
+Sweden,2019-07-01,Solar,0,7,0
+Sweden,2019-08-01,Solar,0,8,0
+Sweden,2019-09-01,Solar,0,9,0
+Sweden,2019-10-01,Solar,0,10,0
+Sweden,2019-11-01,Solar,0,11,0
+Sweden,2019-12-01,Solar,0,12,0
+Sweden,2020-01-01,Solar,0,1,0
+Sweden,2020-02-01,Solar,0,2,0
+Sweden,2020-03-01,Solar,0,3,0
+Sweden,2020-04-01,Solar,0,4,0
+Sweden,2020-05-01,Solar,0,5,0
+Sweden,2020-06-01,Solar,0,6,0
+Sweden,2020-07-01,Solar,0,7,0
+Sweden,2020-08-01,Solar,0,8,0
+Sweden,2020-09-01,Solar,0,9,0
+Sweden,2020-10-01,Solar,0,10,0
+Sweden,2020-11-01,Solar,0,11,0
+Sweden,2020-12-01,Solar,0,12,0
+Sweden,2021-01-01,Solar,0,1,0
+Sweden,2021-02-01,Solar,0,2,0
+Sweden,2021-03-01,Solar,0,3,0
+Sweden,2021-04-01,Solar,0,4,0
+Sweden,2021-05-01,Solar,0,5,0
+Sweden,2021-06-01,Solar,0,6,0
+Sweden,2021-07-01,Solar,0,7,0
+Sweden,2021-08-01,Solar,0,8,0
+Sweden,2021-09-01,Solar,0,9,0
+Sweden,2021-10-01,Solar,0,10,0
+Sweden,2021-11-01,Solar,0,11,0
+Sweden,2021-12-01,Solar,0,12,0
+Sweden,2022-01-01,Solar,0,1,0
+Sweden,2022-02-01,Solar,0.01,2,0.07
+Sweden,2022-03-01,Solar,0.06,3,0.39
+Sweden,2022-04-01,Solar,0.09,4,0.67
+Sweden,2022-05-01,Solar,0.13,5,1.04
+Sweden,2022-06-01,Solar,0.14,6,1.22
+Sweden,2022-07-01,Solar,0.14,7,1.12
+Sweden,2022-08-01,Solar,0.13,8,1.05
+Sweden,2022-09-01,Solar,0.07,9,0.6
+Sweden,2022-10-01,Solar,0.03,10,0.24
+Sweden,2022-11-01,Solar,0.01,11,0.07
+Sweden,2022-12-01,Solar,0,12,0
+Sweden,2023-01-01,Solar,0,1,0
+Sweden,2023-02-01,Solar,0.02,2,0.14
+Sweden,2023-03-01,Solar,0.06,3,0.4
+Sweden,2023-04-01,Solar,0.14,4,1.11
+Switzerland,2017-01-01,Solar,0,1,0
+Switzerland,2017-02-01,Solar,0.02,2,1.06
+Switzerland,2017-03-01,Solar,0.04,3,1.45
+Switzerland,2017-04-01,Solar,0.05,4,1.87
+Switzerland,2017-05-01,Solar,0.06,5,2.14
+Switzerland,2017-06-01,Solar,0.06,6,2.55
+Switzerland,2017-07-01,Solar,0.06,7,2
+Switzerland,2017-08-01,Solar,0.05,8,1.79
+Switzerland,2017-09-01,Solar,0.04,9,1.9
+Switzerland,2017-10-01,Solar,0.03,10,1.57
+Switzerland,2017-11-01,Solar,0.01,11,0.43
+Switzerland,2017-12-01,Solar,0.01,12,0.4
+Switzerland,2018-01-01,Solar,0.01,1,0.36
+Switzerland,2018-02-01,Solar,0.01,2,0.34
+Switzerland,2018-03-01,Solar,0.02,3,0.69
+Switzerland,2018-04-01,Solar,0.05,4,1.71
+Switzerland,2018-05-01,Solar,0.05,5,1.49
+Switzerland,2018-06-01,Solar,0.04,6,1.37
+Switzerland,2018-07-01,Solar,0.05,7,1.39
+Switzerland,2018-08-01,Solar,0.04,8,1.12
+Switzerland,2018-09-01,Solar,0.04,9,1.44
+Switzerland,2018-10-01,Solar,0.02,10,0.78
+Switzerland,2018-11-01,Solar,0.01,11,0.3
+Switzerland,2018-12-01,Solar,0.01,12,0.3
+Switzerland,2019-01-01,Solar,0.01,1,0.27
+Switzerland,2019-02-01,Solar,0.02,2,0.68
+Switzerland,2019-03-01,Solar,0.04,3,1.34
+Switzerland,2019-04-01,Solar,0.04,4,1.31
+Switzerland,2019-05-01,Solar,0.05,5,1.69
+Switzerland,2019-06-01,Solar,0.06,6,2.51
+Switzerland,2019-07-01,Solar,0.06,7,1.48
+Switzerland,2019-08-01,Solar,0.05,8,1.27
+Switzerland,2019-09-01,Solar,0.04,9,1.19
+Switzerland,2019-10-01,Solar,0.02,10,0.56
+Switzerland,2019-11-01,Solar,0.01,11,0.28
+Switzerland,2019-12-01,Solar,0,12,0
+Switzerland,2020-01-01,Solar,0.06,1,1.58
+Switzerland,2020-02-01,Solar,0.1,2,3.12
+Switzerland,2020-03-01,Solar,0.21,3,6.23
+Switzerland,2020-04-01,Solar,0.29,4,9.7
+Switzerland,2020-05-01,Solar,0.33,5,10.09
+Switzerland,2020-06-01,Solar,0.31,6,10.06
+Switzerland,2020-07-01,Solar,0.36,7,11.29
+Switzerland,2020-08-01,Solar,0.28,8,8.36
+Switzerland,2020-09-01,Solar,0.22,9,6.21
+Switzerland,2020-10-01,Solar,0.12,10,3.52
+Switzerland,2020-11-01,Solar,0.06,11,1.77
+Switzerland,2020-12-01,Solar,0.03,12,0.92
+Switzerland,2021-01-01,Solar,0.04,1,1.1
+Switzerland,2021-02-01,Solar,0.1,2,3.23
+Switzerland,2021-03-01,Solar,0.22,3,6.61
+Switzerland,2021-04-01,Solar,0.33,4,10.75
+Switzerland,2021-05-01,Solar,0.33,5,11.91
+Switzerland,2021-06-01,Solar,0.38,6,15.57
+Switzerland,2021-07-01,Solar,0.33,7,10.68
+Switzerland,2021-08-01,Solar,0.3,8,10.87
+Switzerland,2021-09-01,Solar,0.25,9,10.55
+Switzerland,2021-10-01,Solar,0.15,10,6.73
+Switzerland,2021-11-01,Solar,0.06,11,2.55
+Switzerland,2021-12-01,Solar,0.03,12,1
+Switzerland,2022-01-01,Solar,0.07,1,2.19
+Switzerland,2022-02-01,Solar,0.11,2,4.06
+Switzerland,2022-03-01,Solar,0.14,3,4.76
+Switzerland,2022-04-01,Solar,0.12,4,4.23
+Switzerland,2022-05-01,Solar,0.4,5,13.38
+Switzerland,2022-06-01,Solar,0.35,6,15.28
+Switzerland,2022-07-01,Solar,0.44,7,12.68
+Switzerland,2022-08-01,Solar,0.32,8,9.07
+Switzerland,2022-09-01,Solar,0.17,9,5.45
+Switzerland,2022-10-01,Solar,0.12,10,4.03
+Switzerland,2022-11-01,Solar,0.07,11,2.64
+Switzerland,2022-12-01,Solar,0.02,12,0.67
+Switzerland,2023-01-01,Solar,0,1,0
+Switzerland,2023-02-01,Solar,0,2,0
+Switzerland,2023-03-01,Solar,0.26,3,7.78
+Switzerland,2023-04-01,Solar,0.34,4,10.93
+Taiwan,2015-01-01,Solar,0.04,1,0.2
+Taiwan,2015-02-01,Solar,0.06,2,0.35
+Taiwan,2015-03-01,Solar,0.05,3,0.25
+Taiwan,2015-04-01,Solar,0.07,4,0.35
+Taiwan,2015-05-01,Solar,0.08,5,0.36
+Taiwan,2015-06-01,Solar,0.1,6,0.42
+Taiwan,2015-07-01,Solar,0.08,7,0.33
+Taiwan,2015-08-01,Solar,0.1,8,0.43
+Taiwan,2015-09-01,Solar,0.06,9,0.28
+Taiwan,2015-10-01,Solar,0.08,10,0.37
+Taiwan,2015-11-01,Solar,0.08,11,0.39
+Taiwan,2015-12-01,Solar,0.06,12,0.3
+Taiwan,2016-01-01,Solar,0.07,1,0.35
+Taiwan,2016-02-01,Solar,0.05,2,0.29
+Taiwan,2016-03-01,Solar,0.06,3,0.3
+Taiwan,2016-04-01,Solar,0.08,4,0.39
+Taiwan,2016-05-01,Solar,0.09,5,0.39
+Taiwan,2016-06-01,Solar,0.13,6,0.55
+Taiwan,2016-07-01,Solar,0.12,7,0.48
+Taiwan,2016-08-01,Solar,0.12,8,0.48
+Taiwan,2016-09-01,Solar,0.12,9,0.54
+Taiwan,2016-10-01,Solar,0.09,10,0.39
+Taiwan,2016-11-01,Solar,0.08,11,0.39
+Taiwan,2016-12-01,Solar,0.11,12,0.53
+Taiwan,2017-01-01,Solar,0.08,1,0.4
+Taiwan,2017-02-01,Solar,0.1,2,0.55
+Taiwan,2017-03-01,Solar,0.11,3,0.53
+Taiwan,2017-04-01,Solar,0.14,4,0.68
+Taiwan,2017-05-01,Solar,0.15,5,0.66
+Taiwan,2017-06-01,Solar,0.16,6,0.67
+Taiwan,2017-07-01,Solar,0.17,7,0.67
+Taiwan,2017-08-01,Solar,0.18,8,0.69
+Taiwan,2017-09-01,Solar,0.16,9,0.65
+Taiwan,2017-10-01,Solar,0.16,10,0.69
+Taiwan,2017-11-01,Solar,0.14,11,0.66
+Taiwan,2017-12-01,Solar,0.13,12,0.62
+Taiwan,2018-01-01,Solar,0.11,1,0.52
+Taiwan,2018-02-01,Solar,0.12,2,0.65
+Taiwan,2018-03-01,Solar,0.18,3,0.84
+Taiwan,2018-04-01,Solar,0.21,4,0.99
+Taiwan,2018-05-01,Solar,0.25,5,1.01
+Taiwan,2018-06-01,Solar,0.27,6,1.11
+Taiwan,2018-07-01,Solar,0.26,7,1.06
+Taiwan,2018-08-01,Solar,0.29,8,1.13
+Taiwan,2018-09-01,Solar,0.27,9,1.13
+Taiwan,2018-10-01,Solar,0.28,10,1.24
+Taiwan,2018-11-01,Solar,0.25,11,1.1
+Taiwan,2018-12-01,Solar,0.24,12,1.12
+Taiwan,2019-01-01,Solar,0.2,1,0.94
+Taiwan,2019-02-01,Solar,0.25,2,1.37
+Taiwan,2019-03-01,Solar,0.27,3,1.26
+Taiwan,2019-04-01,Solar,0.29,4,1.34
+Taiwan,2019-05-01,Solar,0.34,5,1.46
+Taiwan,2019-06-01,Solar,0.35,6,1.46
+Taiwan,2019-07-01,Solar,0.38,7,1.45
+Taiwan,2019-08-01,Solar,0.4,8,1.54
+Taiwan,2019-09-01,Solar,0.4,9,1.72
+Taiwan,2019-10-01,Solar,0.42,10,1.82
+Taiwan,2019-11-01,Solar,0.38,11,1.79
+Taiwan,2019-12-01,Solar,0.32,12,1.49
+Taiwan,2020-01-01,Solar,0.3,1,1.47
+Taiwan,2020-02-01,Solar,0.44,2,2.18
+Taiwan,2020-03-01,Solar,0.46,3,2.11
+Taiwan,2020-04-01,Solar,0.49,4,2.36
+Taiwan,2020-05-01,Solar,0.52,5,2.2
+Taiwan,2020-06-01,Solar,0.55,6,2.2
+Taiwan,2020-07-01,Solar,0.62,7,2.31
+Taiwan,2020-08-01,Solar,0.58,8,2.23
+Taiwan,2020-09-01,Solar,0.55,9,2.24
+Taiwan,2020-10-01,Solar,0.6,10,2.58
+Taiwan,2020-11-01,Solar,0.58,11,2.61
+Taiwan,2020-12-01,Solar,0.4,12,1.79
+Taiwan,2021-01-01,Solar,0.4,1,1.81
+Taiwan,2021-02-01,Solar,0.4,2,2.12
+Taiwan,2021-03-01,Solar,0.55,3,2.44
+Taiwan,2021-04-01,Solar,0.66,4,2.96
+Taiwan,2021-05-01,Solar,0.77,5,2.97
+Taiwan,2021-06-01,Solar,0.67,6,2.63
+Taiwan,2021-07-01,Solar,0.84,7,3.07
+Taiwan,2021-08-01,Solar,0.68,8,2.56
+Taiwan,2021-09-01,Solar,0.8,9,3.06
+Taiwan,2021-10-01,Solar,0.89,10,3.52
+Taiwan,2021-11-01,Solar,0.68,11,3.01
+Taiwan,2021-12-01,Solar,0.61,12,2.7
+Taiwan,2022-01-01,Solar,0.49,1,2.21
+Taiwan,2022-02-01,Solar,0.56,2,2.84
+Taiwan,2022-03-01,Solar,0.64,3,2.82
+Taiwan,2022-04-01,Solar,0.86,4,3.79
+Taiwan,2022-05-01,Solar,0.88,5,3.64
+Taiwan,2022-06-01,Solar,0.83,6,3.27
+Taiwan,2022-07-01,Solar,1.18,7,4.24
+Taiwan,2022-08-01,Solar,1.03,8,3.79
+Taiwan,2022-09-01,Solar,1.17,9,4.77
+Taiwan,2022-10-01,Solar,1.12,10,4.69
+Taiwan,2022-11-01,Solar,0.9,11,3.99
+Taiwan,2022-12-01,Solar,1.01,12,4.54
+Taiwan,2023-01-01,Solar,0.62,1,3.07
+Taiwan,2023-02-01,Solar,0.8,2,4.1
+Taiwan,2023-03-01,Solar,0.88,3,4.03
+Thailand,2019-01-01,Solar,0.42,1,2.87
+Thailand,2019-02-01,Solar,0.41,2,2.86
+Thailand,2019-03-01,Solar,0.47,3,2.79
+Thailand,2019-04-01,Solar,0.47,4,2.84
+Thailand,2019-05-01,Solar,0.44,5,2.52
+Thailand,2019-06-01,Solar,0.46,6,2.82
+Thailand,2019-07-01,Solar,0.44,7,2.72
+Thailand,2019-08-01,Solar,0.35,8,2.36
+Thailand,2019-09-01,Solar,0.39,9,2.72
+Thailand,2019-10-01,Solar,0.47,10,2.99
+Thailand,2019-11-01,Solar,0.43,11,2.78
+Thailand,2019-12-01,Solar,0.46,12,3.32
+Thailand,2020-01-01,Solar,0.43,1,2.79
+Thailand,2020-02-01,Solar,0.43,2,2.93
+Thailand,2020-03-01,Solar,0.47,3,2.83
+Thailand,2020-04-01,Solar,0.45,4,3.04
+Thailand,2020-05-01,Solar,0.45,5,2.82
+Thailand,2020-06-01,Solar,0.42,6,2.82
+Thailand,2020-07-01,Solar,0.44,7,2.85
+Thailand,2020-08-01,Solar,0.33,8,2.34
+Thailand,2020-09-01,Solar,0.32,9,2.29
+Thailand,2020-10-01,Solar,0.32,10,2.37
+Thailand,2020-11-01,Solar,0.43,11,3.1
+Thailand,2020-12-01,Solar,0.46,12,3.47
+Thailand,2021-01-01,Solar,0.39,1,2.9
+Thailand,2021-02-01,Solar,0.26,2,1.88
+Thailand,2021-03-01,Solar,0.45,3,2.7
+Thailand,2021-04-01,Solar,0.16,4,1.06
+Thailand,2021-05-01,Solar,0.17,5,1.04
+Thailand,2021-06-01,Solar,0.41,6,2.69
+Thailand,2021-07-01,Solar,0.39,7,2.69
+Thailand,2021-08-01,Solar,0.41,8,2.89
+Thailand,2021-09-01,Solar,0.36,9,2.62
+Thailand,2021-10-01,Solar,0.38,10,2.53
+Thailand,2021-11-01,Solar,0.4,11,2.72
+Thailand,2021-12-01,Solar,0.52,12,3.82
+Thailand,2022-01-01,Solar,0.48,1,3.27
+Thailand,2022-02-01,Solar,0.39,2,2.75
+Thailand,2022-03-01,Solar,0.47,3,2.8
+Thailand,2022-04-01,Solar,0.46,4,2.98
+Thailand,2022-05-01,Solar,0.4,5,2.54
+Thailand,2022-06-01,Solar,0.44,6,2.83
+Thailand,2022-07-01,Solar,0.43,7,2.86
+Thailand,2022-08-01,Solar,0.38,8,2.56
+Thailand,2022-09-01,Solar,0.34,9,2.38
+Thailand,2022-10-01,Solar,0.4,10,2.79
+Thailand,2022-11-01,Solar,0.41,11,2.67
+Thailand,2022-12-01,Solar,0.43,12,3.08
+Thailand,2023-01-01,Solar,0.46,1,3.34
+Thailand,2023-02-01,Solar,0.42,2,2.93
