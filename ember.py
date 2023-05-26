@@ -29,13 +29,13 @@ def data_frame_demo():
                 .mark_bar(color='yellow')
                 .encode(
                     x="date:T",
-                    y=alt.Y("generation_twh:Q", stack=None),
-                    tooltip=['date:T', 'generation_twh', 'generation_pct'],
+                    y=alt.Y("generation_pct:Q", stack=None),
+                    tooltip=['date:T', 'generation_pct', 'generation_twh'],
                 )
             )
             st.altair_chart(chart)
 
-            st.write("### Solarpower Production (TWh)", data.sort_index())
+            st.write("### Electricity Generation - Solarpower Percentage (%)", data.sort_index())
 
     except URLError as e:
         st.error(
