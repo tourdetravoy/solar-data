@@ -10,7 +10,7 @@ from urllib.error import URLError
 def data_frame_demo():
     @st.experimental_memo
     def get_ember_data():
-        df = pd.read_csv("C:/Code/embersolar.csv")
+        df = pd.read_csv("embersolar.csv")
         return df.set_index("country_or_region")
 
     try:
