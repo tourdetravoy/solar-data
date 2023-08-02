@@ -26,7 +26,7 @@ def data_frame_demo():
 
             chart = (
                 alt.Chart(data, width=1200, height=600)
-                .mark_bar(color='yellow')
+                .mark_bar(color='orange')
                 .encode(
                     x="date:T",
                     y=alt.Y("generation_pct:Q", stack=None),
